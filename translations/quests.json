@@ -1,0 +1,1733 @@
+{
+  "_comment": "ФОРМАТ: Квест -> { 'фраза как в игре': 'перевод' }",
+
+  "Enzan's Brother": {
+    "Enzan's Brother": "Брат Энзана",
+    "Talk to Enzan close to the exit of Ragni at {coords}": "Поговорите с Энзаном у выхода из Рагни в {coords}.",
+    "Find Enzan's brother near the Item Identifier on the Emerald Trail at {coords}": "Найдите брата Энзана рядом с Идентификатором Предметов на Изумрудной Тропе в {coords}.",
+    "Descend into the cave at {coords} and bring [1 Energy Mushroom] to Therck": "Спуститесь в пещеру в {coords} и принесите [1 Энергетический Гриб] Терку"
+  },
+
+  "King's Recruit": {
+    "King's Recruit": "Рекрут Короля",
+    "Awaken": "Проснитесь",
+    "Exit the caravan and talk to the Caravan Driver at {coords}": "Выйдите из каравана и поговорите с Водителем Каравана в {coords}.",
+    "Walk down the path towards the gate to the Wynn Province at {coords}": "Идите по дороге к воротам в Провинцию Винн в {coords}.",
+    "Enter the Province of Wynn at {coords}": "Войдите в Провинцию Винн в {coords}.",
+    "Continue through the Wynn Province to the castle": "Продолжайте через Провинцию Винн к замку",
+    "Talk to the Soldier at {coords}": "Поговорите с Солдатом в {coords}.",
+    "Cross the bridge at {coords}": "Перейдите мост в {coords}.",
+    "Search for another way across the ravine at {coords}": "Найдите другой путь через овраг в {coords}.",
+    "Continue onwards to {coords}": "Продолжайте движение к {coords}.",
+    "Talk to the Guard at {coords}": "Поговорите со Стражником в {coords}.",
+    "Enter the cave and find some armour at {coords}": "Войдите в пещеру и найдите броню в {coords}.",
+    "Enter the underpass at {coords}": "Войдите в подземный переход в {coords}.",
+    "Continue through the underpass to {coords}": "Продолжайте через подземный переход к {coords}.",
+    "Defeat the Skeleton!": "Победите Скелета!",
+    "Talk to the Lieutenant at {coords}": "Поговорите с Лейтенантом в {coords}.",
+    "Chase the Goliath to {coords}!": "Преследуйте Голиафа к {coords}!",
+    "Defeat the Goliath and free the Lieutenant": "Победите Голиафа и освободите Лейтенанта.",
+    "Pick up the loot dropped by the Goliath": "Подберите добычу, сброшенную Голиафом.",
+    "Enter the castle at {coords}": "Войдите в замок в {coords}.",
+    "Talk to Ragni's King at {coords}": "Поговорите с Королём Рагни в {coords}."
+  },
+
+  "Dearly Departed": {
+    "Dearly Departed": "Безвременно ушедший",
+    "Talk to Farmer Cevalus at {coords}": "Поговорите с Фермером Цевалусом в {coords}",
+    "Pick up the shovel at {coords}": "Возьми лопату в {coords}",
+    "Return to Farmer Cevalus at {coords}": "Вернуться к фермеру Цевалусу {coords}",
+    "Dig up the grave at {coords}": "Раскопай могилу на {coords}",
+	"Kill the Corrupted Father-in-Law!": "Убейте продажного тестя!"
+  },
+
+  "Cook Assistant": {
+    "Cook Assistant": "Помощник Повара",
+    "Talk to the Cook in Ragni at {coords}": "Поговорите с Поваром в Рагни в {coords}.",
+    "Follow the pesky Grook.": "Следуйте за надоедливым Груком.",
+    "Find where the Grook flew up to at {coords}": "Найди, куда взлетел Грук на {coords}.",
+    "Return to the cook at {coords} Use a Scroll to get there faster": "Вернитесь к повару на {coords}. Используйте свиток, чтобы добраться туда быстрее."
+  },
+
+  "Infested Plants": {
+    "Infested Plants": "Заражённые Растения",
+    "Meet up with Tasim at the entrance to Nivla Woods at {coords}.": "Встретьтесь с Тасимом у входа в Лес Нивла в {coords}.",
+    "Follow Ope to the cave at {coords}.": "Следуйте за Оупом к пещере в {coords}.",
+    "Locate the medicine in the spider cave behind Ope at {coords}.": "Найдите лекарство в паучьей пещере позади Оупа в {coords}.",
+    "Exit the cave at {coords} with the medicinal herb.": "Выйдите из пещеры в {coords} с лечебной травой.",
+    "Speak to Mayor Alvin in Alekin Village at {coords}.": "Поговорите с Мэром Алвином в деревне Алекин в {coords}."
+  },
+
+  "Mushroom Man": {
+    "Mushroom Man": "Грибной Человек",
+    "Talk to Tasim in Alekin Village at {coords}": "Поговорите с Тасимом в деревне Алекин в {coords}.",
+    "Speak to the strange man at {coords}": "Поговорите со странным человеком в {coords}.",
+    "Follow Yahya to his infested mushroom patch at {coords}": "Следуйте за Яхьей к его заражённой грибной поляне в {coords}.",
+    "Clear out the spiders from Yahya's favorite mushroom patch at {coords}, then return and talk to Yahya": "Очистите любимую грибную поляну Яхьи от пауков в {coords}, затем вернитесь и поговорите с Яхьей.",
+    "Return to Mayor Alvin at {coords} with news about the spiders": "Вернитесь к Мэру Алвину в {coords} с новостями о пауках.",
+    "Travel to Detlas to request the help of their military at {coords}": "Отправьтесь в Детлас за помощью их армии в {coords}."
+  },
+
+  "Elemental Exercise": {
+    "Elemental Exercise": "Элементальное Упражнение",
+    "Talk to Captain Ragon in the Detlas Barracks at {coords}": "Поговорите с Капитаном Рагоном в Казармах Детласа в {coords}.",
+    "Follow Captain Ragon to the Training Room at {coords}": "Следуйте за Капитаном Рагоном в Тренировочный Зал в {coords}.",
+    "Test out the elemental training weapons on the dummies, then speak to Captain Ragon at {coords}": "Испытайте элементальное тренировочное оружие на манекенах, затем поговорите с Капитаном Рагоном в {coords}.",
+    "Return to Tasim at {coords} for a duel": "Вернитесь к Тасиму в {coords} для дуэли.",
+    "Fight Tasim in a friendly duel": "Сразитесь с Тасимом в дружеском поединке.",
+    "Speak to Captain Ragon at {coords}": "Поговорите с Капитаном Рагоном в {coords}.",
+    "Follow Captain Ragon to Detlas' north gate at {coords} to face the undead forces": "Следуйте за Капитаном Рагоном к северным воротам Детласа в {coords} для сражения с нежитью.",
+    "Defeat the Corrupted Captain and the force threatening Detlas": "Победите Порченого Капитана и силы, угрожающие Детласу.",
+    "Return to the Detlas Barracks and talk to Captain Ragon at {coords}": "Вернитесь в Казармы Детласа и поговорите с Капитаном Рагоном в {coords}."
+  },
+
+  "Underwater": {
+    "Underwater": "Под Водой",
+    "Talk to Omango located at the North of Maltic at {coords}": "Поговорите с Оманго к северу от Малтика в {coords}",
+    "Go through the cave at {coords} to find Sayrr on his boat on the other side": "Пройдите через пещеру в {coords}, чтобы найти Сайра на его лодке на другой стороне",
+    "Bring back [10 Gudgeon Meat] found in the cave at {coords} to Sayrr": "Принесите [10 Мясо Пескаря], найденное в пещере в {coords}, Сайру",
+    "Explore the crashed ship for a lost treasure at {coords}": "Исследуйте разбитый корабль в поисках потерянного сокровища в {coords}",
+    "Break the crate and bring [4 Old Treasure] to Omango at {coords}": "Разбейте ящик и принесите [4 Старое Сокровище] Оманго в {coords}"
+  },
+
+  "Dwelling Walls": {
+    "Dwelling Walls": "Жилые Стены",
+    "Talk to Leucsaa at {coords}": "Поговорите с Лейксаа в {coords}",
+    "Enter the mansion {coords}": "Войдите в особняк {coords}",
+    "Navigate the mansion to the room holding the journal": "Найдите путь через особняк к комнате с дневником",
+    "Talk to Leucsaa": "Поговорите с Лейксаа"
+  },
+
+  "Creeper Infiltration": {
+    "Creeper Infiltration": "Проникновение Криперов",
+    "Talk to Thomas in Tempo Town at {coords}.": "Поговорите с Томасом в Темпо-Тауне в {coords}.",
+    "Enter the tunnel at {coords} and reach the top of the ravine": "Войдите в туннель в {coords} и доберитесь до вершины оврага",
+    "Bring back the [Creeper Skin] to Thomas at {coords}": "Принесите [Кожу Крипера] Томасу в {coords}",
+    "Retrieve [1 Pigman Hide] from the Pigman Overlord near {coords} and return to Thomas": "Получите [1 Шкуру Свинолюда] от Повелителя Свинолюдей рядом с {coords} и вернитесь к Томасу",
+    "Buy the creeper mask from the merchant and enter the creeper hideout at {coords}": "Купите маску крипера у торговца и войдите в убежище криперов в {coords}",
+    "Bring Thomas [1 Creeper Powder] to prove him creepers exist in Wynn at {coords}": "Принесите Томасу [1 Порошок Крипера], чтобы доказать ему, что криперы существуют в Винн, в {coords}"
+  },
+
+  "The Sewers of Ragni": {
+    "The Sewers of Ragni": "Канализация Рагни",
+    "The Lieutenant at {coords} needs help.": "Лейтенант в {coords} нуждается в помощи.",
+    "Enter the sewer at {coords} and find the blockage.": "Войдите в канализацию в {coords} и найдите засор.",
+    "Explore the sewer and find the blockage.": "Исследуйте канализацию и найдите засор.",
+    "Find a way to fix the blockage.": "Найдите способ устранить засор.",
+    "Find a way out of the spooky sewer.": "Найдите выход из жуткой канализации.",
+    "Talk to Jenprest at {coords}": "Поговорите с Дженпрестом в {coords}"
+  },
+
+  "Potion Making": {
+    "Potion Making": "Зельеварение",
+    "Talk to The Assistant in Detlas at {coords}": "Поговорите с Ассистентом в Детласе в {coords}",
+    "Bring back [8 Red Mushrooms] to The Assistant in Detlas": "Принесите [8 Красных Грибов] Ассистенту в Детласе",
+    "Enter the hut at {coords}, slay Essren, and take his coat": "Войдите в хижину на {coords}, убейте Эссрена и заберите его пальто",
+    "Bring back Essren's Dusty Coat to The Assistant in Detlas": "Принесите Пыльный Плащ Эссрена Ассистенту в Детласе"
+  },
+
+  "Arachnids' Ascent": {
+    "Arachnids' Ascent": "Восхождение Арахнидов",
+    "Talk to Admiral Aegis in the Detlas Barracks at {coords}.": "Поговорите с Адмиралом Эгидой в Казармах Детласа в {coords}.",
+    "Speak to Private Cob in the Savannah at {coords} to receive supplies.": "Поговорите с Рядовым Кобом в Саванне в {coords}, чтобы получить припасы.",
+    "Bring the supplies to Captain Enduyn at {coords}.": "Принесите припасы Капитану Эндуйну в {coords}.",
+    "Decide who to bring with you into Mount Wynn at {coords}.": "Решите, кого взять с собой в Гору Винн в {coords}.",
+    "Enter Mount Wynn and reach the summit through the cave at {coords}.": "Войдите в Гору Винн и достигните вершины через пещеру в {coords}.",
+    "Return to Captain Enduyn with the flame at {coords}.": "Вернитесь к Капитану Эндуйну с пламенем в {coords}."
+  },
+
+  "The Dark Descent": {
+    "The Dark Descent": "Тёмный Спуск",
+    "Talk to General Graken at {coords}": "Поговорите с Генералом Гракеном в {coords}",
+    "Investigate the house in Ancient Nemract at {coords}.": "Исследуйте дом в Древнем Немракте в {coords}.",
+    "Explore the tunnel in the basement of the house.": "Исследуйте туннель в подвале дома.",
+    "Investigate the strange dark realm.": "Исследуйте странное тёмное царство.",
+    "Leave the strange dark realm.": "Покиньте странное тёмное царство.",
+    "Return the ruby to Graken at {coords}": "Верните рубин Гракену в {coords}"
+  },
+
+  "Clearing the Camps": {
+    "Clearing the Camps": "Очистка Лагерей",
+    "Talk to Captain Kymer outside Llevigar at {coords}": "Поговорите с Капитаном Каймером за пределами Ллевигара в {coords}",
+    "Find and kill Orc Chieftains Elisu, Veltu, and Ceifko in the camps around Llevigar- look for green flags": "Найдите и убейте Вождей Орков Элизу, Вельту и Сейфко в лагерях вокруг Ллевигара - ищите зелёные флаги",
+    "Report back to Captain Kymer once you have the three heads.": "Вернитесь к Капитану Каймеру, когда получите три головы."
+  },
+
+  "Tunnel Trouble": {
+    "Tunnel Trouble": "Проблемы в Туннеле",
+    "Talk to Captain Fenor in front of Detlas at {coords}.": "Поговорите с Капитаном Фенором перед Детласом в {coords}.",
+    "Enter the cave behind Captain Fenor at {coords}.": "Войдите в пещеру позади Капитана Фенора в {coords}.",
+    "Help Miner Linton remove the debris blocking the path.": "Помогите Шахтёру Линтону убрать обломки, блокирующие путь.",
+    "Clear the cave of possible roadblocks.": "Очистите пещеру от возможных препятствий.",
+    "Investigate the small hole to the right of the large pile of debris.": "Исследуйте маленькую дыру справа от большой кучи обломков.",
+    "Free the cows without being seen by the farmer.": "Освободите коров, не попавшись на глаза фермеру.",
+    "Defeat the farmer's Guard Golem.": "Победите Охранного Голема фермера.",
+    "Return to Drale about your success.": "Вернитесь к Дрейлу с отчётом об успехе.",
+    "Help Drale push the raft with the cows out to sea.": "Помогите Дрейлу столкнуть плот с коровами в море.",
+    "Return to Miner Linton back in the abandoned cave.": "Вернитесь к Шахтёру Линтону в заброшенную пещеру.",
+    "Speak to Sergeant Klafson next to the Ragni entrance of the cave.": "Поговорите с Сержантом Клафсоном у входа в пещеру со стороны Рагни."
+  },
+
+  "Taking the Tower": {
+    "Taking the Tower": "Захват Башни",
+    "Speak to Aledar in the Detlas Barracks at {coords}.": "Поговорите с Аледаром в Казармах Детласа в {coords}.",
+    "Follow Aledar to the Powder Master at {coords}.": "Следуйте за Аледаром к Мастеру Порошков в {coords}.",
+    "Apply a Water Powder to your weapon, then let Aledar know at {coords}.": "Нанесите Водяной Порошок на своё оружие, затем сообщите Аледару в {coords}.",
+    "Meet up with Lieutenant Van's squad near the Raging Tower at {coords}.": "Встретьтесь с отрядом Лейтенанта Вана возле Бушующей Башни в {coords}.",
+    "Assault the Raging Tower at {coords} and defeat the monster at the top.": "Штурмуйте Бушующую Башню в {coords} и победите монстра на вершине.",
+    "Report back to Lieutenant Van about your success at {coords}": "Доложите Лейтенанту Вану об успехе в {coords}"
+  },
+
+  "Maltic's Well": {
+    "Maltic's Well": "Колодец Малтика",
+    "Talk to Rynend located in Maltic at {coords}.": "Поговорите с Райнендом в Малтике в {coords}.",
+    "Investigate the old Maltic well at {coords} and bring [1 Witch's Empty Bottle] to Rynend": "Исследуйте старый колодец Малтика в {coords} и принесите [1 Пустая Бутылка Ведьмы] Райненду"
+  },
+
+  "Stable Story": {
+    "Stable Story": "История Конюшни",
+    "Talk to Enkser outside Detlas at {coords}.": "Поговорите с Энксером за пределами Детласа в {coords}.",
+    "Bring back [1 Stable Key] to Enkser from the tunnel at {coords}.": "Принесите [1 Ключ от Конюшни] Энксеру из туннеля в {coords}."
+  },
+
+  "Supply and Delivery": {
+    "Supply and Delivery": "Снабжение и Доставка",
+    "Talk to Ope in Detlas at {coords}.": "Поговорите с Оупом в Детласе в {coords}.",
+    "Purchase the supply crate from the Trade Market at {coords}.": "Купите ящик припасов на Торговом Рынке в {coords}.",
+    "Find Tasim at {coords} and convince him to buy the supply crate for you.": "Найдите Тасима в {coords} и убедите его купить ящик припасов для вас.",
+    "Bring Tasim to the Trade Market at {coords}.": "Приведите Тасима на Торговый Рынок в {coords}.",
+    "Return to Ope with the supply crate at {coords}.": "Вернитесь к Оупу с ящиком припасов в {coords}.",
+    "Bring the supply crate to Mayor Alvin in Alekin Village at {coords}.": "Принесите ящик припасов Мэру Алвину в деревню Алекин в {coords}."
+  },
+
+  "Lava Springs": {
+    "Lava Springs": "Лавовые Источники",
+    "Talk to Colonel Gailard at {coords}": "Поговорите с Полковником Гейлардом в {coords}.",
+    "Look for three pieces of corrupted evidence around the Lava Spring at {coords}": "Найдите три улики порчи вокруг Лавового Источника в {coords}.",
+    "Go back to Colonel Gailard at {coords}": "Вернитесь к Полковнику Гейларду в {coords}.",
+    "Talk to Gregor outside the Bremminglar well at {coords}": "Поговорите с Грегором у колодца Бреммингларa в {coords}.",
+    "Enter the Bremminglar well and talk to the healer at {coords}": "Войдите в колодец Бреммингларa и поговорите с целителем в {coords}.",
+    "Report back to Colonel Gailard at {coords}": "Доложите Полковнику Гейларду в {coords}.",
+    "Drink the Potion of Obsidian Skin, then enter the lava spring through the borehole at {coords} and look for a corrupted heart": "Выпейте Зелье Обсидиановой Кожи, затем войдите в лавовый источник через скважину в {coords} и найдите порченое сердце.",
+    "Tell Colonel Gailard at {coords} that you destroyed the heart": "Скажите Полковнику Гейларду в {coords}, что вы уничтожили сердце."
+  },
+
+  "Grave Digger": {
+    "Grave Digger": "Могильщик",
+    "Talk to Sayleros in Detlas at {coords}": "Поговорите с Сейлеросом в Детласе в {coords}.",
+    "Find Drucksh in Nemract at {coords} and make him talk about Sayleros' dead brother using [Nemract Whiskey]": "Найдите Дракша в Немракте в {coords} и заставьте его рассказать о мёртвом брате Сейлероса, используя [Виски Немракта].",
+    "Talk to The Priest in the old cathedral at {coords}": "Поговорите со Священником в старом соборе в {coords}.",
+    "Kill Sayleros' Brother and retrieve his will in the Nemract cathedral's crypt at {coords}": "Убейте Брата Сейлероса и заберите его завещание в склепе собора Немракта в {coords}.",
+    "Bring Sayleros' brother's will to Sayleros at {coords} in the Nemract cathedral": "Принесите завещание брата Сейлероса Сейлеросу в {coords} в соборе Немракта."
+  },
+
+  "Pit of the Dead": {
+    "Pit of the Dead": "Яма Мертвецов",
+    "Talk to Merloni in Nemract at {coords}": "Поговорите с Мерлони в Немракте в {coords}.",
+    "Explore the pit at {coords} and find the shrine": "Исследуйте яму в {coords} и найдите святилище.",
+    "Go back to Nemract and tell Merloni that you succeeded": "Вернитесь в Немракт и скажите Мерлони, что вы преуспели."
+  },
+
+  "Cluck Cluck": {
+    "Cluck Cluck": "Кудах-Тах-Тах",
+    "Talk to Nohno on Rooster Island at {coords}": "Поговорите с Ноно на Острове Петухов в {coords}.",
+    "Bring back [1 Cluckles' Favourite Feather] to Nohno": "Принесите [1 Любимое Перо Клаклса] Ноно."
+  },
+
+  "Lost Tower": {
+    "Lost Tower": "Потерянная Башня",
+    "Talk to Laen in Nemract at {coords}": "Поговорите с Лаеном в Немракте в {coords}.",
+    "Find the lost tower in Ancient Nemract at {coords}": "Найдите потерянную башню в Древнем Немракте в {coords}.",
+    "Find the book in the tower, and bring it back to Laen": "Найдите книгу в башне и принесите её Лаену.",
+    "Bring back the book to Laen": "Верните книгу Лаену."
+  },
+
+  "Tempo Town Trouble": {
+    "Tempo Town Trouble": "Проблемы Темпо-Тауна",
+    "Talk to Tyko at {coords}": "Поговорите с Тайко в {coords}.",
+    "Go to Tempo Town at {coords}": "Отправьтесь в Темпо-Таун в {coords}.",
+    "Investigate the ruin at {coords}": "Исследуйте руины в {coords}.",
+    "Use spells to break open the temple at {coords}": "Используйте заклинания, чтобы открыть храм в {coords}.",
+    "Report back to the mayor in Tempo Town at {coords}": "Доложите мэру в Темпо-Тауне в {coords}."
+  },
+
+  "Recover the Past": {
+    "Recover the Past": "Восстановить Прошлое",
+    "Talk to Dr. Picard at {coords}": "Поговорите с Доктором Пикардом в {coords}.",
+    "Recover the sailor Caid near his boat at {coords}": "Найдите моряка Кейда возле его лодки в {coords}.",
+    "Speak to Caid's Alchemist friend in Elkurn at {coords}": "Поговорите с другом Кейда, алхимиком, в Элкурне в {coords}.",
+    "Collect [1 Bloom of Doom] for the shrinking potion near the church at {coords}": "Соберите [1 Цветок Гибели] для зелья уменьшения возле церкви в {coords}.",
+    "Return to Caid with the potion at {coords}": "Вернитесь к Кейду с зельем в {coords}.",
+    "Bring Caid back to Dr. Picard in his tower at {coords}": "Приведите Кейда к Доктору Пикарду в его башню в {coords}.",
+    "Watch Caid's past": "Посмотрите прошлое Кейда.",
+    "Find Scout Reynauld near the bridge to the Roots of Corruption at {coords}": "Найдите Разведчика Рейнолда возле моста к Корням Порчи в {coords}.",
+    "Help Reynauld and Tasim defend Elkurn from a corrupted invasion at the bridge at {coords}": "Помогите Рейнолду и Тасиму защитить Элкурн от порченого вторжения у моста в {coords}.",
+    "Return to Dr. Picard's tower at {coords} with Reynauld and Tasim": "Вернитесь в башню Доктора Пикарда в {coords} с Рейнолдом и Тасимом.",
+    "View Reynauld's past": "Посмотрите прошлое Рейнолда.",
+    "Witness Tasim's past": "Станьте свидетелем прошлого Тасима.",
+    "Discover your own past": "Узнайте своё собственное прошлое.",
+    "Find Tasim outside Dr. Picard's tower at {coords}": "Найдите Тасима за пределами башни Доктора Пикарда в {coords}."
+  },
+
+  "Deja Vu": {
+    "Deja Vu": "Дежавю",
+    "Talk to Asher near Time Valley at {coords}.": "Поговорите с Эшером рядом с Долиной Времени в {coords}.",
+    "Find Asher's Shovel near {coords}.": "Найдите лопату Эшера рядом с {coords}.",
+    "Return Asher's Shovel to Asher.": "Верните лопату Эшера Эшеру.",
+    "Enter Asher's house.": "Войдите в дом Эшера.",
+    "Talk to Old Man Martyn.": "Поговорите со Стариком Мартином.",
+    "Find a way to save Asher from his death.": "Найдите способ спасти Эшера от его смерти.",
+    "Listen to Old Man Martyn.": "Выслушайте Старика Мартина.",
+    "Talk to Asher.": "Поговорите с Эшером."
+  },
+
+  "Misadventure on the Sea": {
+    "Misadventure on the Sea": "Злоключение на Море",
+    "Visit the Nemract bar at {coords}.": "Посетите бар Немракта в {coords}.",
+    "Meet Honip at {coords}.": "Встретьтесь с Хонипом в {coords}.",
+    "Clean the bodies in the boat. Look for clues on how to escape at the same time.": "Очистите тела на лодке. Одновременно ищите подсказки, как сбежать.",
+    "Talk to Honip on the deck to get your next task.": "Поговорите с Хонипом на палубе, чтобы получить следующее задание.",
+    "Explore the hold and kill the rats.": "Исследуйте трюм и убейте крыс.",
+    "Defeat the Colossal Rat in the hold.": "Победите Колоссальную Крысу в трюме.",
+    "Use the gunpowder and the fuse to activate the cannon and escape.": "Используйте порох и фитиль, чтобы активировать пушку и сбежать.",
+    "Find out where you are and a way to flee the island.": "Узнайте, где вы находитесь, и найдите способ покинуть остров."
+  },
+
+  "The Corrupted Village": {
+    "The Corrupted Village": "Порченая Деревня",
+    "Speak to Orikal outside the Corrupted Village at {coords}.": "Поговорите с Орикалом за пределами Порченой Деревни в {coords}.",
+    "Examine the nearby corrupted spike to the northeast at {coords}.": "Осмотрите ближайший порченый шип к северо-востоку в {coords}.",
+    "Climb the spike to see if you can find anything useful about it's existance.": "Заберитесь на шип, чтобы найти что-нибудь полезное о его существовании.",
+    "Report back to Orikal about your observations.": "Доложите Орикалу о ваших наблюдениях.",
+    "Find the excavators inside the nearby cave to the northeast at {coords}.": "Найдите раскопщиков внутри ближайшей пещеры к северо-востоку в {coords}.",
+    "Find the excavators inside the cave.": "Найдите раскопщиков внутри пещеры.",
+    "Exit the cave and speak to Orikal in his tent about his plan for destroying the spike.": "Выйдите из пещеры и поговорите с Орикалом в его палатке о плане уничтожения шипа.",
+    "Find [Stabilized Corrupted Ore], [Incendiary Fluid], and [Switch Fuse] for the TNT at the mining camp at {coords}.": "Найдите [Стабилизированную Порченую Руду], [Зажигательную Жидкость] и [Переключающий Фитиль] для ТНТ в горном лагере в {coords}.",
+    "Bring the explosive to the spike in the cave and use it to destroy the spike.": "Принесите взрывчатку к шипу в пещере и используйте её, чтобы уничтожить шип.",
+    "Report to Orikal about your success.": "Доложите Орикалу об успехе."
+  },
+
+  "The Mercenary": {
+    "The Mercenary": "Наёмник",
+    "Talk to the Scout in Detlas at {coords} or find one in another town.": "Поговорите с Разведчиком в Детласе в {coords} или найдите его в другом городе.",
+    "Talk to Amerigo in Almuj at {coords}.": "Поговорите с Америго в Альмудже в {coords}.",
+    "Rendezvous near the barracks at {coords}.": "Встретьтесь рядом с казармами в {coords}.",
+    "Storm the barracks at {coords}.": "Штурмуйте казармы в {coords}.",
+    "Continue through the barracks.": "Продолжайте через казармы.",
+    "Defeat Takan.": "Победите Такана.",
+    "Continue up the stairs in the barracks.": "Продолжайте подниматься по лестнице в казармах.",
+    "Head up the tower and take out Takan.": "Поднимитесь на башню и разберитесь с Таканом.",
+    "Regroup with your companions at {coords}.": "Соберитесь с товарищами в {coords}.",
+    "Bring Takan's badge to Amerigo at {coords}.": "Принесите значок Такана Америго в {coords}."
+  },
+
+  "Green Gloop": {
+    "Green Gloop": "Зелёная Слизь",
+    "Talk to Eluzterp at {coords}.": "Поговорите с Элузтерпом в {coords}.",
+    "Find Yodbon near the Almuj Bank at {coords}.": "Найдите Йодбона возле банка Альмуджа в {coords}.",
+    "Bring [5 Soft Sand] from enemies in the desert to Yodbon at {coords}.": "Принесите [5 Мягкого Песка] от врагов в пустыне Йодбону в {coords}.",
+    "Fetch [8 Slimey Goo] for Eluzterp from the cave at {coords}.": "Добудьте [8 Слизистая Жижа] для Элузтерпа из пещеры в {coords}."
+  },
+
+  "A Sandy Scandal": {
+    "A Sandy Scandal": "Песчаный Скандал",
+    "Talk to the Almuj Bank Guard at {coords}.": "Поговорите со Стражником Банка Альмуджа в {coords}.",
+    "Go to the witness report location at {coords}.": "Отправьтесь к месту свидетельских показаний в {coords}.",
+    "Open the vault in the basement [Code: 7812].": "Откройте хранилище в подвале [Код: 7812].",
+    "Inspect the vault.": "Осмотрите хранилище.",
+    "Exit the vault.": "Выйдите из хранилища.",
+    "Read the witness report.": "Прочитайте свидетельские показания.",
+    "Find the source of the detonation at {coords}.": "Найдите источник взрыва в {coords}.",
+    "Inspect the safe.": "Осмотрите сейф.",
+    "Quickly! Go to the house at {coords}.": "Быстрее! Отправьтесь к дому в {coords}.",
+    "Look for signs of the bandits' whereabouts.": "Ищите следы местонахождения бандитов.",
+    "Listen to the bandits.": "Прислушайтесь к бандитам.",
+    "Escape the hideout!": "Сбегите из укрытия!",
+    "Find where the bandits blasted a hole to get into the bank at {coords}.": "Найдите, где бандиты пробили дыру, чтобы проникнуть в банк в {coords}.",
+    "Follow the criminals into the other room.": "Следуйте за преступниками в другую комнату.",
+    "Don't let the bandits escape!": "Не дайте бандитам сбежать!",
+    "Report back to the Almuj Bank Guard at {coords}.": "Доложите Стражнику Банка Альмуджа в {coords}."
+  },
+
+  "Kingdom of Sand": {
+    "Kingdom of Sand": "Песчаное Королевство",
+    "Talk to Junes at {coords}.": "Поговорите с Джунс в {coords}.",
+    "Attempt to enter the bandit hideout at {coords}.": "Попытайтесь войти в укрытие бандитов в {coords}.",
+    "Meet with Geo & Tarek at {coords}.": "Встретьтесь с Гео и Тареком в {coords}.",
+    "Sneak into the highest room of the Rymek Mansion at {coords}.": "Прокрадитесь в самую высокую комнату Особняка Раймека в {coords}.",
+    "Bring the journal from the Rymek Mansion to the Vault Guard to enter the hideout.": "Принесите дневник из Особняка Раймека Охраннику Хранилища, чтобы войти в укрытие.",
+    "Look for the sceptre within the bandit hideout at {coords}.": "Найдите скипетр в укрытии бандитов в {coords}.",
+    "Search the broken cart at {coords}.": "Обыщите сломанную телегу в {coords}.",
+    "Search the abandoned house at {coords}.": "Обыщите заброшенный дом в {coords}.",
+    "Return to the tomb and give Junes the sceptre at {coords}.": "Вернитесь к гробнице и отдайте скипетр Джунс в {coords}."
+  },
+
+  "Meaningful Holiday": {
+    "Meaningful Holiday": "Значимый Праздник",
+    "Talk to Haily in Almuj at {coords}.": "Поговорите с Хейли в Альмудже в {coords}.",
+    "Go talk to Haily's friend Nick at the poor area.": "Поговорите с другом Хейли, Ником, в бедном районе.",
+    "Go to the budget store and ask for food.": "Отправьтесь в бюджетный магазин и попросите еду.",
+    "Look for food on the second floor.": "Поищите еду на втором этаже.",
+    "Return to Nick and tell him the bad news.": "Вернитесь к Нику и сообщите ему плохие новости.",
+    "Bring the blanket to the woman in the tunnel south of Nick.": "Принесите одеяло женщине в туннеле к югу от Ника.",
+    "Continue the tunnel and find Nick's friend.": "Продолжайте по туннелю и найдите друга Ника.",
+    "Explore the area and look for Santa.": "Исследуйте район и найдите Санту.",
+    "Enter Santa's home and speak to him.": "Войдите в дом Санты и поговорите с ним.",
+    "Leave through the portal behind Santa.": "Выйдите через портал позади Санты.",
+    "Enter the ball room.": "Войдите в бальный зал.",
+    "Ask the guests for food.": "Попросите еду у гостей.",
+    "Steal the food from the kitchen and talk to Nick.": "Украдите еду с кухни и поговорите с Ником.",
+    "Escape the ball with Nick.": "Сбегите с бала вместе с Ником.",
+    "Talk to Nick.": "Поговорите с Ником."
+  },
+
+  "Canyon Condor": {
+    "Canyon Condor": "Каньонный Кондор",
+    "Talk to Svin in Rymek at {coords}.": "Поговорите со Свином в Раймеке в {coords}.",
+    "Talk to Jankan east from Rymek at {coords}.": "Поговорите с Янканом к востоку от Раймека в {coords}.",
+    "Collect [5 Gold Chunks] for Jankan in the mineshaft at {coords}.": "Соберите [5 Золотых Кусков] для Янкана в шахте в {coords}.",
+    "Take the canyon elevator up to the Hermit at {coords}.": "Поднимитесь на лифте каньона к Отшельнику в {coords}.",
+    "Find and collect [1 Rare Rose] at {coords} for the Hermit.": "Найдите и соберите [1 Редкую Розу] в {coords} для Отшельника.",
+    "Defeat the Cockatrice at {coords} and collect an egg for Svin.": "Победите Кокатриса в {coords} и соберите яйцо для Свина."
+  },
+
+  "WynnExcavation Site A": {
+    "WynnExcavation Site A": "Раскопки Винн: Участок А",
+    "Speak to Excavator Vade at {coords}.": "Поговорите с Раскопщиком Вейдом в {coords}.",
+    "Bring the Ancient Writing to Tesha in the tents at {coords}.": "Принесите Древние Письмена Теше в палатках в {coords}.",
+    "Return to Excavator Vade with the translated writing.": "Вернитесь к Раскопщику Вейду с переведённым текстом.",
+    "Solve this riddle in the tomb: \"Throw tribute an item to the wood that stands out, the right angle will open the way\"": "Решите загадку в гробнице: \"Бросьте дань предметом дереву, которое выделяется, правильный угол откроет путь\"",
+    "Search the tombs.": "Обыщите гробницы.",
+    "Return and talk to Excavator Vade.": "Вернитесь и поговорите с Раскопщиком Вейдом."
+  },
+
+  "WynnExcavation Site B": {
+    "WynnExcavation Site B": "Раскопки Винн: Участок Б",
+    "Bring the Yellow Crystal Shard to Excavator Lykron at {coords}.": "Принесите Жёлтый Осколок Кристалла Раскопщику Лайкрону в {coords}.",
+    "Investigate the depths of the cave.": "Исследуйте глубины пещеры.",
+    "Solve the puzzle.": "Решите головоломку.",
+    "Find the crystal.": "Найдите кристалл.",
+    "Talk to Excavator Lykron.": "Поговорите с Раскопщиком Лайкроном."
+  },
+
+  "Brothers Return": {
+    "Brothers Return": "Возвращение братьев",
+    "Speak to Sayleros at {coords}": "Обратитесь к Сейлеросу по адресу: {coords}.",
+    "Find Drucksh at the bar in Nemract at {coords}": "Найти Drucksh можно в баре в Немракте по адресу: {coords}",
+    "Find a way to make Drucksh tell you about the will.": "Найди способ заставить Друкша рассказать тебе о завещании.",
+    "Speak to the Bishop in Saint's Row at {coords}": "Поговорите с епископом в Сент-Роу по адресу: {coords}",
+    "Enter the crypt at {coords} and find Sayleros' Brother.": "Войдите в склеп в точке {coords} и найдите брата Сейлероса.",
+    "Find the first crypt key.": "Найдите первый ключ от склепа.",
+    "Open the door at {coords} using the crypt Basement Key.": "Откройте дверь по координатам {coords}, используя ключ от подземелья (Crypt Basement Key).",
+    "[-1 Second Floor Key]": "[-1 Ключ от второго этажа]",
+    "Find the second crypt key.": "Найдите второй ключ от склепа.",
+    "Open the door at {coords} using the Sealed Crypt Key.": "Откройте дверь в {coords} с помощью ключа от запечатанной крипты.",
+    "defeat Sayleros' Brother!": "Победите брата Сэйлероса!",
+    "Bring back Sayleros' brother's will to {coords}.": "Верните завещание брата Сэйлероса в {coords}."
+  },
+
+  "WynnExcavation Site C": {
+    "WynnExcavation Site C": "Раскопки Винн: Участок C",
+    "Talk to Excavator Placardus at {coords} (Requires shard from Site B).": "Поговорите с Раскопщиком Плакардусом в {coords} (Требуется осколок с Участка B).",
+    "Infiltrate the Excavation Meeting.": "Проникните на Собрание Раскопок.",
+    "Eavesdrop on WynnExcavation's plans.": "Подслушайте планы Раскопок Винн.",
+    "Leave the meeting.": "Покиньте собрание.",
+    "Escape the WynnExcavation guards.": "Сбегите от охранников Раскопок Винн.",
+    "Explore the area and search for the traitor.": "Исследуйте область и найдите предателя.",
+    "Explore the depths of the volcano.": "Исследуйте глубины вулкана.",
+    "Escape the volcano with the crystal shard.": "Сбегите из вулкана с осколком кристалла.",
+    "Report back to Excavator Placardus with a [Red Crystal Shard].": "Доложите Раскопщику Плакардусу с [Красным Осколком Кристалла]."
+  },
+
+  "WynnExcavation Site D": {
+    "WynnExcavation Site D": "Раскопки Винн: Участок Г",
+    "Talk to Royal Advisor Carlos in Troms Castle at {coords} (Requires shard from Site C).": "Поговорите с Королевским Советником Карлосом в Замке Тромса в {coords} (Требуется осколок с Участка C).",
+    "Find the secret passageway inside of the throne room.": "Найдите секретный проход внутри тронного зала.",
+    "Explore the secrets beneath Troms Castle.": "Исследуйте секреты под Замком Тромса.",
+    "Talk to the King.": "Поговорите с Королём.",
+    "Exit the King's room.": "Выйдите из комнаты Короля.",
+    "Escape Troms.": "Сбегите из Тромса.",
+    "Head to the location on the note.": "Отправьтесь в место, указанное в записке.",
+    "Speak to Traitor Thomas.": "Поговорите с Предателем Томасом.",
+    "Find the three map fragments by following the eyes and return to Thomas.": "Найдите три фрагмента карты, следуя за глазами, и вернитесь к Томасу.",
+    "Enter the traitor camp.": "Войдите в лагерь предателей.",
+    "Speak to Rebel Leader Amadel.": "Поговорите с Лидером Повстанцев Амаделем.",
+    "Go to Site D at {coords}.": "Отправьтесь на Участок Г в {coords}.",
+    "Solve the puzzle.": "Решите головоломку.",
+    "Search the excavation site.": "Обыщите участок раскопок.",
+    "Talk to Excavator Admin Uci.": "Поговорите с Администратором Раскопок Уци.",
+    "Enter The Ancient Dungeon.": "Войдите в Древнее Подземелье.",
+    "Complete the parkour.": "Пройдите паркур.",
+    "Solve The Yellow Puzzle.": "Решите Жёлтую Головоломку.",
+    "Solve The Purple Puzzle.": "Решите Фиолетовую Головоломку.",
+    "Solve The Red Puzzle.": "Решите Красную Головоломку.",
+    "Escape The Green Room.": "Сбегите из Зелёной Комнаты.",
+    "Talk to Excavator Amadel.": "Поговорите с Раскопщиком Амаделем.",
+    "Teleport to the Ancient City.": "Телепортируйтесь в Древний Город.",
+    "Explore The Ancient City.": "Исследуйте Древний Город.",
+    "Speak to Amadel's Assistant.": "Поговорите с Помощником Амаделя.",
+    "Kill Corrupted Amadel.": "Убейте Порченого Амаделя.",
+    "Kill Shadow Amadel.": "Убейте Теневого Амаделя.",
+    "Kill Amadel.": "Убейте Амаделя.",
+    "Talk to The King of Ragni.": "Поговорите с Королём Рагни."
+  },
+
+  "Tribal Aggression": {
+    "Tribal Aggression": "Племенная Агрессия",
+    "Talk to Caras at {coords}.": "Поговорите с Карасом в {coords}.",
+    "Enter the Eagle Camp and talk to Favian.": "Войдите в лагерь Орлов и поговорите с Фавианом.",
+    "Bring back the Eagle Totem from the Owl Camp.": "Принесите Тотем Орла из лагеря Сов.",
+    "Retrieve the Owl Totem and return it to the Owl Camp.": "Заберите Тотем Совы и верните его в лагерь Сов."
+  },
+
+  "Wrath of the Mummy": {
+    "Wrath of the Mummy": "Гнев Мумии",
+    "Talk to Ormrod in the desert of Almuj at {coords}.": "Поговорите с Ормродом в пустыне Альмуджа в {coords}.",
+    "Talk to Achper in Almuj about the curse at {coords}.": "Поговорите с Ачпером в Альмудже о проклятии в {coords}.",
+    "Attempt to enter the Mummy's tomb at {coords}.": "Попытайтесь войти в гробницу Мумии в {coords}.",
+    "Use the bandit's wagon at {coords} to get to Rymek.": "Используйте повозку бандита в {coords}, чтобы добраться до Раймека.",
+    "Bring back [1 Pink Wool] to the bandit at {coords}.": "Принесите [1 Розовую Шерсть] бандиту в {coords}.",
+    "Enter the tomb at {coords} and kill the Mummy.": "Войдите в гробницу в {coords} и убейте Мумию.",
+    "Bring [1 Mummy's Bandage] to Ormrod at {coords}.": "Принесите [1 Бинт Мумии] Ормроду в {coords}."
+  },
+
+  "Temple of the Legends": {
+    "Temple of the Legends": "Храм Легенд",
+    "Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at {coords}": "Поговорите с Келайт у входа в Храм Легенд, рядом с Тромсом на {coords}",
+    "Find a way to get Kelight to allow you entry into the Temple of the Legends at {coords}": "Найдите способ заставить Келайт разрешить вам вход в Храм Легенд на {coords}",
+    "Talk to Jorkin in Elkurn at {coords} about Light Dust.": "Поговорите с Йоркиным в Элкурне на {coords} о Светлой Пыли.",
+    "Find the lightdust cavern located near the Portal at {coords}.": "Найдите пещеру светлой пыли, расположенную рядом с Порталом на {coords}",
+    "Visit Rayshyroth on Mage Island at {coords} to purify the dust": "Посетите Рэйшайрота на Острове Магов по координатам {coords}, чтобы очистить пыль",
+    "Find the cave on Mage Island where the Sky Flux gathers at {coords}": "Найдите пещеру на Острове Мага, где собирается Поток Неба на {coords}.",
+    "Give [12 Sky Vapor] and the Light Dust to Rayshyroth at {coords}": "Дай [12 Sky Vapor] Рейшайроту на {coords}",
+    "Show the [Purified Light Dust] to Kelight at the entrance of the Temple of the Legends at {coords}": "Покажи [Очищенную пыль света] Келайт у входа в Храм Легенд на {coords}",
+    "Find Garull, the Creeper obsessed craftsman, somewhere in the Pigmen's Ravines located around {coords}": "Найдите Гаррулла, ремесленника, одержимого Криперами, где-то в ущельях Свинолюдей, расположенных около {coords}",
+    "Bring the [Old Touroto Hide], [Aseado Leaf], [Maro's Eye Jewel], and [Coral of Nelfors] to Garull in the cave at {coords}": "Принесите [Старую шкуру Турото], [Лист Асеадо], [Драгоценный глаз Маро] и [Корал Нельфорса] Гаруллу в пещеру на {coords}.",
+    "Bring the [Helmet of the Legends] to Kelight at the entrance of the Temple of the Legends at {coords}": "Принесите [Шлем Легенд] Келайт у входа в Храм Легенд на {coords}.",
+    "Kill the Corrupter of Worlds in the cave at {coords} and bring proof of its death to Kelight at {coords}": "Убейте Разрушителя Миров в пещере на {coords} и принесите доказательства его смерти Келайту на {coords}."
+  },
+
+  "Out of my Mind": {
+    "Out of my Mind": "Из Моего Разума",
+    "Speak with the Troms children in the treehouse.": "Поговорите с детьми Тромса в домике на дереве.",
+    "Find the hidden door next to the gate near the Undergrowth Ruins outside Troms.": "Найдите скрытую дверь рядом с воротами у Руин Подлеска за пределами Тромса.",
+    "Find a way inside the house at {coords}.": "Найдите способ проникнуть в дом в {coords}.",
+    "Explore the hidden lab in search of information.": "Исследуйте скрытую лабораторию в поисках информации.",
+    "Build a machine to hit your head and get back to normal.": "Постройте машину, чтобы ударить себя по голове и вернуться в норму.",
+    "Find a way to destroy the plant monster, then return to the group in Troms at {coords} to report your findings.": "Найдите способ уничтожить растение-монстра, затем вернитесь к группе в Тромсе в {coords}, чтобы доложить о находках."
+  },
+
+  "Lost in the Jungle": {
+    "Lost in the Jungle": "Затерянный в Джунглях",
+    "Speak to Gracen at {coords}": "Поговорите с Грейсеном в {coords}",
+    "Search the Dernel Jungle for Aryn": "Найдите Арина в Джунглях Дернел",
+    "Defeat the spirit possessing Aryn": "Победите дух, завладевший Арином",
+    "Make sure Aryn is safe at {coords}": "Убедитесь, что Арин в безопасности в {coords}",
+    "Bring the Mysterious Gemstone to Gracen at {coords}": "Принесите Загадочный Самоцвет Грейсену в {coords}"
+  },
+
+  "Grand Youth": {
+    "Grand Youth": "Великая Молодость",
+    "Talk to Monte at {coords}.": "Поговорите с Монте в {coords}.",
+    "Visit the Salesman in Troms near the fountain.": "Посетите Продавца в Тромсе рядом с фонтаном.",
+    "Talk to Isfurus in Dernel at {coords}.": "Поговорите с Исфурусом в Дернеле в {coords}.",
+    "Get the bottles filled by Erisk in the heart of the fountain to give Isfurus.": "Наполните бутылки у Эриска в сердце фонтана, чтобы отдать Исфурусу.",
+    "Talk to Isfurus for Erisk.": "Поговорите с Исфурусом от имени Эриска.",
+    "Bring back the bottle of healing water to Monte.": "Принесите бутылку целебной воды Монте."
+  },
+
+  "The Passage": {
+    "The Passage": "Проход",
+    "Talk to Wirt in Troms at {coords}.": "Поговорите с Виртом в Тромсе в {coords}.",
+    "Find Ildan in Troms at {coords} and ask to be a member of the town.": "Найдите Илдана в Тромсе в {coords} и попросите стать членом города.",
+    "Search for clues near {coords} and bring back [1 Antic Bead] to Ildan.": "Найдите подсказки рядом с {coords} и принесите [1 Античная Бусина] Илдану."
+  },
+
+  "Forgotten Burrows": {
+    "Forgotten Burrows": "Забытые Норы",
+    "Enter the Forgotten Burrows at {coords}.": "Войдите в Забытые Норы в {coords}.",
+    "Explore the burrows.": "Исследуйте норы.",
+    "Defeat the creatures within.": "Победите существ внутри."
+  },
+
+  "An Iron Heart Part I": {
+    "An Iron Heart Part I": "Железное Сердце: Часть I",
+    "Speak with Duvale at {coords}.": "Поговорите с Дювалем в {coords}.",
+    "Find the defective Guard Golem in the mountain at {coords}.": "Найдите дефектного Стражного Голема в горе в {coords}.",
+    "Find the defective Guard Golem.": "Найдите дефектного Стражного Голема.",
+    "Subdue the defective Guard Golem and return to Duvale at {coords}.": "Усмирите дефектного Стражного Голема и вернитесь к Дювалю в {coords}."
+  },
+
+  "An Iron Heart Part II": {
+    "An Iron Heart Part II": "Железное Сердце: Часть II",
+    "Speak to Detective Hart at {coords}.": "Поговорите с Детективом Хартом в {coords}.",
+    "Follow the west road and speak with Daxe in his home at {coords}.": "Следуйте по западной дороге и поговорите с Даксом в его доме в {coords}.",
+    "Head to the Golem Factory at {coords}.": "Отправьтесь на Фабрику Големов в {coords}.",
+    "Find a way to deactivate the Guard Golem.": "Найдите способ деактивировать Стражного Голема.",
+    "Find a way into the factory in Urelix's house.": "Найдите способ проникнуть на фабрику в доме Уреликса.",
+    "Escape the Golem Factory and find Urelix.": "Сбегите с Фабрики Големов и найдите Уреликса.",
+    "Talk to Dr. Urelix in his office.": "Поговорите с Доктором Уреликсом в его офисе.",
+    "Either take the bribe or return to Detective Hart.": "Либо возьмите взятку, либо вернитесь к Детективу Харту."
+  },
+
+  "Recipe for Disaster": {
+    "Recipe for Disaster": "Рецепт Катастрофы",
+    "Meet up with Chef Hamsey in Ahmsord at {coords}.": "Встретьтесь с Шеф-поваром Хэмси в Амсорде в {coords}.",
+    "Find Chef Hamsey in his kitchen.": "Найдите Шеф-повара Хэмси на его кухне.",
+    "Speak to all three chefs in Hamsey's kitchen.": "Поговорите со всеми тремя поварами на кухне Хэмси.",
+    "Talk to Hamsey and choose a chef to work with.": "Поговорите с Хэмси и выберите повара для работы.",
+    "Talk to your chosen chef about the dish.": "Поговорите с выбранным поваром о блюде.",
+    "Collect [1 {Ingredient}] at {coords} or check your recipe book.": "Соберите [1 {Ингредиент}] в {coords} или проверьте книгу рецептов.",
+    "Present the ingredients to your chosen chef.": "Представьте ингредиенты выбранному повару.",
+    "Talk to Hamsey with your finished dish.": "Поговорите с Хэмси с готовым блюдом.",
+    "Meet Hamsey in the dining room at {coords}.": "Встретьтесь с Хэмси в столовой в {coords}."
+  },
+
+  "Reincarnation": {
+    "Reincarnation": "Реинкарнация",
+    "Talk to Batelu in Bob's Tomb.": "Поговорите с Бателу в Гробнице Боба.",
+    "Bring back [1 Cluckles' Favourite Feather], [1 Baab's Wool], and [1 Mooington's Skin] to Batelu.": "Принесите [1 Любимое Перо Клаклса], [1 Шерсть Бааба] и [1 Шкуру Муингтона] Бателу.",
+    "Kill Bob's Reincarnation.": "Убейте Реинкарнацию Боба.",
+    "Bring back [1 Bob's Seal of Approval] to Batelu.": "Принесите [1 Печать Одобрения Боба] Бателу.",
+    "Bring back 1 Cluckles' Favourite Feather, Baab's Wool, and Mooington's Skin to Batelu.": "Принесите Бателу 1 Любимое Перо Клаклса, Шерсть Бааба и Шкуру Муингтона.",
+    "Bring back 1 Bob's Seal of Approval to Batelu.": "Принесите Бателу 1 Печать Одобрения Боба."
+  },
+
+  "The Tower of Ascension": {
+    "The Tower of Ascension": "Башня Вознесения",
+    "Begin the {X}th Floor.": "Начните {X}-й этаж.",
+    "Collect 5 tokens and hand them to the Floor Master [Floor {X}, Level {Y}].": "Соберите 5 жетонов и отдайте их Мастеру Этажа [Этаж {X}, Уровень {Y}].",
+    "Collect the boss token and hand it to the Floor Master [Floor {X}, Level 10].": "Соберите жетон босса и отдайте его Мастеру Этажа [Этаж {X}, Уровень 10]."
+  },
+
+  "Point of No Return": {
+    "Point of No Return": "Точка Невозврата",
+    "Talk to the Lutho Citizen at {coords}.": "Поговорите с Жителем Луто в {coords}.",
+    "...": "...",
+    "Explore this happier version of Lutho.": "Исследуйте эту более счастливую версию Луто.",
+    "Talk with your Soul.": "Поговорите со своей Душой.",
+    "Leave Happier Lutho.": "Покиньте Счастливое Луто.",
+    "Talk to the Lutho Citizen who sent you on this journey.": "Поговорите с Жителем Луто, который отправил вас в это путешествие.",
+    "Use the Soul Retainer to switch places with your soul.": "Используйте Хранитель Душ, чтобы поменяться местами со своей душой.",
+    "Follow your soul walking away from you.": "Следуйте за своей душой, уходящей от вас.",
+    "Follow the blood trail to the next room.": "Следуйте по кровавому следу в следующую комнату.",
+    "Complete the pressure plate puzzle.": "Решите головоломку с нажимными плитами.",
+    "Reproduce your soul's steps to find the exit.": "Повторите шаги своей души, чтобы найти выход.",
+    "Escape upwards as the floor rises.": "Сбегите вверх, пока пол поднимается.",
+    "Survive the challenges.": "Выживите в испытаниях."
+  },
+
+  "Cowfusion": {
+    "Cowfusion": "Коровонедоразумение",
+    "Talk to Ranol at {coords}.": "Поговорите с Ранолом в {coords}.",
+    "Head to the Laboratory at {coords}.": "Направьтесь в Лабораторию в {coords}.",
+    "Find a way into the Laboratory.": "Найдите способ попасть в Лабораторию.",
+    "Search the Laboratory for the missing cows.": "Обыщите Лабораторию в поисках пропавших коров.",
+    "Find a way to free the Cows.": "Найдите способ освободить коров.",
+    "???": "???",
+    "Find out what happened.": "Узнайте, что произошло.",
+    "Return to Ranol.": "Вернитесь к Ранолу.",
+    "Escape Ranol's farm.": "Сбегите с фермы Ранола.",
+    "Find and enter the Secret Cow Hideout.": "Найдите и войдите в Секретное Коровье Убежище.",
+    "Talk to the Receptionist.": "Поговорите с Администратором.",
+    "Find the one who's in charge of the hideout.": "Найдите того, кто руководит убежищем.",
+    "Talk to Drale.": "Поговорите с Дрейлом.",
+    "Escape The Pit.": "Сбегите из Ямы.",
+    "Enter the Transmutation Machine.": "Войдите в Машину Трансмутации."
+  },
+
+  "The House of Twain": {
+    "The House of Twain": "Дом Твейна",
+    "Enter the House of Twain at {coords}.": "Войдите в Дом Твейна в {coords}.",
+    "Explore the house.": "Исследуйте дом.",
+    "Solve the mystery.": "Разгадайте тайну."
+  },
+
+  "Lazarus Pit": {
+    "Lazarus Pit": "Яма Лазаря",
+    "Speak to Burtur at {coords}.": "Поговорите с Буртуром в {coords}.",
+    "Check in with Burtur about the attack at {coords}.": "Узнайте у Буртура о нападении в {coords}.",
+    "Find the body of the Order's mage in Gelibord's graveyard at {coords}.": "Найдите тело мага Ордена на кладбище Гелиборда в {coords}.",
+    "Locate the chapel mentioned by the talisman, or return to Burtur for assistance.": "Найдите часовню, упомянутую в талисмане, или вернитесь к Буртуру за помощью.",
+    "Investigate the Order's chapel northwest of Gelibord at {coords}.": "Исследуйте часовню Ордена к северо-западу от Гелиборда в {coords}.",
+    "Solve the crypt's riddle to 'bring the water of life anew' to the graves.": "Решите загадку склепа, чтобы 'принести воду жизни заново' к могилам.",
+    "Revive the people in the tombs with the Lazarus Water and complete their tasks.": "Оживите людей в гробницах Водой Лазаря и выполните их задания.",
+    "Open the crypt door at {coords}.": "Откройте дверь склепа в {coords}.",
+    "Investigate the crypt's inner chamber at {coords}.": "Исследуйте внутреннюю камеру склепа в {coords}.",
+    "Find the entrance to the Lazarus Pit at {coords}.": "Найдите вход в Яму Лазаря в {coords}.",
+    "Follow the path to the Lazarus pit at {coords} and enter the Pit.": "Следуйте по тропе к Яме Лазаря в {coords} и войдите в Яму.",
+    "Follow the cave to find the Lazarus Pit.": "Следуйте по пещере, чтобы найти Яму Лазаря.",
+    "Find a way to block off the water pillar in the Lazarus Pit.": "Найдите способ перекрыть водяной столб в Яме Лазаря.",
+    "Tell Burtur that you have blocked off the Lazarus Pit at {coords}.": "Скажите Буртуру, что вы перекрыли Яму Лазаря в {coords}."
+  },
+
+  "Mixed Feelings": {
+    "Mixed Feelings": "Смешанные Чувства",
+    "Speak to Javen at the Corkus Docks": "Поговорите с Джейвеном в Доках Коркуса.",
+    "Talk to Javen": "Поговорите с Джейвеном.",
+    "Talk to the citizens around the docks": "Поговорите с жителями вокруг доков.",
+    "Speak to the other citizens around the docks": "Поговорите с другими жителями вокруг доков.",
+    "Talk to the final victim of your rampage": "Поговорите с последней жертвой вашего буйства.",
+    "Follow the trail of blood and board the airship": "Следуйте по кровавому следу и поднимитесь на дирижабль.",
+    "Explore the cliff base": "Исследуйте основание утёса.",
+    "Fight and evade the waves of mobs until the timer runs out": "Сражайтесь и уклоняйтесь от волн мобов, пока не истечёт таймер.",
+    "Speak to Javen": "Поговорите с Джейвеном."
+  },
+
+  "Purple and Blue": {
+    "Purple and Blue": "Фиолетовый и Синий",
+    "Talk to Korun near lake Gylia at {coords}": "Поговорите с Коруном возле озера Гилия в {coords}.",
+    "Investigate Nikoler's house for clues at {coords}": "Исследуйте дом Николера в поисках улик в {coords}.",
+    "Follow the hints in the cellar to the mysterious cave": "Следуйте подсказкам в подвале к таинственной пещере.",
+    "Enter and explore the mysterious cave at {coords}": "Войдите и исследуйте загадочную пещеру в {coords}.",
+    "Return to Korun in his home at {coords}": "Вернитесь к Коруну в его дом в {coords}.",
+    "Enter the heart of Gylia from under the lake": "Войдите в сердце Гилии из-под озера.",
+    "Explore the Heart of Gylia": "Исследуйте Сердце Гилии.",
+    "Escape the Heart of Gylia": "Сбегите из Сердца Гилии."
+  },
+
+  "Forbidden Prison": {
+    "Forbidden Prison": "Запретная Тюрьма",
+    "Enter the Forbidden Prison at {coords}": "Войдите в Запретную Тюрьму в {coords}.",
+    "Navigate through the prison": "Пройдите через тюрьму.",
+    "Escape the prison": "Сбегите из тюрьмы.",
+    "Defeat the Prison Warden": "Победите Тюремного Надзирателя."
+  },
+
+  "Bob's Lost Soul": {
+    "Bob's Lost Soul": "Потерянная Душа Боба",
+    "Talk to Tarod in Nesaak's Forest at {coords}": "Поговорите с Тародом в Лесу Несаака в {coords}.",
+    "Find Bob's Tomb": "Найдите Гробницу Боба.",
+    "Report what you've found to Tarod at {coords}": "Доложите Тароду о находке в {coords}.",
+    "Talk to the sorcerer Wedyf in Bremminglar": "Поговорите с чародеем Ведифом в Бреммингларе.",
+    "Bring [1 Bob's Tear] from Ragni and [1 Rose] from the house in the Nesaak forest around {coords} to Wedyf": "Принесите [1 Слезу Боба] из Рагни и [1 Розу] из дома в лесу Несаака около {coords} Ведифу.",
+    "Talk to the blacksmith in the small settlement southwest of Ternaves at {coords} about Bob's lost soul": "Поговорите с кузнецом в маленьком поселении к юго-западу от Тернавес в {coords} о потерянной душе Боба.",
+    "Bring [1 Depressing Stick], [1 Depressing Spear], [1 Depressing Bow] and [1 Depressing Shears] to the Blacksmith": "Принесите [1 Унылую Палку], [1 Унылое Копьё], [1 Унылый Лук] и [1 Унылые Ножницы] Кузнецу.",
+    "Bring back [1 Bob's Crushed Soul] to Wedyf": "Принесите [1 Раздавленную Душу Боба] Ведифу.",
+    "Find Bob's corpse in his tomb": "Найдите тело Боба в его гробнице.",
+    "Report back what you've seen to Tarod": "Доложите Тароду о том, что вы видели."
+  },
+
+  "Ice Barrows": {
+    "Ice Barrows": "Ледяные Курганы",
+    "Enter the Ice Barrows at {coords}.": "Войдите в Ледяные Курганы в {coords}.",
+    "Kill 10 Freezing Guards.": "Убейте 10 Замораживающих Стражей.",
+    "Complete the parkour.": "Пройдите паркур.",
+    "Kill 32 Poltergiceds.": "Убейте 32 Полтергайсов.",
+    "Find the invisible path across the chasms.": "Найдите невидимый путь через пропасти.",
+    "Survive the tunnel run.": "Выживите в пробежке по туннелю.",
+    "Defeat the three minibosses.": "Победите трёх мини-боссов.",
+    "Defeat Theorick.": "Победите Теорика."
+  },
+
+  "Undergrowth Ruins": {
+    "Undergrowth Ruins": "Руины Подлеска",
+    "Enter the Undergrowth Ruins at {coords}.": "Войдите в Руины Подлеска в {coords}.",
+    "Complete the first parkour.": "Пройдите первый паркур.",
+    "Escort the Keystone Guardian to the door.": "Сопроводите Стража Ключевого Камня к двери.",
+    "Complete the second parkour.": "Пройдите второй паркур.",
+    "Destroy the 4 blue tokens by bringing down the pillars.": "Уничтожьте 4 синих жетона, обрушив колонны.",
+    "Complete the final parkour.": "Пройдите финальный паркур.",
+    "Kill 24 Lilla Slimes.": "Убейте 24 Маленьких Слаймов.",
+    "Defeat Slykaar.": "Победите Слайкаара."
+  },
+
+  "Galleon's Graveyard": {
+    "Galleon's Graveyard": "Кладбище Галеонов",
+    "Enter the Galleon's Graveyard at {coords}.": "Войдите на Кладбище Галеонов в {coords}.",
+    "Collect 24 Chunks of Scrap and bring them to the collector.": "Соберите 24 Куска Лома и принесите их к коллектору.",
+    "Defeat the Pirate Bomberman.": "Победите Пиратского Подрывника.",
+    "Collect a Gate Key from the loot pile.": "Заберите Ключ от Ворот из кучи добычи.",
+    "Survive the TNT barrage for 30 seconds.": "Выживайте под обстрелом ТНТ 30 секунд.",
+    "Defeat the Megalodon.": "Победите Мегалодона.",
+    "Sink 15 Pirate Boats using the cannon.": "Потопите 15 Пиратских Лодок с помощью пушки.",
+    "Escape the Piranha.": "Убегите от Пираньи.",
+    "Defeat the Piranha.": "Победите Пиранью.",
+    "Defeat the Mutineers.": "Победите Мятежников.",
+    "Defeat Captain Redbeard.": "Победите Капитана Рыжебородого."
+  },
+
+  "Aldorei's Secret Part I": {
+    "Aldorei's Secret Part I": "Секрет Алдорея: Часть I",
+    "Talk to the Elf Guard at {coords}.": "Поговорите с Эльфийским Стражем в {coords}.",
+    "See if anyone in Aldorei Valley knows what happened.": "Узнайте, знает ли кто-нибудь в Долине Алдорей, что произошло.",
+    "Find a use for Damys' Bucket.": "Найдите применение Ведру Дэмиса.",
+    "Find a way to grow the plant by the waterfall.": "Найдите способ вырастить растение у водопада.",
+    "Explore the secret garden.": "Исследуйте секретный сад.",
+    "Investigate the [Iridescent Leaves].": "Исследуйте [Переливающиеся Листья].",
+    "Go to the botanist's house at {coords}.": "Отправьтесь к дому ботаника в {coords}.",
+    "Kill the carnivorous plant and loot the book.": "Убейте плотоядное растение и заберите книгу.",
+    "Investigate the alchemist's shop at {coords}.": "Исследуйте магазин алхимика в {coords}.",
+    "Chase the criminal.": "Преследуйте преступника.",
+    "Choose.": "Сделайте выбор."
+  },
+
+  "Aldorei's Secret Part II": {
+    "Aldorei's Secret Part II": "Секрет Алдорей: Часть II",
+    "Enter the town of Aldorei at {coords}.": "Войдите в город Алдорей в {coords}.",
+    "Follow Olon into Aldorei Town.": "Следуйте за Олоном в город Алдорей.",
+    "Check with the elves around Aldorei Town for information.": "Узнайте информацию у эльфов в городе Алдорей.",
+    "Return to Olon with the information at {coords}.": "Вернитесь к Олону с информацией в {coords}.",
+    "Find Amber at {coords}.": "Найдите Эмбер в {coords}.",
+    "Find the underground area of Aldorei near the waterfall.": "Найдите подземную область Алдорей возле водопада.",
+    "Go to the bar at {coords}.": "Отправьтесь в бар в {coords}.",
+    "Head downstream the underground river.": "Спуститесь вниз по подземной реке.",
+    "Cast a spell on the boulders with Olon.": "Наложите заклинание на валуны вместе с Олоном.",
+    "Explore the abandoned tomb.": "Исследуйте заброшенную гробницу.",
+    "Investigate the graves in the tomb.": "Исследуйте могилы в гробнице.",
+    "Confront the Sol Embassy.": "Противостаньте Солнечному Посольству.",
+    "Choose.": "Сделайте выбор.",
+    "Confront the Elders at {coords}.": "Противостойте Старейшинам в {coords}.",
+    "Return to Olon.": "Вернитесь к Олону."
+  },
+
+  "The Qira Hive": {
+    "The Qira Hive": "Улей Киры",
+    "Talk to Yansur at {coords} and begin the Hive Challenge.": "Поговорите с Янсуром в {coords} и начните Испытание Улья.",
+    "Prepare to enter the Thunder Division.": "Приготовьтесь войти в Дивизион Грома.",
+    "Collect 5 Thunder Catalyst": "Соберите 5 Катализаторов Грома",
+    "Defeat the Psychomancer and collect 1 Thunder Catalyst X.": "Победите Психоманта и соберите 1 Катализатор Грома X.",
+    "Talk to Yansur to receive your prize for overcoming the Thunder Division.": "Поговорите с Янсуром, чтобы получить награду за прохождение Дивизиона Грома.",
+    "Prepare to enter the Air Division.": "Приготовьтесь войти в Дивизион Воздуха.",
+    "Collect 5 Air Catalyst": "Соберите 5 Катализаторов Воздуха",
+    "Defeat the Spirit of Gale and collect 1 Air Catalyst X.": "Победите Дух Вихря и соберите 1 Катализатор Воздуха X.",
+    "Talk to Yansur to receive your prize for overcoming the Air Division.": "Поговорите с Янсуром, чтобы получить награду за прохождение Дивизиона Воздуха.",
+    "Prepare to enter the Earth Division.": "Приготовьтесь войти в Дивизион Земли.",
+    "Collect 5 Earth Catalyst": "Соберите 5 Катализаторов Земли",
+    "Defeat Genesis-Revorse and collect 1 Earth Catalyst X.": "Победите Генезис-Реворс и соберите 1 Катализатор Земли X.",
+    "Talk to Yansur to receive your prize for overcoming the Earth Division.": "Поговорите с Янсуром, чтобы получить награду за прохождение Дивизиона Земли.",
+    "Prepare to enter the Water Division.": "Приготовьтесь войти в Дивизион Воды.",
+    "Collect 5 Water Catalyst": "Соберите 5 Катализаторов Воды",
+    "Defeat the Oceanic Judge and collect 1 Water Catalyst X.": "Победите Океанического Судью и соберите 1 Катализатор Воды X.",
+    "Talk to Yansur to receive your prize for overcoming the Water Division.": "Поговорите с Янсуром, чтобы получить награду за прохождение Дивизиона Воды.",
+    "Prepare to enter the Fire Division.": "Приготовьтесь войти в Дивизион Огня.",
+    "Collect 5 Fire Catalyst": "Соберите 5 Катализаторов Огня",
+    "Defeat the Solar Vanguard and collect 1 Fire Catalyst X.": "Победите Солнечного Авангарда и соберите 1 Катализатор Огня X.",
+    "Talk to Yansur to receive your prize for overcoming the Fire Division and complete the Hive Challenge.": "Поговорите с Янсуром, чтобы получить награду за прохождение Дивизиона Огня и завершить Испытание Улья.",
+    "Prepare to enter the chambers of Mistress Qira.": "Приготовьтесь войти в покои Госпожи Киры.",
+    "Defeat Qira, Mistress of the Hive and collect 1 Master Catalyst.": "Победите Киру, Госпожу Улья, и соберите 1 Мастер-Катализатор.",
+    "Talk to Yansur and truly complete the Hive Challenge.": "Поговорите с Янсуром и по-настоящему завершите Испытание Улья."
+  },
+
+  "Fallen Factory": {
+    "Fallen Factory": "Павшая Фабрика",
+    "Enter the Fallen Factory at {coords}.": "Войдите на Павшую Фабрику в {coords}.",
+    "Collect 24 Chunks of Scrap and bring them to the collector.": "Соберите 24 Куска Лома и принесите их к коллектору.",
+    "Survive the production line.": "Выживите на производственной линии.",
+    "Collect 4 Volatile Cores and bring them to the hopper.": "Соберите 4 Нестабильных Ядра и принесите их в воронку.",
+    "Complete the clockwork parkour.": "Пройдите паркур через часовой механизм.",
+    "Collect 16 Chunks of Scrap and 1 Volatile Core.": "Соберите 16 Кусков Лома и 1 Нестабильное Ядро.",
+    "Defeat Wynnston.": "Победите Уиннстона.",
+    "Collect 12 Chunks of Scrap.": "Соберите 12 Кусков Лома.",
+    "Defeat Antikythera Auxiliary Core A.": "Победите Вспомогательное Ядро Антикитеры A.",
+    "Collect 4 Volatile Cores.": "Соберите 4 Нестабильных Ядра.",
+    "Defeat Antikythera Auxiliary Core B.": "Победите Вспомогательное Ядро Антикитеры B.",
+    "Collect 16 Chunks of Scrap and 6 Volatile Cores.": "Соберите 16 Кусков Лома и 6 Нестабильных Ядер.",
+    "Defeat the Antikythera Supercomputer.": "Победите Суперкомпьютер Антикитеры."
+  },
+
+  "The Nameless Anomaly": {
+    "The Nameless Anomaly": "Безымянная Аномалия",
+    "Enter the Nameless Anomaly at {coords}.": "Войдите в Безымянную Аномалию в {coords}.",
+    "Destroy the Void Holes within 120s!": "Уничтожьте Пустотные Дыры в течение 120 секунд!",
+    "Destroy the Void Holes within 90s!": "Уничтожьте Пустотные Дыры в течение 90 секунд!",
+    "Hold the stump for 60s.": "Удерживайте пень 60 секунд.",
+    "Gather the Light!": "Соберите Свет!",
+    "Find and kill Shadowlings.": "Найдите и убейте Тенелингов.",
+    "The creature in the shadows has awoken...": "Существо в тенях пробудилось...",
+    "Offer souls to the altar to enter the tree.": "Принесите души к алтарю, чтобы войти в дерево.",
+    "Protect the Bulb": "Защитите Луковицу",
+    "Collect 5 Void Matter while defending the Giant Void Hole.": "Соберите 5 Пустотной Материи, защищая Гигантскую Пустотную Дыру.",
+    "Survive.": "Выживите."
+  },
+
+  "A Journey Further": {
+    "A Journey Further": "Путешествие Дальше",
+    "Talk to Aledar in Lutho at {coords}.": "Поговорите с Аледаром в Лутхо в {coords}.",
+    "Continue your journey with Aledar.": "Продолжите путешествие с Аледаром.",
+    "Follow the Path.": "Следуйте по пути.",
+    "Defeat the Parasitic Slimers.": "Победите Паразитических Слизней.",
+    "Continue on the main path with Aledar.": "Продолжайте идти по главному пути с Аледаром.",
+    "Defend Aledar from the Radiated Spiders.": "Защитите Аледара от Радиоактивных Пауков.",
+    "Jump into the void hole.": "Прыгните в пустотную дыру.",
+    "Continue on the trail with Aledar.": "Продолжайте идти по тропе с Аледаром.",
+    "Use Void Holes to try and get behind the spike barrier": "Используйте Пустотные Дыры, чтобы попасть за барьер из шипов",
+    "Find a way to help Aledar get to the other side of the spike barrier.": "Найдите способ помочь Аледару добраться до другой стороны барьера из шипов.",
+    "Right click to grab the blade in the altar.": "Нажмите ПКМ, чтобы взять клинок с алтаря.",
+    "Sacrifice Aledar.": "Принесите Аледара в жертву."
+  },
+
+  "A Journey Beyond": {
+    "A Journey Beyond": "Путешествие За Пределы",
+    "Join Elphaba on a mission in Detlas at {coords}.": "Присоединитесь к Эльфабе на миссии в Детласе в {coords}.",
+    "Follow your team towards the Silent Expanse's entrance.": "Следуйте за командой к входу в Безмолвное Пространство.",
+    "Defeat the Beast": "Победите Зверя",
+    "Plan a way of killing the beast.": "Составьте план убийства зверя.",
+    "Meet the other soldiers at {coords}.": "Встретьтесь с другими солдатами в {coords}.",
+    "Get the Shard with Aledar.": "Получите Осколок с Аледаром.",
+    "Go deeper into the cave at {coords} for the Shard.": "Углубитесь в пещеру в {coords} за Осколком.",
+    "Chase the beast for the Shard.": "Преследуйте зверя за Осколком.",
+    "Kill the Progenitors to open up the entrance.": "Убейте Прародителей, чтобы открыть вход.",
+    "Kill the Mangled Progeny for the [1 Corrupted Pearl].": "Убейте Искалеченное Потомство за [1 Испорченную Жемчужину].",
+    "Return to the Blacksmith with the Darkness Item.": "Вернитесь к Кузнецу с Предметом Тьмы.",
+    "Re-open the closed entrance with the other warriors.": "Повторно откройте закрытый вход с другими воинами.",
+    "Kill the Black Geist.": "Убейте Чёрного Гейста.",
+    "Explore the Silent Expanse.": "Исследуйте Безмолвное Пространство.",
+    "Find Aledar, Lucio and Elphaba in the Fallen City.": "Найдите Аледара, Лучио и Эльфабу в Павшем Городе.",
+    "Find Aledar in the Fallen City.": "Найдите Аледара в Павшем Городе.",
+    "Escort Aledar through the Eyeball Forest to Lutho at {coords}.": "Сопровождайте Аледара через Лес Глазных Яблок в Лутхо в {coords}."
+  },
+
+  "Realm of Light I - The Worm Holes": {
+    "Realm of Light I - The Worm Holes": "Царство Света I - Червоточины",
+    "Find out what's going on at {coords}": "Узнайте, что происходит в {coords}",
+    "Go down the hole and look for what's causing this and return to Malo at {coords} with proof.": "Спуститесь в яму, найдите причину происходящего и вернитесь к Мало в {coords} с доказательством.",
+    "Look for Lari and ask what is going on at {coords}": "Найдите Лари и спросите, что происходит в {coords}",
+    "Meet up with Lari at {coords}": "Встретьтесь с Лари в {coords}",
+    "Investigate the worm tunnels.": "Исследуйте червячные туннели.",
+    "Fight the Grootslang with Lari": "Сражайтесь с Грутслангом вместе с Лари"
+  },
+
+  "Realm of Light II - Taproot": {
+    "Realm of Light II - Taproot": "Царство Света II - Стержневой Корень",
+    "Find Lari in the Dark Forest at {coords}": "Найдите Лари в Тёмном Лесу в {coords}",
+    "Follow Lari to the black spot next to her camp.": "Следуйте за Лари к чёрному пятну рядом с её лагерем.",
+    "Follow the trail of magic leading from the black spot.": "Следуйте по следу магии, ведущему от чёрного пятна.",
+    "Talk to Lari outside the weird gate at {coords}": "Поговорите с Лари возле странных ворот в {coords}",
+    "Enter the door.": "Войдите в дверь.",
+    "Listen to the meeting.": "Подслушайте встречу.",
+    "Make your choice.": "Сделайте свой выбор.",
+    "Enter The Taproot": "Войдите в Стержневой Корень",
+    "Explore the weird realm": "Исследуйте странное царство",
+    "Explore the Light Forest.": "Исследуйте Светлый Лес.",
+    "Talk to Lari outside the Taproot gate.": "Поговорите с Лари возле ворот Стержневого Корня."
+  },
+
+  "Realm of Light III - A Headless History": {
+    "Realm of Light III - A Headless History": "Царство Света III - Безголовая История",
+    "Talk to Hans in the Gelibord outskirts at {coords}": "Поговорите с Гансом на окраинах Гелиборда в {coords}",
+    "Talk to Referick in his house and head upstairs at {coords}": "Поговорите с Рефериком в его доме и поднимитесь наверх в {coords}",
+    "Investigate his house for clues as to what could have happened.": "Обыщите его дом в поисках улик о том, что могло произойти.",
+    "Travel to the castle in the north at {coords}": "Отправьтесь в замок на севере в {coords}",
+    "Enter the underground prison.": "Войдите в подземную тюрьму.",
+    "Return to Referick with his soul at {coords}": "Вернитесь к Реферику с его душой в {coords}",
+    "Enter Dullahan's castle.": "Войдите в замок Дуллахана.",
+    "Investigate the painting at {coords}": "Исследуйте картину в {coords}",
+    "Continue exploring the castle.": "Продолжайте исследовать замок.",
+    "Leave the room and continue exploring the castle.": "Покиньте комнату и продолжайте исследовать замок.",
+    "Enter the last door in the dining hall.": "Войдите в последнюю дверь в обеденном зале.",
+    "Investigate the dark door at the end of the castle.": "Исследуйте тёмную дверь в конце замка."
+  },
+
+  "Realm of Light IV - Finding the Light": {
+    "Realm of Light IV - Finding the Light": "Царство Света IV - Поиск Света",
+    "Find Lari in the Light Forest at {coords}.": "Найдите Лари в Светлом Лесу в {coords}.",
+    "Read the inscription at the bottom of the big tree.": "Прочтите надпись у подножия большого дерева.",
+    "Find the Church Library in the city of Cinfras at {coords}.": "Найдите Церковную Библиотеку в городе Синфрас в {coords}.",
+    "Find a way up to the church bell at the top of the church.": "Найдите способ подняться к церковному колоколу на вершине церкви.",
+    "Explore the secret library and find a way to wake up the tree.": "Исследуйте секретную библиотеку и найдите способ разбудить дерево.",
+    "Return to Lari at {coords}": "Вернитесь к Лари в {coords}",
+    "Use the spell on the inscription under the tree.": "Используйте заклинание на надписи под деревом.",
+    "Enter the portal Lari left behind": "Войдите в портал, оставленный Лари",
+    "Go to the hut Lari entered.": "Отправьтесь к хижине, в которую вошла Лари.",
+    "Find a way to sneak into the hut.": "Найдите способ пробраться в хижину.",
+    "Talk to the Elder at {coords}": "Поговорите со Старейшиной в {coords}",
+    "Find the Canned Abis cave at {coords}": "Найдите пещеру Консервированного Абиса в {coords}",
+    "Find the plant inside the cave.": "Найдите растение внутри пещеры.",
+    "Return to the Tree at {coords}.": "Вернитесь к Дереву в {coords}.",
+    "Battle Lari": "Сразитесь с Лари",
+    "Talk to the Guardian": "Поговорите со Стражем"
+  },
+
+  "Realm of Light V - The Realm of Light": {
+    "Realm of Light V - The Realm of Light": "Царство Света V - Царство Света",
+    "Meet up with Lari at {coords}.": "Встретьтесь с Лари в {coords}.",
+    "Walk towards the portal with Lari.": "Идите к порталу вместе с Лари.",
+    "Jump into the portal after Lari.": "Прыгните в портал вслед за Лари.",
+    "Talk to Lari at {coords} in the Realm of Light.": "Поговорите с Лари в {coords} в Царстве Света.",
+    "Follow Lari to Orphion's Nexus of Light at {coords}": "Следуйте за Лари к Нексусу Света Орфиона в {coords}",
+    "Search for the monolith Lari was talking about at {coords}.": "Найдите монолит, о котором говорила Лари, в {coords}.",
+    "Enter the monolith.": "Войдите в монолит.",
+    "Find a way to fill the monolith with light.": "Найдите способ наполнить монолит светом.",
+    "Follow Lari to the next monolith at {coords}.": "Следуйте за Лари к следующему монолиту в {coords}.",
+    "Defeat the darkened creatures and progress to the monolith.": "Победите потемневших существ и продвигайтесь к монолиту.",
+    "Enter the second monolith at {coords}.": "Войдите во второй монолит в {coords}.",
+    "Return to the bridge at {coords}.": "Вернитесь к мосту в {coords}.",
+    "Continue up the road towards Orphion's Nexus of Light.": "Продолжайте подниматься по дороге к Связи Света Орфиона.",
+    "Follow Lari to Orphion's Nexus of Light at {coords}.": "Следуйте за Лари к Связи Света Орфиона в {coords}."
+  },
+
+  "Memory Paranoia": {
+    "Memory Paranoia": "Паранойя Памяти",
+    "Speak to Atisun.": "Поговорите с Атисуном.",
+    "Enter the Caritat Mansion.": "Войдите в Особняк Карита.",
+    "Learn the story of the Caritat Family.": "Узнайте историю семьи Карита.",
+    "Enter the basement and recover the Library Key.": "Войдите в подвал и найдите Ключ от Библиотеки.",
+    "Enter the library of Caritat Mansion.": "Войдите в библиотеку Особняка Карита.",
+    "Enter the hole in the wall.": "Войдите в дыру в стене.",
+    "Return the spoon to the Kitchen.": "Верните ложку на Кухню.",
+    "Listen to Mr. Caritat's announcement.": "Послушайте объявление мистера Карита.",
+    "Enter the Kitchen.": "Войдите на Кухню.",
+    "Exit the Kitchen.": "Выйдите из Кухни.",
+    "Speak to people who haven't fled from the disaster.": "Поговорите с людьми, которые не сбежали от катастрофы.",
+    "Unlock the Study.": "Откройте Кабинет.",
+    "Enter the Study": "Войдите в Кабинет",
+    "Leave the Study.": "Покиньте Кабинет.",
+    "Speak with the Possessed Mr. Caritat.": "Поговорите с Одержимым мистером Каритом.",
+    "Bring the key to Timmy's bedroom.": "Принесите ключ в спальню Тимми.",
+    "Enter Timmy's bedroom.": "Войдите в спальню Тимми.",
+    "Search Timmy's bedroom.": "Обыщите спальню Тимми.",
+    "Bring the key to the Master Bedroom.": "Принесите ключ в Главную Спальню.",
+    "Enter the Master Bedroom.": "Войдите в Главную Спальню.",
+    "Escape the flaming mansion through the back door.": "Сбегите из горящего особняка через заднюю дверь.",
+    "Navigate the Caritat's basement.": "Пройдите через подвал Каритов.",
+    "Escape through the mysterious rift.": "Сбегите через таинственный разлом.",
+    "Enter the Study.": "Войдите в Кабинет."
+  },
+
+  "The Hunger of Gerts Part I": {
+    "The Hunger of Gerts Part I": "Голод Гертов: Часть I",
+    "Talk to Cikal.": "Поговорите с Сикалом.",
+    "Search around the farms for clues.": "Обыщите фермы в поисках улик.",
+    "Inspect the Gerten Forwarding Camp nearby.": "Осмотрите ближайший Передовой Лагерь Гертов.",
+    "Enter the dark cave in the back of the camp.": "Войдите в тёмную пещеру в задней части лагеря.",
+    "Explore the Gerten cave.": "Исследуйте пещеру Гертов.",
+    "Spy on the Gerten meeting.": "Подслушайте собрание Гертов.",
+    "Tell farmer Jitak about the tunnel.": "Расскажите фермеру Житаку о туннеле.",
+    "Bring Jitak 6 Gert Skin.": "Принесите Житаку 6 Шкур Гертов.",
+    "Go to the Gerten Camp.": "Отправьтесь в Лагерь Гертов.",
+    "Talk to the Gerten Captain.": "Поговорите с Капитаном Гертов.",
+    "Find the password by killing the Solitary Gert.": "Найдите пароль, убив Одинокого Герта.",
+    "Inspect the tunnel.": "Осмотрите туннель.",
+    "Escape your cell.": "Сбегите из своей камеры.",
+    "Escape the Gerten prison.": "Сбегите из тюрьмы Гертов.",
+    "Head to the cell.": "Направляйтесь к камере.",
+    "Kill the Hungry Gert and return to Comor with the Cell Key.": "Убейте Голодного Герта и вернитесь к Комору с Ключом от Камеры.",
+    "Kill the Gerten Prison Warden and use the Barricade Key on Barricade Keyhole to escape.": "Убейте Тюремщика Гертов и используйте Ключ от Баррикады на Замке Баррикады, чтобы сбежать.",
+    "Leave the Gerten prison and return to Cikal to tell him about the tunnels.": "Покиньте тюрьму Гертов и вернитесь к Сикалу, чтобы рассказать ему о туннелях."
+  },
+
+  "The Hunger of Gerts Part II": {
+    "The Hunger of Gerts Part II": "Голод Гертов: Часть II",
+    "Talk to Gerten Chief Lobo. Bring the Gert mask.": "Поговорите с Вождём Гертов Лобо. Принесите маску Гертов.",
+    "Head to Jitak's house.": "Отправьтесь к дому Житака.",
+    "Find another way into Jitak's house by looking around.": "Найдите другой путь в дом Житака, осмотревшись вокруг.",
+    "Talk to Gerten Excavator.": "Поговорите с Копателем Гертов.",
+    "Enter Jitak's basement using the hole Gerten Excavator has dug.": "Войдите в подвал Житака через яму, вырытую Копателем Гертов.",
+    "Find a way in to the battery farm from Jitak's basement.": "Найдите путь на батарейную ферму из подвала Житака.",
+    "Find a way out of the first room of the battery farm.": "Найдите выход из первой комнаты батарейной фермы.",
+    "Find a way out of the second room of the battery farm.": "Найдите выход из второй комнаты батарейной фермы.",
+    "Talk to Captured Gert.": "Поговорите с Пленённым Гертом.",
+    "Turn off the power.": "Выключите электричество.",
+    "Leave the third room of the battery farm.": "Покиньте третью комнату батарейной фермы.",
+    "Defeat Big Butch and put 1 Security Card into the Security Machine.": "Победите Большого Мясника и вставьте 1 Карту Доступа в Машину Безопасности.",
+    "Leave Big Butch's room.": "Покиньте комнату Большого Мясника.",
+    "Talk to Gerten Chief Lobo with 1 High Quality Meat Crate.": "Поговорите с Вождём Гертов Лобо, имея 1 Ящик Высококачественного Мяса."
+  },
+
+  "Rise of the Quartron": {
+    "Rise of the Quartron": "Восстание Квартрона",
+    "Talk to Nasea in the Karoc Quarry.": "Поговорите с Насеей в Карокском Карьере.",
+    "Talk to Dado and see if he is the culprit.": "Поговорите с Дадо и выясните, виновен ли он.",
+    "Go back to Nasea and tell her about Dado's response.": "Вернитесь к Насее и расскажите ей об ответе Дадо.",
+    "Find the Tattytale Flower.": "Найдите цветок Болтунью.",
+    "Make Dado confess by using the Tattytale Flower.": "Заставьте Дадо признаться, используя цветок Болтунью.",
+    "Go up the minecart hill and find Popo.": "Поднимитесь по холму вагонеток и найдите Попо.",
+    "Ride the minecart to the bandit mansion.": "Прокатитесь на вагонетке к особняку бандитов.",
+    "Break into the laboratory and stop Harnort.": "Проникните в лабораторию и остановите Харнорта.",
+    "Take down the Quartron and return to Nasea with the news.": "Уничтожьте Квартрон и вернитесь к Насее с новостями.",
+    "Join Nasea at the end of the minecart track.": "Присоединитесь к Насее в конце рельсового пути."
+  },
+
+  "The Envoy Part I": {
+    "The Envoy Part I": "Посланник: Часть I",
+    "Speak to Olivin.": "Поговорите с Оливином.",
+    "Speak to C.S.S Wavebreaker Captain at the Selchar docks.": "Поговорите с Капитаном К.С.С. Волнолом в доках Сельчара.",
+    "Get onto the C.S.S. Wavebreaker.": "Поднимитесь на борт К.С.С. Волнолом.",
+    "Speak to Corkus Delegate.": "Поговорите с Делегатом Коркуса.",
+    "Walk towards The Five Gears Diner.": "Направьтесь к Ресторану Пяти Шестерён.",
+    "Talk to Maxie.": "Поговорите с Макси.",
+    "Activate the fans.": "Активируйте вентиляторы.",
+    "Open the door and exit the ducts.": "Откройте дверь и выйдите из воздуховодов.",
+    "Follow the path.": "Следуйте по пути.",
+    "Talk to Maxie at the entrance to The Five Gears Diner.": "Поговорите с Макси у входа в Ресторан Пяти Шестерён.",
+    "Talk to Maxie and Corkus Delegate in Corkus City.": "Поговорите с Макси и Делегатом Коркуса в городе Коркус."
+  },
+
+  "The Envoy Part II": {
+    "The Envoy Part II": "Посланник: Часть II",
+    "Use Maxie's house key to enter Maxie's house.": "Используйте ключ от дома Макси, чтобы войти в дом Макси.",
+    "Talk to Maxie on the first floor.": "Поговорите с Макси на первом этаже.",
+    "Find the catapult.": "Найдите катапульту.",
+    "Locate the Avos Chief by asking the Avos citizens.": "Найдите Вождя Авосов, спросив у жителей Авосов.",
+    "Talk to the chief's friend.": "Поговорите с другом вождя.",
+    "Meet the grandmaster behind her house and get over the gap and enter the temple.": "Встретьтесь с грандмастером позади её дома, преодолейте разрыв и войдите в храм.",
+    "Find the key inside the temple.": "Найдите ключ внутри храма.",
+    "Return to Maxie in his house with the first key.": "Вернитесь к Макси в его дом с первым ключом.",
+    "Find the vault in Corkus City.": "Найдите хранилище в городе Коркус.",
+    "Look for the hidden mech base.": "Найдите скрытую базу мехов.",
+    "Retrieve the key from the base.": "Получите ключ с базы.",
+    "Find Maxie and give him the key.": "Найдите Макси и отдайте ему ключ.",
+    "Find Maxie outside the factory.": "Найдите Макси снаружи фабрики.",
+    "Talk to the chief's friend at {coords}.": "Поговорите с другом вождя в {coords}.",
+    "Find the vault in Corkus City at {coords}.": "Найдите хранилище в городе Коркус в {coords}.",
+    "Find Maxie outside the factory at {coords}.": "Найдите Макси снаружи фабрики в {coords}."
+  },
+
+  "One Thousand Meters Under": {
+    "One Thousand Meters Under": "На Тысячу Метров Ниже",
+    "Read the Help Wanted sign in Ahmsord.": "Прочитайте объявление о работе в Амсорде.",
+    "Talk to The Secretary.": "Поговорите с Секретарём.",
+    "Enter the conference room and listen to the scientist.": "Войдите в конференц-зал и послушайте учёного.",
+    "Enter the submarine.": "Войдите в подводную лодку.",
+    "Wait for the submarine to arrive at the void islands.": "Дождитесь прибытия подводной лодки к пустотным островам.",
+    "Take a nap in the resting room.": "Вздремните в комнате отдыха.",
+    "Talk to the captain outside of the submarine.": "Поговорите с капитаном снаружи подводной лодки.",
+    "Explore the island and look for the crystal.": "Исследуйте остров и найдите кристалл.",
+    "Return to the submarine and continue your journey.": "Вернитесь на подводную лодку и продолжите путешествие.",
+    "Continue your journey.": "Продолжите путешествие.",
+    "Head to the resting room.": "Отправьтесь в комнату отдыха.",
+    "Meet up with the captain outside the submarine.": "Встретьтесь с капитаном снаружи подводной лодки.",
+    "Find [5 Sand] and [10 Glue] on the void island.": "Найдите [5 Песка] и [10 Клея] на пустотном острове.",
+    "Return to the submarine and continue the journey.": "Вернитесь на подводную лодку и продолжите путешествие.",
+    "Find a way out of the void.": "Найдите выход из пустоты.",
+    "Talk to Rontaid outside the town.": "Поговорите с Ронтейдом за городом.",
+    "Return to the crash site by following the road.": "Вернитесь к месту крушения, следуя по дороге.",
+    "Return to the scientist and tell him the news.": "Вернитесь к учёному и сообщите ему новости."
+  },
+
+  "The Feathers Fly Part I": {
+    "The Feathers Fly Part I": "Перья Летят: Часть I",
+    "Visit the workshop.": "Посетите мастерскую.",
+    "Meet Ava.": "Встретьтесь с Авой.",
+    "Distract the Avos Chief.": "Отвлеките Вождя Авос.",
+    "Report back to Ava in the Workshop.": "Вернитесь к Аве в Мастерскую.",
+    "Meet Ava near the Corkian shop.": "Встретьтесь с Авой рядом с магазином Коркуса.",
+    "Ask for an Enhanced Microchip.": "Попросите Улучшенный Микрочип.",
+    "Find the control panel near the shop.": "Найдите панель управления рядом с магазином.",
+    "Meet Ava in the workshop.": "Встретьтесь с Авой в мастерской.",
+    "Meet Ava outside of the Workshop and help her operate her machine.": "Встретьтесь с Авой снаружи Мастерской и помогите ей управлять машиной.",
+    "Operate the machine with Ava for the Avos Chief.": "Управляйте машиной вместе с Авой для Вождя Авос.",
+    "Visit the workshop at {coords}.": "Посетите мастерскую в {coords}.",
+    "Meet Ava at {coords}.": "Встретьтесь с Авой в {coords}.",
+    "Distract the Avos Chief at {coords}.": "Отвлеките Вождя Авосов в {coords}.",
+    "Report back to Ava in the Workshop at {coords}.": "Вернитесь к Аве в Мастерскую в {coords}.",
+    "Meet Ava near the Corkian shop at {coords}.": "Встретьтесь с Авой возле коркианского магазина в {coords}.",
+    "Ask for an Enhanced Microchip at {coords}.": "Попросите Улучшенный Микрочип в {coords}.",
+    "Find the control panel near the shop at {coords}.": "Найдите панель управления возле магазина в {coords}.",
+    "Fight your way out of the shop at {coords}.": "Пробейтесь из магазина в {coords}.",
+    "Meet Ava in the workshop at {coords}.": "Встретьтесь с Авой в мастерской в {coords}.",
+    "Meet Ava outside of the Workshop and help her operate her machine at {coords}.": "Встретьтесь с Авой снаружи Мастерской и помогите ей управлять её машиной в {coords}.",
+    "Operate the machine with Ava for the Avos Chief at {coords}.": "Управляйте машиной вместе с Авой для Вождя Авосов в {coords}."
+  },
+
+  "The Feathers Fly Part II": {
+    "The Feathers Fly Part II": "Перья Летят: Часть II",
+    "Meet Ava near Corkus City.": "Встретьтесь с Авой рядом с городом Коркус.",
+    "Locate and jam all the robot sentries near the Corkus Clocktower within 20 seconds.": "Найдите и заглушите всех роботов-часовых рядом с Башней с Часами Коркуса за 20 секунд.",
+    "Talk to Ava.": "Поговорите с Авой.",
+    "Pick an outfit to fit in with the Corkians and bring it to Ava.": "Выберите наряд, чтобы сойти за Коркианца, и принесите его Аве.",
+    "Ask around Corkus City for a way to get an audience with the Council.": "Расспросите жителей города Коркус о способе получить аудиенцию у Совета.",
+    "Meet the Corkus Council.": "Встретьтесь с Советом Коркуса.",
+    "Bring the Accelerator back to Ava in the Workshop.": "Верните Ускоритель Аве в Мастерскую.",
+    "Meet Ava near Corkus City at {coords}.": "Встретьтесь с Авой возле города Коркус в {coords}.",
+    "Locate and jam all the robot sentries near the Corkus Clocktower at {coords} within 20 seconds": "Найдите и заглушите всех роботов-часовых возле Часовой башни Коркуса в {coords} за 20 секунд",
+    "Talk to Ava at {coords}.": "Поговорите с Авой в {coords}.",
+    "Pick an outfit to fit in with the Corkians and bring it to Ava at {coords}.": "Выберите наряд, чтобы слиться с Коркианцами, и принесите его Аве в {coords}.",
+    "Ask around Corkus City for a way to get an audience with the Council. Ava is at {coords}": "Расспросите жителей города Коркус о способе получить аудиенцию у Совета. Ава находится в {coords}",
+    "Go to the receptionist at {coords} with the Audience Invitation Letter.": "Отправьтесь к секретарю в {coords} с Пригласительным Письмом на Аудиенцию.",
+    "Show the Audience Invitation Letter to the Receptionist with Ava at {coords}.": "Покажите Пригласительное Письмо на Аудиенцию секретарю вместе с Авой в {coords}.",
+    "Ask Ava to follow you, then show the Audience Invitation Letter to the Receptionist.": "Попросите Аву следовать за вами, затем покажите Пригласительное Письмо на Аудиенцию секретарю.",
+    "Watch Ava's presentation.": "Посмотрите презентацию Авы.",
+    "Escape the Council room through the window.": "Сбегите из зала Совета через окно.",
+    "Find Ava in the city.": "Найдите Аву в городе.",
+    "Follow Ava to the docks.": "Следуйте за Авой к докам.",
+    "Talk to Ava at the docks.": "Поговорите с Авой в доках."
+  },
+
+  "From the Mountains": {
+    "From the Mountains": "С Гор",
+    "Find out what's going on.": "Узнайте, что происходит.",
+    "Find what Arnod wants inside of the house.": "Найдите то, что нужно Арноду, внутри дома.",
+    "Find someone in Bucie who can help you with the fires.": "Найдите кого-нибудь в Буси, кто поможет вам с пожарами.",
+    "Go to the path, and follow it up to the top of the mountain.": "Идите к тропе и следуйте по ней до вершины горы.",
+    "Capture all of the rogue Flerisi and bring them to Axelus.": "Поймайте всех сбежавших Флериси и принесите их Акселусу.",
+    "Enter the hole.": "Войдите в яму.",
+    "Investigate the trail of fire.": "Исследуйте след огня.",
+    "Subdue the Fleris.": "Усмирите Флериса.",
+    "Exit the cave and talk with Axelus.": "Выйдите из пещеры и поговорите с Акселусом."
+  },
+
+  "Troubled Tribesmen": {
+    "Troubled Tribesmen": "Обеспокоенные Соплеменники",
+    "Talk to Ka L'argwit.": "Поговорите с Ка Л'аргвитом.",
+    "Talk to Krattson.": "Поговорите с Краттсоном.",
+    "Talk to Shaman Inrekei.": "Поговорите с Шаманом Инрекеем.",
+    "Return to Ka L'argwit.": "Вернитесь к Ка Л'аргвиту.",
+    "Investigate the roots of Entamis.": "Исследуйте корни Энтамиса.",
+    "Kill Aenara and bring an Insect of Corruption to Shaman Inrekei.": "Убейте Аэнару и принесите Насекомое Порчи Шаману Инрекею."
+  },
+
+  "Flight in Distress": {
+    "Flight in Distress": "Полёт в Беде",
+    "Bring your Gavellian Passport to the Airship Clerk.": "Принесите свой Гавельский Паспорт к Служащему Дирижабля.",
+    "Enter the airship.": "Войдите на дирижабль.",
+    "Speak to Captain Ackbar regarding the missing child.": "Поговорите с Капитаном Акбаром о пропавшем ребёнке.",
+    "Try and find out where the missing child is located by speaking to the passengers.": "Попробуйте узнать, где находится пропавший ребёнок, поговорив с пассажирами.",
+    "Return back to the Captain.": "Вернитесь к Капитану.",
+    "Look if the engineer has something for you to do in order to help.": "Узнайте, есть ли у инженера задание для вас, чтобы помочь.",
+    "Go find and fix the issue with the airship's engines.": "Найдите и почините неисправность двигателей дирижабля.",
+    "Report to Engineer Eric that you fixed the engines.": "Доложите Инженеру Эрику, что вы починили двигатели.",
+    "Return back to your cabin.": "Вернитесь в свою каюту.",
+    "Explore the lower deck and find out what caused the explosion.": "Исследуйте нижнюю палубу и выясните, что вызвало взрыв.",
+    "Get to the other ship.": "Доберитесь до другого корабля.",
+    "Head below deck.": "Спуститесь под палубу.",
+    "Speak to the prisoner.": "Поговорите с пленником.",
+    "Make the key to reach the Skyraider Queen.": "Сделайте ключ, чтобы добраться до Королевы Небесных Рейдеров.",
+    "Fight the Skyraider Queen and take one of her personal treasures with you.": "Сразитесь с Королевой Небесных Рейдеров и возьмите одно из её личных сокровищ.",
+    "Escape the ship and speak to Captain Ackbar.": "Сбегите с корабля и поговорите с Капитаном Акбаром.",
+    "Head down to the entrance deck, and get off.": "Спуститесь на входную палубу и сойдите.",
+    "Speak to Calo next to the little ship at the Detlas docks.": "Поговорите с Кало возле маленького корабля в доках Детласа.",
+    "Bring your Gavellian Passport to the Airship Clerk at {coords}.": "Принесите свой Гавеллианский Паспорт Служащему Дирижабля в {coords}.",
+    "Go find and fix the issue with the airship's engines. They are located on top of the balloon through the bridge.": "Найдите и устраните проблему с двигателями дирижабля. Они находятся на вершине шара через мостик."
+  },
+
+  "A Hunter's Calling": {
+    "A Hunter's Calling": "Зов Охотника",
+    "Explore the deepest part of the Silent Expanse.": "Исследуйте глубочайшую часть Тихой Пустоши.",
+    "The besieged origin. To end, one must begin.": "Осаждённое начало. Чтобы закончить, нужно начать.",
+    "Murder 10 Ragni Citizens.": "Убейте 10 жителей Рагни.",
+    "The unrighteous sought it. The noble hid it. The one seeking answers found more questions.": "Неправедные искали это. Благородные прятали это. Ищущий ответы нашёл больше вопросов.",
+    "Head to town and get further information from the employee.": "Отправьтесь в город и получите дополнительную информацию от сотрудника.",
+    "Climb the tree and look through the window.": "Заберитесь на дерево и посмотрите в окно.",
+    "Head to the northern part of the Bank and find a way up to the ceiling.": "Направьтесь в северную часть Банка и найдите путь на потолок.",
+    "Head back to the excavation camp.": "Вернитесь в лагерь раскопок.",
+    "The cruel. The kind. The selfish. The just. He who traveled life with confliction.": "Жестокий. Добрый. Эгоистичный. Справедливый. Тот, кто прошёл жизнь в противоречиях.",
+    "Head to Nesaak and locate Theorick.": "Направьтесь в Несаак и найдите Теорика.",
+    "Defeat Theorick.": "Победите Теорика.",
+    "An end, ousted by further action. An end, brought to six. An end, to the surety of the haughty.": "Конец, вытесненный дальнейшим действием. Конец, принесённый шестерым. Конец уверенности надменных.",
+    "Enter the Corrupter of World Cave.": "Войдите в Пещеру Разрушителя Миров.",
+    "Make your way to the end of the cave.": "Доберитесь до конца пещеры.",
+    "Return back up the cave and fix a way out.": "Вернитесь наверх по пещере и найдите выход.",
+    "Metal. Preventing an end. Life. Ends, prevented.": "Металл. Предотвращающий конец. Жизнь. Концы предотвращены.",
+    "Trick 3 people to follow you into the iron golem factory.": "Обманом заставьте 3 людей следовать за вами на фабрику железных големов.",
+    "Make your way through the factory.": "Пройдите через фабрику.",
+    "A home, invaded. A society, crumbling. The people, starving. The concerned, helpless.": "Дом, захваченный. Общество, рушащееся. Люди, голодающие. Обеспокоенные, беспомощные.",
+    "Head back to the slums and speak to the slum citizens.": "Вернитесь в трущобы и поговорите с жителями трущоб.",
+    "Return to the advisor for what to do next.": "Вернитесь к советнику за дальнейшими указаниями.",
+    "Head deep inside the slums and blow it up.": "Проникните глубоко в трущобы и взорвите их.",
+    "Metal. Life. A new place... One is not sacrificed for another.": "Металл. Жизнь. Новое место... Одно не приносится в жертву другому.",
+    "Destroy the catapult.": "Уничтожьте катапульту.",
+    "Find a way back to base.": "Найдите путь обратно на базу.",
+    "Fire the catapult at the Avos village.": "Выстрелите из катапульты по деревне Авосов.",
+    "Make your way back to the portal.": "Вернитесь к порталу."
+  },
+
+  "Finding The Light": {
+    "Finding The Light": "Поиск Света",
+    "Talk to the Guardian of The Forest in the Light Forest.": "Поговорите со Стражем Леса в Светлом Лесу.",
+    "Find the Arch in the Light Forest.": "Найдите Арку в Светлом Лесу.",
+    "Return to the Guardian of The Forest to seek guidance.": "Вернитесь к Стражу Леса за наставлением.",
+    "Find someone in Cinfras who can help you SEE.": "Найдите кого-нибудь в Синфрасе, кто поможет вам ВИДЕТЬ.",
+    "Take the Eye Exam.": "Пройдите проверку зрения.",
+    "Talk to Ollie.": "Поговорите с Олли.",
+    "Talk to Charlie outside of Ollie's Optometry.": "Поговорите с Чарли снаружи оптики Олли.",
+    "Read Jack's run away letter in Charlie's house.": "Прочитайте письмо Джека о побеге в доме Чарли.",
+    "Talk to Jack.": "Поговорите с Джеком.",
+    "Find Damien near Kander Forest.": "Найдите Дэмиена рядом с Лесом Кандер.",
+    "Talk to the Apothecary about getting medicine.": "Поговорите с Аптекарем о получении лекарства.",
+    "Break into Sasha's basement.": "Проникните в подвал Саши.",
+    "Talk to Sasha about her debt.": "Поговорите с Сашей о её долге.",
+    "Find the Gardener in the Cinfras Gardens.": "Найдите Садовника в Садах Синфраса.",
+    "Search the Gardener's cart for evidence of his lies.": "Обыщите тележку Садовника в поисках доказательств его лжи.",
+    "Threaten The Gardener with his receipt.": "Пригрозите Садовнику его квитанцией.",
+    "Talk to Sasha The Apothecary and get the medicine.": "Поговорите с Аптекарем Сашей и получите лекарство.",
+    "Give the medicine to Damien.": "Отдайте лекарство Дэмиену.",
+    "Tell Charlie his son Jack is okay.": "Скажите Чарли, что его сын Джек в порядке.",
+    "Return to Ollie in Cinfras.": "Вернитесь к Олли в Синфрас.",
+    "Return to the Guardian of The Forest in the Light Forest with the helmet.": "Вернитесь к Стражу Леса в Светлом Лесу со шлемом.",
+    "Head back to the Light Realm Arch.": "Вернитесь к Арке Царства Света.",
+    "Enter The Light Realm.": "Войдите в Царство Света."
+  },
+
+  "General's Orders": {
+    "General's Orders": "Приказы Генерала",
+    "Speak to Private Tylas outside of Kitrios Barracks at {coords}.": "Поговорите с Рядовым Тайласом у Казарм Китриос в {coords}.",
+    "Speak to General Lecade.": "Поговорите с Генералом Лекейдом.",
+    "Go check on the malfunctioning equipment at {coords}.": "Проверьте неисправное оборудование в {coords}.",
+    "Return to General Lecade.": "Вернитесь к Генералу Лекейду.",
+    "Recover the Good-Luck Charm from the sewers at {coords}.": "Достаньте Талисман Удачи из канализации в {coords}.",
+    "Return to General Lecade with the Good-Luck Charm.": "Вернитесь к Генералу Лекейду с Талисманом Удачи.",
+    "Walk across the tightrope.": "Пройдите по канату.",
+    "Paint the mountain by using the trampolines at {coords}.": "Покрасьте гору, используя батуты в {coords}.",
+    "Speak to Lieutenant Gren at {coords}.": "Поговорите с Лейтенантом Греном в {coords}.",
+    "Investigate the mysterious prison within the fort.": "Исследуйте таинственную тюрьму внутри форта."
+  },
+
+  "The Heartwood": {
+    "The Heartwood": "Сердце Леса",
+    "Enter The Heartwood at {coords}.": "Войдите в Сердце Леса в {coords}.",
+    "Collect 4 Ironwood Hearts to open the seal.": "Соберите 4 Сердца Железного Дерева, чтобы открыть печать.",
+    "Defeat the Electrogaea Apparitions to open the chest.": "Победите Призраков Электрогеи, чтобы открыть сундук.",
+    "Explore the cave and find the treasure.": "Исследуйте пещеру и найдите сокровище."
+  },
+
+  "Fallen Salient": {
+    "Fallen Salient": "Павший Выступ",
+    "On the walkways and platforms of a cliffside an old camp to fend against corruption has been overrun.": "На дорожках и платформах утёса старый лагерь для защиты от порчи был захвачен.",
+    "On the walkways and platforms of a cliffside an old camp to fend against corruption has been overrun": "На дорожках и платформах утёса старый лагерь для защиты от порчи был захвачен"
+  },
+
+  "Basalt Basin": {
+    "Basalt Basin": "Базальтовый Бассейн",
+    "Explore the Basalt Basin at": "Исследуйте Базальтовый Бассейн",
+    "Dying embers of what appears to be a volcano past its prime lies at": "Угасающие угли того, что кажется вулканом прошлого, находятся",
+    "Dying embers of what appears to be a volcano past its prime lies": "Угасающие угли того, что кажется вулканом прошлого",
+    "Survive the volcanic terrain": "Выживите на вулканической местности",
+    "Collect the resources": "Соберите ресурсы"
+  },
+
+  "Altar of Sanctification": {
+    "Altar of Sanctification": "Алтарь Освящения",
+    "Visit the Altar of Sanctification at": "Посетите Алтарь Освящения",
+    "Purify the corrupted spirits": "Очистите порченых духов",
+    "Complete the ritual": "Завершите ритуал"
+  },
+
+  "Temple Entrance": {
+    "Temple Entrance": "Вход в Храм",
+    "Find the Temple Entrance at": "Найдите Вход в Храм",
+    "Unlock the temple doors": "Откройте двери храма",
+    "Enter the sacred temple": "Войдите в священный храм"
+  },
+
+  "Jungle Fetish Camp": {
+    "Clear the Jungle Fetish Camp": "Очистите Лагерь Фетишей Джунглей",
+    "Defeat the fetishes": "Победите фетишей",
+    "Help the herb gatherers": "Помогите собирателям трав",
+    "Hordes of Fetishes are stopping Iboju medicine makers from getting their herbs": "Орды Фетишей не дают изготовителям лекарств Ибоджу собирать травы"
+  },
+
+  "Wynnter Fair": {
+    "Wynnter Fair": "Зимняя Ярмарка",
+    "Talk to the Fair Coordinator at": "Поговорите с Координатором Ярмарки",
+    "Enjoy the festivities": "Насладитесь праздником",
+    "Complete the fair activities": "Завершите ярмарочные активности"
+  },
+
+  "Corrupted Decrepit Sewers": {
+    "Corrupted Decrepit Sewers": "Порченая Ветхая Канализация",
+    "Enter the Corrupted Decrepit Sewers at": "Войдите в Порченую Ветхую Канализацию",
+    "Clear the corruption": "Очистите порчу",
+    "Defeat the corrupted boss": "Победите порченого босса"
+  },
+
+  "Corrupted Infested Pit": {
+    "Corrupted Infested Pit": "Порченая Заражённая Яма",
+    "Enter the Corrupted Infested Pit at": "Войдите в Порченую Заражённую Яму",
+    "Navigate the corrupted dungeon": "Пройдите порченое подземелье",
+    "Defeat the corrupted spider": "Победите порченого паука"
+  },
+
+  "Corrupted Underworld Crypt": {
+    "Corrupted Underworld Crypt": "Порченая Крипта Подземного Мира",
+    "Enter the Corrupted Underworld Crypt at": "Войдите в Порченую Крипту Подземного Мира",
+    "Survive the corruption": "Выживите против порчи",
+    "Defeat the corrupted undead": "Победите порченую нежить"
+  },
+
+  "Corrupted Sand-Swept Tomb": {
+    "Corrupted Sand-Swept Tomb": "Порченая Песчаная Гробница",
+    "Enter the Corrupted Sand-Swept Tomb at": "Войдите в Порченую Песчаную Гробницу",
+    "Navigate the corrupted tomb": "Пройдите порченую гробницу",
+    "Defeat the corrupted pharaoh": "Победите порченого фараона"
+  },
+
+  "Corrupted Ice Barrows": {
+    "Corrupted Ice Barrows": "Порченые Ледяные Курганы",
+    "Enter the Corrupted Ice Barrows at": "Войдите в Порченые Ледяные Курганы",
+    "Brave the corrupted cold": "Преодолейте порченый холод",
+    "Defeat Corrupted Theorick": "Победите Порченого Теорика"
+  },
+
+  "Corrupted Undergrowth Ruins": {
+    "Corrupted Undergrowth Ruins": "Порченые Руины Подлеска",
+    "Enter the Corrupted Undergrowth Ruins at": "Войдите в Порченые Руины Подлеска",
+    "Fight through the corruption": "Пробейтесь сквозь порчу",
+    "Defeat Corrupted Slykaar": "Победите Порченого Сликаара"
+  },
+
+  "Corrupted Galleon's Graveyard": {
+    "Corrupted Galleon's Graveyard": "Порченое Кладбище Галеонов",
+    "Enter the Corrupted Galleon's Graveyard at": "Войдите на Порченое Кладбище Галеонов",
+    "Explore the corrupted shipwrecks": "Исследуйте порченые кораблекрушения",
+    "Defeat the corrupted pirate": "Победите порченого пирата"
+  },
+
+  "Heart of the Decay": {
+    "Heart of the Decay": "Сердце Распада",
+    "Investigate the source of decay at": "Исследуйте источник распада",
+    "Enter the heart of corruption": "Войдите в сердце порчи",
+    "Defeat the source": "Победите источник"
+  },
+
+  "Orphion's Nexus of Light": {
+    "Orphion's Nexus of Light": "Нексус Света Орфиона",
+    "Enter the Nexus of Light at": "Войдите в Нексус Света",
+    "Complete the light challenges": "Пройдите световые испытания",
+    "Defeat Orphion": "Победите Орфиона"
+  },
+
+  "The Canyon Colossus": {
+    "The Canyon Colossus": "Каньонный Колосс",
+    "Find the Canyon Colossus at": "Найдите Каньонного Колосса",
+    "Awaken the colossus": "Пробудите колосса",
+    "Defeat the Canyon Colossus": "Победите Каньонного Колосса"
+  },
+
+  "The Eldritch Outlook": {
+    "The Eldritch Outlook": "Потусторонний Обзор",
+    "Investigate the Eldritch Outlook at": "Исследуйте Потусторонний Обзор",
+    "Face the eldritch horrors": "Встретьте потусторонние ужасы",
+    "Defeat the eldritch being": "Победите потустороннее существо"
+  },
+
+  "Hunted Mode": {
+    "Hunted Mode": "Режим Охоты",
+    "Enter Hunted Mode": "Войдите в Режим Охоты",
+    "You are now hunted": "За вами теперь охотятся",
+    "Survive while being hunted": "Выживите под охотой"
+  },
+
+  "Silent Expanse": {
+    "Silent Expanse": "Безмолвные Просторы",
+    "Enter the Silent Expanse at": "Войдите в Безмолвные Просторы",
+    "Explore the void": "Исследуйте пустоту",
+    "Survive the silence": "Выживите в тишине"
+  },
+
+  "A Marauder's Dues": {
+    "A Marauder's Dues": "Долги Мародёра",
+    "Talk to the Marauder at": "Поговорите с Мародёром",
+    "Pay your dues": "Заплатите долги",
+    "Complete the marauder's task": "Выполните задание мародёра",
+    "Talk to Norsten.": "Поговорите с Норстеном.",
+    "Go up the path to the wizard's tower, at {coords}.": "Поднимитесь по тропе к башне волшебника в {coords}.",
+    "Escape the illusion.": "Сбегите из иллюзии.",
+    "Run away and confront the wizard.": "Убегите и противостойте волшебнику.",
+    "Find a way out of the strange dimension.": "Найдите выход из странного измерения.",
+    "Escape the strange dimension.": "Сбегите из странного измерения."
+  },
+
+  "Desperate Metal": {
+    "Desperate Metal": "Отчаянный Металл",
+    "Speak to Phinas.": "Поговорите с Финасом.",
+    "Locate the 3 mechs by following the trails of tools, return to Phinas with evidence that you destroyed the mechs.": "Найдите 3 мехов, следуя по следам инструментов, вернитесь к Финасу с доказательствами, что вы уничтожили мехов.",
+    "Find out where to go by looking at the pieces of junk.": "Узнайте, куда идти, изучив куски металлолома.",
+    "Search Nettik's lighthouse.": "Обыщите маяк Неттик.",
+    "Find the fourth mech.": "Найдите четвёртого меха.",
+    "Return to Phinas.": "Вернитесь к Финасу."
+  },
+
+  "Dwarves and Doguns Part I": {
+    "Dwarves and Doguns Part I": "Дварфы и Догуны: Часть I",
+    "Find out what's happening at the theatre.": "Узнайте, что происходит в театре.",
+    "Watch the play.": "Посмотрите пьесу.",
+    "Make your way to the Dogun Festival by following the red banners outside Rodoroc.": "Отправьтесь на Фестиваль Догунов, следуя красным флагам за Родороком.",
+    "Find out more about the hysterical dwarf in Rodoroc's prison.": "Узнайте больше об истеричном дварфе в тюрьме Родорока.",
+    "Pick up Axelus' note and head to the location at {coords}.": "Подберите записку Акселуса и отправьтесь в {coords}.",
+    "Explore the Library of Flames.": "Исследуйте Библиотеку Пламени.",
+    "Exit the library.": "Выйдите из библиотеки.",
+    "Search for house 81 in Maex like Axelus said.": "Найдите дом 81 в Маэксе, как сказал Акселус.",
+    "Talk to Axelus in the Coalition Base.": "Поговорите с Акселусом на Базе Коалиции.",
+    "Follow the group on the mission.": "Следуйте за группой на миссии.",
+    "Meet the group.": "Встретьтесь с группой.",
+    "Head back to the Coalition Base through the tunnel.": "Вернитесь на Базу Коалиции через туннель.",
+    "Retrieve the [Repair Kit] in the eastern part of the base.": "Найдите [Ремонтный Набор] в восточной части базы.",
+    "Find your way up to the Dogun Village through the tunnel.": "Найдите путь в Деревню Догунов через туннель.",
+    "Talk to Plario.": "Поговорите с Пларио."
+  },
+
+  "Dwarves and Doguns Part II": {
+    "Dwarves and Doguns Part II": "Дварфы и Догуны: Часть II",
+    "Return to the Dogun village with a Dogun Badge of Trust and talk to the leader of the town.": "Вернитесь в деревню Догунов со Знаком Доверия Догунов и поговорите с лидером города.",
+    "Enter the meeting.": "Войдите на собрание.",
+    "Meet up with Axelus at {coords}.": "Встретьтесь с Акселусом в {coords}.",
+    "Defeat the Rodoroc Guards outside the armory.": "Победите Стражей Родорока у арсенала.",
+    "Find a way to break through the black bricks outside the wooden door.": "Найдите способ пробить чёрные кирпичи снаружи деревянной двери.",
+    "Sabotage the Dwarven Armoury.": "Саботируйте Арсенал Дварфов.",
+    "Follow Axelus deeper into Rodoroc and destroy the power source of the city.": "Следуйте за Акселусом вглубь Родорока и уничтожьте источник энергии города.",
+    "Explore the Slum of Rodoroc.": "Исследуйте Трущобы Родорока.",
+    "Find a way to enter the sewer system.": "Найдите способ войти в канализационную систему.",
+    "Enter the Royal Palace through the sewer pipe and find the king.": "Войдите в Королевский Дворец через канализационную трубу и найдите короля.",
+    "Sneak past the guards and talk to the Dwarven King.": "Прокрадитесь мимо стражи и поговорите с Королём Дварфов.",
+    "Exit the palace.": "Выйдите из дворца."
+  },
+
+  "Dwarves and Doguns Part III": {
+    "Dwarves and Doguns Part III": "Дварфы и Догуны: Часть III",
+    "Return to the Dogun Village with the letter and speak to Korzim.": "Вернитесь в Деревню Догунов с письмом и поговорите с Корзимом.",
+    "Investigate the structure to the south.": "Исследуйте строение на юге.",
+    "Travel to Maex and meet Korzim at the entrance.": "Отправьтесь в Маэкс и встретьтесь с Корзимом у входа.",
+    "Talk to the blacksmith in Maex.": "Поговорите с кузнецом в Маэксе.",
+    "Bring back [10 Fire Webs], [3 Magmatic Crystals], and [1 Crystallized Lava].": "Принесите [10 Огненных Паутин], [3 Магматических Кристалла] и [1 Кристаллизованную Лаву].",
+    "Craft the amulet in the crafting table.": "Создайте амулет на верстаке.",
+    "Go to the enchanter and enchant the amulet.": "Отправьтесь к зачарователю и зачаруйте амулет.",
+    "Enter the storage room in the enchanter's house.": "Войдите в кладовую в доме зачарователя.",
+    "Travel to the frozen heights and find 4 True Ice.": "Отправьтесь к замёрзшим высотам и найдите 4 Истинного Льда.",
+    "Return to the enchanter with the True Ice.": "Вернитесь к зачарователю с Истинным Льдом."
+  },
+
+  "Dwarves and Doguns Part IV": {
+    "Dwarves and Doguns Part IV": "Дварфы и Догуны: Часть IV",
+    "Return to Korzim on the second floor of the enchanter in Maex.": "Вернитесь к Корзиму на втором этаже дома зачарователя в Маэксе.",
+    "Head to Rodoroc and look for Axelus.": "Отправьтесь в Родорок и найдите Акселуса.",
+    "Free Axelus and escape the city.": "Освободите Акселуса и сбегите из города.",
+    "Reach the portal and stop Garaheth.": "Доберитесь до портала и остановите Гарахета.",
+    "Enter the body of Garaheth.": "Войдите в тело Гарахета.",
+    "Find all 4 organs and destroy them.": "Найдите все 4 органа и уничтожьте их.",
+    "Leave Garaheth and exit his realm.": "Покиньте Гарахета и выйдите из его царства.",
+    "Speak with the King of Rodoroc and the Dogun Chieftain.": "Поговорите с Королём Родорока и Вождём Догунов."
+  },
+
+  "Fantastic Voyage": {
+    "Fantastic Voyage": "Фантастическое Путешествие",
+    "Speak to Relend.": "Поговорите с Релендом.",
+    "Retrieve the map back from the parrot.": "Заберите карту у попугая.",
+    "Set sail aboard Relend's ship.": "Отправьтесь в плавание на корабле Реленда.",
+    "Speak to Captain Relend aboard the Little Wing.": "Поговорите с Капитаном Релендом на борту Малого Крыла.",
+    "Bring a Wooden Board, a Center Piece, and a String to the Crafting Table.": "Принесите Деревянную Доску, Центральную Часть и Верёвку к верстаку.",
+    "Bring the Steering Wheel to Captain Relend.": "Принесите Штурвал Капитану Реленду.",
+    "Man the wheel of the Little Wing.": "Встаньте за штурвал Малого Крыла.",
+    "Find Relend inside of the wreck of the Little Wing.": "Найдите Реленда внутри обломков Малого Крыла.",
+    "Save Relend inside of the wreck of the Little Wing.": "Спасите Реленда внутри обломков Малого Крыла.",
+    "Exit the shipwrecked Little Wing.": "Выйдите из потерпевшего крушение Малого Крыла.",
+    "Speak to Relend on the beach.": "Поговорите с Релендом на пляже.",
+    "Bring 10 Raw Mutton, 5 Edible Mushrooms, 1 Coconut, and 7 Berries to the Cooking Pot.": "Принесите 10 Сырой Баранины, 5 Съедобных Грибов, 1 Кокос и 7 Ягод к котлу.",
+    "Give the Odd Stew to Relend.": "Отдайте Странную Похлёбку Реленду.",
+    "Check out the tent to the east.": "Осмотрите палатку на востоке.",
+    "Report back to Relend.": "Вернитесь к Реленду.",
+    "Bring 5 Gritty Sand, 3 Saw Dust, and 1 Black Powder to the Crafting Table.": "Принесите 5 Грубого Песка, 3 Опилки и 1 Порох к верстаку.",
+    "Use the explosive on the boulder.": "Используйте взрывчатку на валуне.",
+    "Enter the cave.": "Войдите в пещеру.",
+    "Advance deeper into the cave.": "Углубитесь в пещеру.",
+    "Find Relend in the strange place.": "Найдите Реленда в странном месте."
+  },
+
+  "The Olmic Rune": {
+    "The Olmic Rune": "Олмическая Руна",
+    "Explore the abandoned drill at {coords}": "Исследуйте заброшенный бур в {coords}",
+    "Find some sort of fuel in the Ruined City.": "Найдите топливо в Разрушенном Городе.",
+    "Explore the cave for the fuel": "Исследуйте пещеру в поисках топлива",
+    "Collect [32 Fuel Sprites] and bring it back to the machine.": "Соберите [32 Топливных Духа] и принесите их к машине.",
+    "Head back to the machine at {coords}": "Вернитесь к машине в {coords}",
+    "Defend the machine from the incoming attackers.": "Защитите машину от атакующих.",
+    "Enter the opened crypt.": "Войдите в открытую крипту."
+  },
+
+  "From the Bottom": {
+    "From the Bottom": "Снизу Вверх",
+    "Find someone in Thanos who wants to buy [3 Troll Hair]. Nakoba is at {coords}": "Найдите кого-то в Таносе, кто хочет купить [3 Волоса Тролля]. Накоба находится в {coords}",
+    "Find someone in Thanos who wants to buy a [Decorative Bottlecap Collection]. Dobile is at {coords}": "Найдите кого-то в Таносе, кто хочет купить [Декоративную Коллекцию Крышек]. Добиле находится в {coords}",
+    "Find someone in Thanos who wants to buy some [Molten Jasplite Ingots]. Dorroc is at {coords}": "Найдите кого-то в Таносе, кто хочет купить [Слитки Расплавленного Джасплита]. Доррок находится в {coords}",
+    "Find someone in Thanos who wants to buy a [Golemlus Power Cell]. Lodog is at {coords}": "Найдите кого-то в Таносе, кто хочет купить [Энергоячейку Големлуса]. Лодог находится в {coords}",
+    "Find someone in Thanos who wants to buy the Ice Drake Scales. Mastro is at {coords}": "Найдите кого-то в Таносе, кто хочет купить Чешую Ледяного Дрейка. Мастро находится в {coords}",
+    "Find someone in Thanos who wants to buy an [Ardent Magma Crystal]. Dohstaj is at {coords}": "Найдите кого-то в Таносе, кто хочет купить [Пылающий Магматический Кристалл]. Дохстай находится в {coords}",
+    "Find someone in Thanos who wants to buy the [Dogun Flameshooter]. Syni is at {coords}": "Найдите кого-то в Таносе, кто хочет купить [Огнемёт Догунов]. Сини находится в {coords}",
+    "Find someone in Thanos who wants to buy [Draani Thunderwill's Scepter]. Yobon is behind the stone walls at {coords}": "Найдите кого-то в Таносе, кто хочет купить [Скипетр Драани Громовержца]. Йобон за каменными стенами в {coords}",
+    "Find someone in Thanos who wants to buy your [Eons-Lost Dwarven History Tablet]. Nakoba is at {coords}": "Найдите кого-то в Таносе, кто хочет купить вашу [Древнюю Гномью Табличку Истории]. Накоба находится в {coords}",
+    "Find someone in Thanos who wants to buy [3 Troll Hair]. Nakoba is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [3 Волоса Тролля]. Накоба находится в {coords}.",
+    "Find someone in Thanos who wants to buy a [Decorative Bottlecap Collection]. Dobile is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [Декоративную Коллекцию Крышек]. Добайл находится в {coords}.",
+    "Find someone in Thanos who wants to buy some [Molten Jasplite Ingots]. Dorroc is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [Слитки Расплавленного Яшплита]. Доррок находится в {coords}.",
+    "Find someone in Thanos who wants to buy a [Golemlus Power Cell]. Lodog is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [Энергоячейку Големлуса]. Лодог находится в {coords}.",
+    "Find someone in Thanos who wants to buy the Ice Drake Scales. Mastro is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить Чешую Ледяного Дрейка. Мастро находится в {coords}.",
+    "Find someone in Thanos who wants to buy an [Ardent Magma Crystal]. Dohstaj is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [Пылающий Магматический Кристалл]. Достай находится в {coords}.",
+    "Find someone in Thanos who wants to buy the [Dogun Flameshooter]. Syni is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [Огнемёт Догунов]. Сини находится в {coords}.",
+    "Find someone in Thanos who wants to buy [Draani Thunderwill's Scepter]. Yobon is behind the stone walls at {coords}.": "Найдите кого-то в Таносе, кто хочет купить [Скипетр Драани Громовержца]. Йобон за каменными стенами в {coords}.",
+    "Find someone in Thanos who wants to buy your [Eons-Lost Dwarven History Tablet]. Nakoba is at {coords}.": "Найдите кого-то в Таносе, кто хочет купить вашу [Древнюю Гномью Табличку Истории]. Накоба находится в {coords}."
+  },
+
+  "Dodegar's Ultimate Weapon": {
+    "Dodegar's Ultimate Weapon": "Абсолютное Оружие Додегара",
+    "Talk to Dodegar in the Light Forest.": "Поговорите с Додегаром в Светлом Лесу.",
+    "Find an [Enchanted Stick] in the Light Forest.": "Найдите [Зачарованную Палку] в Светлом Лесу.",
+    "Find a [Sacred Hobbit Metal] in the Light Forest.": "Найдите [Священный Хоббичий Металл] в Светлом Лесу.",
+    "Find a [Diplacus Aurantiacus] in the Light Forest.": "Найдите [Дипласус Аурантиакус] в Светлом Лесу.",
+    "Find a [Crate of 2000 Luster Blood] in the Light Forest.": "Найдите [Ящик 2000 Сияющей Крови] в Светлом Лесу.",
+    "Return the items to Dodegar.": "Верните предметы Додегару."
+  },
+
+  "The Bigger Picture": {
+    "The Bigger Picture": "Общая Картина",
+    "Talk to Psilo in the mushroom cave.": "Поговорите с Псило в грибной пещере.",
+    "Find the Subtraxerim Utilium mushroom in the cave and bring it back to Psilo.": "Найдите гриб Субтраксерим Утилиум в пещере и принесите его Псило.",
+    "Return to Psilo.": "Вернитесь к Псило.",
+    "Find the mushroom in Psilo's house.": "Найдите гриб в доме Псило.",
+    "Get to the mouse nest by following the cheese trail and get rid of the pest.": "Доберитесь до мышиного гнезда, следуя по сырному следу, и избавьтесь от вредителя.",
+    "Get to the blue mushroom and return to normal size.": "Доберитесь до синего гриба и вернитесь к нормальному размеру.",
+    "Give Psilo the good news about the mice.": "Сообщите Псило хорошие новости о мышах."
+  },
+
+  "Hunger of the Gerts Part I": {
+    "Hunger of the Gerts Part I": "Голод Гертов: Часть I",
+    "Talk to Cikal at {coords}.": "Поговорите с Цикалем в {coords}.",
+    "Talk to Jitak at {coords}.": "Поговорите с Житаком в {coords}.",
+    "Inspect the Gerten Forwarding Camp at {coords}.": "Осмотрите Передовой Лагерь Гертов в {coords}.",
+    "Investigate the cave in the back of the camp at {coords}.": "Исследуйте пещеру в глубине лагеря в {coords}.",
+    "Explore the Gerten cave.": "Исследуйте пещеру Гертов.",
+    "Exit the gerten cave.": "Выйдите из пещеры Гертов.",
+    "Return to Jitak at {coords}.": "Вернитесь к Житаку в {coords}.",
+    "Go to the gerten pumpkin farm at {coords}.": "Отправьтесь на тыквенную ферму Гертов в {coords}.",
+    "Find a way to distract the Gert Guard with some food nearby.": "Найдите способ отвлечь Стража Гертов едой поблизости.",
+    "Enter the pumpkin farm at {coords}.": "Войдите на тыквенную ферму в {coords}.",
+    "Find a pumpkin to use as a gert mask.": "Найдите тыкву для использования в качестве маски Герта.",
+    "Return to Jitak with the gert mask at {coords}.": "Вернитесь к Житаку с маской Герта в {coords}.",
+    "Enter the secret gert tunnel at {coords}.": "Войдите в секретный туннель Гертов в {coords}.",
+    "Leave the tunnel and inform someone about the information you overheard.": "Покиньте туннель и сообщите кому-нибудь о подслушанной информации."
+  },
+
+  "Hunger of the Gerts Part II": {
+    "Hunger of the Gerts Part II": "Голод Гертов: Часть II",
+    "Talk to the Gerten Chief Lobo at {coords}.": "Поговорите с Вождём Гертов Лобо в {coords}.",
+    "Help the Gerts prepare for battle.": "Помогите Гертам подготовиться к битве.",
+    "Return to Chief Lobo.": "Вернитесь к Вождю Лобо.",
+    "Follow the Gerts to battle.": "Следуйте за Гертами в битву.",
+    "Defeat the Gylia Watch.": "Победите Дозор Гилии."
+  },
+
+  "Fallen Delivery": {
+    "Fallen Delivery": "Упавшая Доставка",
+    "Talk to Bricot.": "Поговорите с Брико.",
+    "Scale the house and search the fallen airship for survivors.": "Поднимитесь по дому и обыщите упавший дирижабль в поисках выживших.",
+    "Investigate the bandit fort at {coords}.": "Исследуйте бандитский форт в {coords}.",
+    "Follow the trail of papers to the bandit's house.": "Следуйте по следу бумаг к дому бандита.",
+    "Find the envelope in the cellar and return it to the sender.": "Найдите конверт в подвале и верните его отправителю.",
+    "Find the representative's office in the airship base at {coords}.": "Найдите офис представителя на воздушной базе в {coords}.",
+    "Find a way to enter the representative's office.": "Найдите способ войти в офис представителя.",
+    "Enter the representative's office.": "Войдите в офис представителя.",
+    "Catch Representative Ernold.": "Поймайте Представителя Эрнольда.",
+    "Bring the spell scroll back to Gawrick at {coords}.": "Верните свиток заклинания Гоурику в {coords}."
+  },
+
+  "The Thanos Depository": {
+    "The Thanos Depository": "Хранилище Таноса",
+    "Find out what's happening at {coords}.": "Узнайте, что происходит в {coords}.",
+    "Enter the vault at {coords}.": "Войдите в хранилище в {coords}.",
+    "Head to the Thanos Depository at {coords}.": "Направьтесь в Хранилище Таноса в {coords}.",
+    "Find a way through the depository.": "Найдите путь через хранилище.",
+    "Ride the minecarts to get further in to the depository.": "Используйте вагонетки, чтобы продвинуться дальше в хранилище.",
+    "Steal Ozoth's egg and escape the depository.": "Украдите яйцо Озота и сбегите из хранилища.",
+    "Use the lift to escape.": "Используйте лифт для побега.",
+    "Place Ozoth's egg back in her nest at {coords}.": "Положите яйцо Озота обратно в её гнездо в {coords}.",
+    "Talk to Atila.": "Поговорите с Атилой."
+  },
+
+  "The Canyon Guides": {
+    "The Canyon Guides": "Проводники Каньона",
+    "Speak to Gana at {coords}.": "Поговорите с Ганой в {coords}.",
+    "Find Seluc in his camp at {coords}.": "Найдите Селука в его лагере в {coords}.",
+    "Escort Seluc back to Gana.": "Сопроводите Селука обратно к Гане.",
+    "Find a way to get Seluc past the blockage.": "Найдите способ провести Селука через завал.",
+    "Retrieve the coat Seluc left behind at {coords}.": "Заберите пальто, которое Селук оставил в {coords}.",
+    "Talk to Gana and Seluc.": "Поговорите с Ганой и Селуком."
+  },
+
+  "The Canary Calls": {
+    "The Canary Calls": "Зов Канарейки",
+    "Find out what's happening at the Thesead coal mine at {coords}.": "Узнайте, что происходит на угольной шахте Тесеада в {coords}.",
+    "Turn left from the mine's entrance and speak to the chief at {coords}.": "Поверните налево от входа в шахту и поговорите с начальником в {coords}.",
+    "Unlock the canary's cage at {coords}.": "Откройте клетку канарейки в {coords}.",
+    "Head to the mine elevator at {coords}.": "Направьтесь к шахтному лифту в {coords}.",
+    "Use the rails to get to the gas leakage.": "Используйте рельсы, чтобы добраться до утечки газа.",
+    "Follow the rail tracks and find a way to escape the mine.": "Следуйте по рельсовым путям и найдите способ сбежать из шахты.",
+    "Continue further in the mine to find a way out.": "Продолжайте продвигаться вглубь шахты, чтобы найти выход.",
+    "Fight the Canary.": "Сразитесь с Канарейкой.",
+    "Talk to Chief Clight.": "Поговорите с Начальником Клайтом."
+  },
+
+  "The Lost": {
+    "The Lost": "Потерянные",
+    "Talk to Dejol at {coords}.": "Поговорите с Деджолом в {coords}.",
+    "Search for the lost villagers in the canyon.": "Найдите потерянных жителей в каньоне.",
+    "Return the lost villagers to Dejol.": "Верните потерянных жителей Деджолу."
+  },
+
+  "Murder Mystery": {
+    "Murder Mystery": "Тайна Убийства",
+    "Talk to Detective Lorias at {coords}.": "Поговорите с Детективом Лориасом в {coords}.",
+    "Investigate the crime scene at {coords} for clues.": "Исследуйте место преступления в {coords} в поисках улик.",
+    "Return to the victim's house at {coords} to find a snake symbol.": "Вернитесь в дом жертвы в {coords}, чтобы найти символ змеи.",
+    "Find the gamblers in the Cinfras sewers.": "Найдите игроков в канализации Цинфраса.",
+    "Confront Rohem about the murder at house #09 in Cinfras.": "Допросите Рохема об убийстве в доме #09 в Цинфрасе.",
+    "Find the murder weapon around Rohem's house at house #09 in Cinfras.": "Найдите орудие убийства возле дома Рохема в доме #09 в Цинфрасе."
+  },
+
+  "Blazing Retribution": {
+    "Blazing Retribution": "Пылающее Возмездие",
+    "Speak to Piere in the Llevigar Plains at {coords}.": "Поговорите с Пьером на равнинах Ллевигара в {coords}.",
+    "Report the attack to Detective Jackson at {coords}.": "Доложите о нападении Детективу Джексону в {coords}.",
+    "Look for the stolen weapon at the Sablestone and Loamsprout Orc camps.": "Ищите украденное оружие в лагерях орков Саблстоун и Лоамспраут.",
+    "Return to Detective Jackson with the news.": "Вернитесь к Детективу Джексону с новостями.",
+    "Find the hidden camp in the water near Piere's house at {coords}.": "Найдите скрытый лагерь в воде возле дома Пьера в {coords}.",
+    "Kill Orc Leader Poxper.": "Убейте Вождя Орков Покспера.",
+    "Return the Magic Axe to the Detective.": "Верните Магический Топор Детективу."
+  },
+
+  "Recipe For Disaster": {
+    "Recipe For Disaster": "Рецепт Катастрофы",
+    "Meet up with Chef Hamsey in Ahmsord at {coords}.": "Встретьтесь с Шеф-поваром Хэмси в Амсорде в {coords}.",
+    "Find Chef Hamsey in his kitchen.": "Найдите Шеф-повара Хэмси на его кухне.",
+    "Speak to all three chefs in Hamsey's kitchen.": "Поговорите со всеми тремя поварами на кухне Хэмси.",
+    "Talk to Hamsey and choose a chef to work with.": "Поговорите с Хэмси и выберите повара для работы.",
+    "Talk to your chosen chef about the dish.": "Поговорите с выбранным поваром о блюде.",
+    "Collect the ingredients for your dish.": "Соберите ингредиенты для вашего блюда.",
+    "Present the ingredients to your chosen chef.": "Представьте ингредиенты выбранному повару.",
+    "Talk to Hamsey with your finished dish.": "Поговорите с Хэмси с готовым блюдом.",
+    "Meet Hamsey in the dining room at {coords}.": "Встретьтесь с Хэмси в столовой в {coords}."
+  },
+
+  "Reclaiming the House": {
+    "Reclaiming the House": "Возвращение Дома",
+    "Join Elphaba on a mission in the Temporary Camp at {coords}.": "Присоединитесь к Эльфабе на миссии во Временном Лагере в {coords}.",
+    "Kill the mobs raiding the Camp.": "Убейте мобов, атакующих Лагерь.",
+    "Talk to Elphaba for information on the upcoming attack.": "Поговорите с Эльфабой для информации о предстоящей атаке.",
+    "Go to the watch tower at {coords} to plan the attack.": "Отправьтесь к сторожевой башне в {coords}, чтобы спланировать атаку.",
+    "Enter the watch tower to plan the attack.": "Войдите в сторожевую башню, чтобы спланировать атаку.",
+    "Explore the outpost's surroundings to find another way in.": "Исследуйте окрестности заставы, чтобы найти другой путь внутрь.",
+    "Follow the trail of mud left by the orc.": "Следуйте по следу грязи, оставленному орком.",
+    "Enter the outpost while covered in mud.": "Войдите на заставу, покрытые грязью.",
+    "Cut the ropes to free the guards from the cage.": "Перережьте верёвки, чтобы освободить охранников из клетки.",
+    "Kill the Orcish Overtakers.": "Убейте Орочьих Захватчиков.",
+    "Open the gate with a spell.": "Откройте ворота заклинанием.",
+    "Talk to Elphaba.": "Поговорите с Эльфабой."
+  },
+
+  "The Breaking Point": {
+    "The Breaking Point": "Точка Разлома",
+    "Speak to General Elix at {coords} in Kandon-Beda.": "Поговорите с Генералом Эликсом в {coords} в Кандон-Беда.",
+    "Meet Rhay at the Hot Air Balloon at {coords}.": "Встретьтесь с Рэй у Воздушного Шара в {coords}.",
+    "Travel to Corkus City via the Hot Air Balloon.": "Отправьтесь в Город Коркус на Воздушном Шаре.",
+    "Find the contact in the factory at {coords}.": "Найдите контакт на фабрике в {coords}.",
+    "Retrieve the part from the cave at {coords}.": "Достаньте деталь из пещеры в {coords}.",
+    "Return to the hot air balloon with the Magmaflux Capacitor.": "Вернитесь к воздушному шару с Магматоковым Конденсатором.",
+    "Return to General Elix with the Corkian Stabiliser.": "Вернитесь к Генералу Эликсу с Коркианским Стабилизатором.",
+    "Meet Ineos and Rhay at the Hot Air Balloon.": "Встретьтесь с Инеосом и Рэй у Воздушного Шара.",
+    "Travel to Molten Heights with Ineos via the Hot Air Balloon.": "Отправьтесь в Расплавленные Высоты с Инеосом на Воздушном Шаре.",
+    "Speak to Rodoroc's King and the Dogun Chieftain at New Taloka.": "Поговорите с Королём Родорока и Вождём Догунов в Новой Талоке.",
+    "Enter the Dogun Vault within the lower Freezing Heights.": "Войдите в Хранилище Догунов в нижних Замерзающих Высотах.",
+    "Unlock the Dogun Vault to find the Elders.": "Откройте Хранилище Догунов, чтобы найти Старейшин.",
+    "Regroup outside Rodoroc to figure out how to free the Elders.": "Соберитесь за пределами Родорока, чтобы понять, как освободить Старейшин.",
+    "Use the Rodoroc trading tunnel to travel to Thanos.": "Используйте торговый туннель Родорока, чтобы добраться до Таноса.",
+    "Travel to Ozoth's Spire in an attempt to speak with her.": "Отправьтесь к Шпилю Озота, чтобы попытаться поговорить с ней."
+  },
+
+  "Beyond the Grave": {
+    "Beyond the Grave": "За Гранью Могилы",
+    "Speak to Irlok in the Bantisu Air Temple at {coords}.": "Поговорите с Ирлоком в Воздушном Храме Бантису в {coords}.",
+    "Seek out the creature in the mines at {coords}.": "Найдите существо в шахтах в {coords}.",
+    "Explore the strange realm and bargain with Death.": "Исследуйте странное царство и торгуйтесь со Смертью.",
+    "Find a way to exit the strange realm by looking around the mansion.": "Найдите способ покинуть странное царство, осмотрев особняк.",
+    "Defeat Krolton to earn your way back to the living.": "Победите Кролтона, чтобы вернуться к живым.",
+    "Take proof of Krolton's demise to Irlok at {coords}.": "Принесите доказательство гибели Кролтона Ирлоку в {coords}."
+  }
+}

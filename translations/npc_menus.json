@@ -1,0 +1,148 @@
+{
+  "_comment": "ФОРМАТ: раздел 'preview_page' содержит страницы переводов. Ключ страницы = идентификатор меню (его определяет NpcMenuRegistry по заголовку экрана): 'Blacksmith', 'Item Identifier', 'Store'... Внутри страницы — пары \"English текст\": \"Русский перевод\". Переводы страницы работают ТОЛЬКО в этом меню; в других меню они не применяются, даже если там такой же английский текст. Исключение — страница 'Common': её строки доступны во всех меню. Ключи на '_' игнорируются, кроме '_match'. НОВОЕ МЕНЮ БЕЗ ПРАВКИ КОДА: добавьте страницу и в ней \"_match\": [\"регулярное выражение\"] — шаблон заголовка экрана (ищется внутри заголовка, в том числе по PUA-символам, например \"\\udaff\\udff8\\ue016\"; можно и по обычному тексту, например \"Woodworking Station\"). Заголовок открытого меню виден в latest.log при debugMode (строки '[NpcMenu] SCREEN title=...').",
+  "preview_page": {
+    "Common": {
+      "_comment": "Общие кнопки, встречающиеся в разных меню NPC. Проверяется после словаря конкретного меню и до глобального поиска по всем меню.",
+      "Next Page": "Следующая страница",
+      "Previous Page": "Предыдущая страница",
+      "Back": "Назад",
+      "Click to Open": "Нажмите, чтобы открыть",
+      "Click to confirm": "Нажмите ЛКМ, чтобы подтвердить",
+      "Click to switch": "Нажмите, чтобы переключить",
+      "Scroll Down": "Прокрутить вниз",
+      "Scroll Up": "Прокрутить вверх",
+      "Click again to confirm": "Нажмите ещё раз, чтобы подтвердить",
+      "Click to Select": "Нажмите, чтобы выбрать",
+      "Click to Unselect": "Нажмите, чтобы отменить выбор",
+      "Current Season": "Текущий сезон",
+      "Confirm and Create": "Подтвердить и создать"
+    },
+    "Item Identifier": {
+      "_comment": "Идентификатор Предметов",
+      "Item Identifier": "Идентификатор Предметов",
+      "Inventory": "Инвентарь",
+      "Empty Item Slot": "Пустой слот предмета",
+      "Empty Augment Slot": "Пустой слот улучшения",
+      "You are identifying": "Вы идентифицируете",
+      "Cannot afford to identify": "Недостаточно средств для идентификации",
+      "Waiting for an item": "Ожидание предмета",
+      "Click to Open": "Нажмите чтобы Открыть",
+      "Identify": "Идентифицировать",
+      "Cost": "Стоимость",
+      "Back to Identifier": "Назад к идентификатору",
+      "Corkian Augments": "Коркианские Улучшения",
+      "Price:": "Цена: {n}",
+      "Add items to identify": "Добавить предметы",
+      "Click on an item to be identified": "Нажмите на предмет",
+      "Add an item to apply augments": "Добавить предмет",
+      "Click on items in your inventory to add them to be identified": "Нажмите на предметы в инвентаре чтобы добавить их для идентификации",
+      "Click on an item in your inventory to be identified": "Щёлкните на предмете в вашем инвентаре, чтобы его идентифицировать",
+      "Corkian augments provides augments while identifying a single item": "Коркианские улучшения дают улучшения при идентификации одного предмета"
+    },
+    "Item Upgrader": {
+      "_comment": "Улучшитель Предметов. Ключ описания = английский абзац целиком (строки тултипа склеиваются, абзацы разделены пустой строкой).",
+      "Item Upgrader": "Улучшитель предметов",
+      "Ascend Equipment": "Возвысить снаряжение",
+      "Ascend your equipment to higher levels and increase their power": "Возвышайте своё снаряжение до более высоких уровней и увеличивайте его силу",
+      "You have no equipment eligible for ascension": "У вас нет снаряжения, подходящего для возвышения"
+    },
+    "Powder Master": {
+      "_comment": "Мастер Порошков",
+      "Powder Master": "Мастер Порошков",
+      "Currently Open": "Сейчас открыто",
+      "Waiting for an item": "Ожидание предмета",
+      "Waiting for powders": "Ожидание порошков",
+      "Empty Powder Slot": "Пустой слот для порошка",
+      "Click to Open": "Нажмите, чтобы открыть",
+      "Infuse Powders": "Вплавить порошки",
+      "Remove Powders": "Удалить порошки",
+      "Upgrade Powders": "Улучшить порошки",
+      "Infuse powders into items that contains powder sockets": "Впитайте порошки в предметы, содержащие гнезда для порошка",
+      "Remove all powders previously added to an item": "Удалите все порошки, ранее добавленные к предмету",
+      "Merge powders of the same tier to create a higher tiered powder": "Смешивайте порошки одного уровня, чтобы создать порошок более высокого уровня",
+      "Click on an item in your inventory to infuse powders into": "Нажмите на предмет в вашем инвентаре, чтобы добавить в него порошки",
+      "Click on a powder to add it to be upgraded": "Нажмите на порошок, чтобы добавить его для улучшения",
+      "Click on an item to remove powders from": "Щелкните на элемент, чтобы удалить порошки",
+      "Click on an item in your inventory to remove powders from": "Нажмите на предмет в вашем инвентаре, чтобы удалить с него порошки",
+      "Click on an powder on your inventory to add it to be upgraded": "Нажмите на порошок в вашем инвентаре, чтобы добавить его для улучшения"
+    },
+    "Blacksmith": {
+      "_comment": "Кузнец",
+      "Blacksmith": "Кузнец",
+      "You are selling": "Вы продаёте",
+      "Click to confirm": "Нажмите ЛКМ, чтобы подтвердить",
+      "Click to switch": "Нажмите, чтобы переключить",
+      "Expected Price:": "Ожидаемая цена: {n}",
+      "Sell Items": "Продать предметы",
+      "Repair Items": "Ремонтировать предметы",
+      "Add items to sell them": "Добавьте товары для продажи",
+      "Click on an item to sell it": "Нажмите на предмет, чтобы продать его",
+      "Click on items in your inventory to add them to be sold": "Нажмите на предметы в вашем инвентаре, чтобы добавить их для продажи",
+      "Repair Gathering Tools and Crafted Items!": "Ремонт инструментов для сбора и сделанных предметов",
+      "Sell weapons, accessories, armours and more!": "Продавайте оружие, аксессуары, доспехи и многое другое!",
+      "You don't have any other item to repair!": "У тебя нет других предметов для починки!"
+    },
+    "Trade Market": {
+      "_comment": "Торговый Рынок",
+      "Trade Market": "Торговый Рынок"
+    },
+    "Bank": {
+      "_wynntils": ["AccountBank","CharacterBank","Bookshelf","IslandBlockBank","MiscBucket","PersonalBlockBank"],
+      "_comment": "Банк",
+      "Bank": "Банк"
+    },
+    "Aspects": {
+      "_comment": "Аспекты. Строки взяты из исходников Wynntils (AspectModel).",
+      "Empty Aspect Slot": "Пустой слот аспекта",
+      "Locked Aspect Slot": "Заблокированный слот аспекта"
+    },
+    "Scrap Menu": {
+      "_comment": "Меню переработки. Кнопки пролистывания берутся из Common."
+    },
+    "Lootrun Chest": {
+      "_wynntils": ["LootrunRewardChest"],
+      "_comment": "Сундук наград Lootrun. Подтверждение берётся из Common."
+    },
+    "Raid Reward Chest": {
+      "_comment": "Сундук наград рейда. Подтверждение берётся из Common."
+    },
+    "Raid Start": {
+      "_comment": "Начало рейда."
+    },
+    "Crafting Station": {
+      "_comment": "Станции крафта профессий (Wynntils: <Профессия>Station). Заголовок опознаётся по PUA \\udaff\\udff8\\ue053\\udaff\\udf80[\\uf041-\\uf048]. Недостающие строки видны в latest.log как '[NpcMenu] MISSING menu=Crafting Station' (debugMode).",
+      "Alchemism Station": "Станция алхимии",
+      "Armouring Station": "Станция бронирования",
+      "Cooking Station": "Станция кулинарии",
+      "Jeweling Station": "Станция ювелирного дела",
+      "Scribing Station": "Станция письмоводства",
+      "Tailoring Station": "Станция портняжного дела",
+      "Weaponsmithing Station": "Станция оружейного дела",
+      "Woodworking Station": "Станция плотницкого дела",
+      "Craft": "Создать",
+      "Crafting Station": "Станция крафта",
+      "Click to craft": "Нажмите, чтобы создать"
+    },
+    "Weaponsmithing": {
+      "_comment": "Тултип: Оружейное дело (станция крафта)",
+      "_match": ["\\udaff\\udff8\\ue053\\udaff\\udf80\\uf047"],
+      "Material Slot": "Слот материала",
+      "Material Slots": "Слоты материалов",
+      "<- Material Slots": "<- Слоты материалов",
+      "Ingredient Slots ->": "Слоты для ингредиентов ->",
+      "Ingredient Slots (Optional)": "Слоты для ингредиентов (необязательно)",
+      "Ingredient Slot": "Слот ингредиента",
+      "Craft": "Создать",
+      "Click to craft": "Нажмите, чтобы создать",
+      "Weaponsmithing Station": "Станция оружейного дела"
+    },
+    "Store": {
+      "_comment": "Тултип Jukebox в In-Game Store",
+      "Add to Basket": "Добавить в корзину",
+      "Adds this package to your": "Добавляет этот набор в вашу",
+      "basket. Click multiple times": "корзину. Нажмите несколько раз",
+      "to increase quantity": "для увеличения количества",
+      "Click to Add": "Нажмите, чтобы добавить"
+    }
+  }
+}

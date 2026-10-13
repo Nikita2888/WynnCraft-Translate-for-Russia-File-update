@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "files": {
+    "character_info.json": {
+      "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
+      "size": 42081
+    },
+    "items.json": {
+      "sha256": "4f48d2542d364adc84312b34a5882603482e853219cb4c04138ff0d04ac9edce",
+      "size": 25684
+    },
+    "map_locations.json": {
+      "sha256": "eba91fce8baff4780fe69d7322e5a0e4d11e9de2e27fa63181295a5ec2344509",
+      "size": 8428
+    },
+    "npc.json": {
+      "sha256": "9bd307ed59842ef66cdb03ae100cca4022845a9e4e3d08e722132b8b25a96819",
+      "size": 16520
+    },
+    "npc_menus.json": {
+      "sha256": "2254ac703f56c9917b99625158ff1e0e255eab3e038e0eb1ea0599e17af7235f",
+      "size": 12000
+    },
+    "npc_name.json": {
+      "sha256": "7dcb9e46cb58c7848e9e67399197d59a0f076422bdfbc7ab4535c973d9345761",
+      "size": 41957
+    },
+    "phrases.json": {
+      "sha256": "c0ca83ad5adb54eec82cc91d13e9584d278d4ff124d92454021e6631d7c969a8",
+      "size": 3357537
+    },
+    "quests.json": {
+      "sha256": "99174a430b60438fb64c6d5cd963d3f94e658d61fe9ee4a1ea65d9ebc0cdf6ed",
+      "size": 170081
+    }
+  }
+}
