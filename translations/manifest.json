@@ -1,6 +1,10 @@
 {
-  "version": 11,
+  "version": 12,
   "files": {
+    "ability_translate/mage.json": {
+      "sha256": "5f3f063c492a2dd2a40a2be8f370297880889bbd9f19c48f56ed3c80befd3765",
+      "size": 69065
+    },
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
       "size": 42081
