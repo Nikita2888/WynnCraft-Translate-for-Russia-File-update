@@ -1,0 +1,21 @@
+name: Update translations manifest
+on:
+  push:
+    branches: [main]
+    paths:
+      - "translations/**"
+      - "!translations/manifest.json"
+permissions:
+  contents: write
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/generate_manifest.py
+      - name: Commit manifest
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add translations/manifest.json
+          git diff --cached --quiet || (git commit -m "Update translations manifest" && git push)
