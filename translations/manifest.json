@@ -1,6 +1,10 @@
 {
-  "version": 13,
+  "version": 14,
   "files": {
+    "ability_translate/assassin.json": {
+      "sha256": "71739169f2ac07dc6bdefbcfe8dd300421ec4b21af073387be04dc3b9fdb4b3b",
+      "size": 806347
+    },
     "ability_translate/mage.json": {
       "sha256": "5f3f063c492a2dd2a40a2be8f370297880889bbd9f19c48f56ed3c80befd3765",
       "size": 69065
