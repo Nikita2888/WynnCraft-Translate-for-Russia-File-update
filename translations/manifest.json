@@ -1,9 +1,17 @@
 {
-  "version": 12,
+  "version": 13,
   "files": {
     "ability_translate/mage.json": {
       "sha256": "5f3f063c492a2dd2a40a2be8f370297880889bbd9f19c48f56ed3c80befd3765",
       "size": 69065
+    },
+    "ability_translate/shaman.json": {
+      "sha256": "ed765998dc6dfc5d70b0424468ca0c857a79b6fe50dcd7526e967f30e336c37e",
+      "size": 488202
+    },
+    "ability_translate/warrior.json": {
+      "sha256": "c1fff99a29740a20b077e08a62f970609376b3f9eb25768680fde54632f57a04",
+      "size": 461476
     },
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
