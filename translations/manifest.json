@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "files": {
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
@@ -22,7 +22,7 @@
       "size": 12000
     },
     "npc_name.json": {
-      "sha256": "7DCB9E46CB58C7848E9E67399197D59A0F076422BDFBC7AB4535C973D9345761",
+      "sha256": "9E87F00C2F959C4AF5448CCB67411532FAD160C14ED4BBB6EA893582E1A4562B",
       "size": 41993
     },
     "phrases.json": {
