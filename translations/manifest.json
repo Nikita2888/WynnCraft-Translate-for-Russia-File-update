@@ -1,13 +1,13 @@
 {
-  "version": 3,
+  "version": 4,
   "files": {
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
       "size": 42081
     },
     "items.json": {
-      "sha256": "4f48d2542d364adc84312b34a5882603482e853219cb4c04138ff0d04ac9edce",
-      "size": 25684
+      "sha256": "b75776395d5c44949e3e9358b932f928be94e8100e4b3773dbd95dfeda1e51dd",
+      "size": 25681
     },
     "map_locations.json": {
       "sha256": "eba91fce8baff4780fe69d7322e5a0e4d11e9de2e27fa63181295a5ec2344509",
@@ -22,7 +22,7 @@
       "size": 12000
     },
     "npc_name.json": {
-      "sha256": "9E87F00C2F959C4AF5448CCB67411532FAD160C14ED4BBB6EA893582E1A4562B",
+      "sha256": "9e87f00c2f959c4af5448ccb67411532fad160c14ed4bbb6ea893582e1a4562b",
       "size": 41993
     },
     "phrases.json": {
