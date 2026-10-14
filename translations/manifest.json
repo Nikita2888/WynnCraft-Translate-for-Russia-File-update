@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "files": {
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
@@ -14,8 +14,8 @@
       "size": 8428
     },
     "npc.json": {
-      "sha256": "9bd307ed59842ef66cdb03ae100cca4022845a9e4e3d08e722132b8b25a96819",
-      "size": 16520
+      "sha256": "bcec0ea664671bbfb9241f544553e5829c0e35d786414790f0ea896f09008d37",
+      "size": 16549
     },
     "npc_menus.json": {
       "sha256": "2254ac703f56c9917b99625158ff1e0e255eab3e038e0eb1ea0599e17af7235f",
