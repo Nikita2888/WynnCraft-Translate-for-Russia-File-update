@@ -1,0 +1,1181 @@
+{
+  "_format_version": "6.0",
+  "_class": "Archer",
+  "_description": "Переводы способностей Archer. title/click_combo/description — полная замена. Остальные ключи — замена только текстовой части (цифры берутся из оригинала).",
+
+  "abilities": {
+
+    "arrow_bomb": {
+      "title":          "Бомба-стрела",
+      "click_combo":    "ЛКМ-ПКМ-ПКМ",
+      "description":    "Выпускает дальнобойную стрелу, которая взрывается и наносит огромный урон по большой области. (Самоурон: 10% от вашего DPS)",
+      "mana_cost":      "Расход маны",
+      "total_damage":   "Общий урон",
+      "of_your_dps":    "от вашего DPS",
+      "damage":         "Урон",
+      "fire":           "Огонь",
+      "range_pm":       "Дальность",
+      "blocks":         "блоков",
+      "area_of_effect": "Радиус действия",
+      "circle_shaped":  "круговая область",
+      "ability_points": "Очков способности"
+    },
+
+    "double_shots": {
+      "title":                "Двойной выстрел",
+      "description":          "Удваивает стрелы Основной атаки и уменьшает их урон. (Сложнее попасть по далёким врагам)",
+      "main_attack_damage":   "Урон от Основной атаки",
+      "blocked_by":           "Заблокировано:",
+      "ability_points":       "Очков способности"
+    },
+
+    "power_shots": {
+      "title":                   "Мощные выстрелы",
+      "description":             "Стрелы Основной атаки получают повышенную скорость и отбрасывание.",
+      "unlocking_will_block":    "Разблокировка заблокирует:",
+      "sharpshooter_archetype":  "Архетип Снайпер",
+      "ability_points":          "Очков способности"
+    },
+
+    "escape": {
+      "title":          "Побег",
+      "click_combo":    "ЛКМ-ЛКМ-ЛКМ",
+      "description":    "Отбрасывает вас назад, позволяя избежать опасности. (Удерживайте Shift во время побега для отмены)",
+      "mana_cost":      "Расход маны",
+      "ability_points": "Очков способности"
+    },
+
+    "heart_shatter": {
+      "title":          "Разбитое сердце",
+      "description":    "Прямое попадание Бомбой-стрелой в моба разобьёт его сердце и нанесёт дополнительный урон.",
+      "total_damage":   "Общий урон",
+      "of_your_dps":    "от вашего DPS",
+      "damage":         "Урон",
+      "ability_points": "Очков способности"
+    },
+
+    "cheaper_arrow_bomb": {
+      "title":            "Дешёвая Бомба-стрела",
+      "description":      "Уменьшает расход маны Бомбы-стрелы.",
+      "mana_cost":        "Расход маны",
+      "ability_points":   "Очков способности",
+      "required_ability": "Требуемая способность"
+    },
+
+    "bow_proficiency": {
+      "title":               "Мастерство лука",
+      "description":         "Увеличивает урон и дальность Основной атаки при использовании лука.",
+      "main_attack_damage":  "Урон от Основной атаки",
+      "main_attack_range":   "Дальность Основной атаки",
+      "blocks":              "блоков",
+      "ability_points":      "Очков способности"
+    },
+
+    "arrow_storm": {
+      "title":               "Шквал стрел",
+	  "click_combo":    "ЛКМ-ПКМ-ПКМ",
+      "description":         "Выпускает поток из 8 стрел, нанося значительный урон близким противникам и отталкивая их",
+      "mana_cost":      "Расход маны",
+      "total_damage":   "Общий урон",
+      "total_damage_dps_arrow":    "урон вашей стрелы в сек (DPS)",
+	  "damage":         "Урон",
+	  "thunder":         "Гром",
+	  "range_pm":       "Дальность",
+      "ability_points":      "Очков способности"
+    },
+
+    "cheaper_escape": {
+      "title":               "Дешевле побег",
+	  "click_combo":    "ЛКМ-ПКМ-ПКМ",
+      "description":         "Снизьте стоимость маны способности Побег",
+      "mana_cost":      "Расход маны",
+	  "required_ability": "Требуемая способность",
+      "ability_points":      "Очков способности"
+    },
+
+    "arrow_shield": {
+      "title":               "Стрелковый щит",
+	  "click_combo":    "ЛКМ-ПКМ-ПКМ",
+      "description":         "Формирует вокруг вас щит, который слегка уменьшает получаемый урон. При получении удара расходуется одна зарядка щита. Враги, которые подойдут слишком близко, получат урон и будут оттолкнуты. (3 зарядки)",
+      "mana_cost":      "Расход маны",
+      "total_damage":   "Общий урон",
+      "of_your_dps":    "от вашего DPS",
+	  "damage":         "Урон",
+	  "air":         "Воздух",
+	  "effect":       "Эффект:",
+	  "resistance_bonus": "Бонус к сопротивлению",
+	  "area_of_effect": "Радиус действия",
+	  "blocks":              "блоков",
+	  "circle_shaped":  "круговая область",
+	  "duration":  "Продолжительность",
+      "ability_points":      "Очков способности"
+    },
+
+    "windy_feet": {
+      "title":               "Ветреные ноги",
+      "description":         "Casting Escape даёт бонус к скорости вам и игрокам поблизости.",
+      "effect":       "Эффект",
+	  "speed_bonus": "Бонус к скорости",
+	  "to_allies": "союзникам",
+	  "duration":  "Продолжительность",
+	  "area_of_effect": "Радиус действия",
+	  "blocks":              "блоков",
+	  "circle_shaped":  "круговая область",
+      "ability_points":      "Очков способности"
+    },
+
+    "air_mastery": {
+      "title":               "Мастерство воздуха",
+      "description":         "Увеличьте ваш базовый урон от всех атак Воздуха.",
+	  "air_damage": "Урон от воздуха",
+	  "boltslinger_archetype": "Архетип Метателя Болтов",
+      "ability_points":      "Очков способности"
+    },
+
+    "thunder_mastery": {
+      "title":               "Мастерство грома",
+      "description":         "Увеличьте ваш базовый урон от всех атак Грома.",
+      "thunder_damage":      "Урон от грома",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "ability_points":      "Очков способности"
+    },
+
+    "fire_mastery": {
+      "title":               "Мастерство огня",
+      "description":         "Увеличьте ваш базовый урон от всех атак Огня.",
+      "fire_damage":         "Урон от огня",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "ability_points":      "Очков способности"
+    },
+
+    "water_mastery": {
+      "title":               "Мастерство воды",
+      "description":         "Увеличьте ваш базовый урон от всех атак Воды.",
+      "water_damage":        "Урон от воды",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "ability_points":      "Очков способности"
+    },
+
+    "earth_mastery": {
+      "title":               "Мастерство земли",
+      "description":         "Увеличьте ваш базовый урон от всех атак Земли.",
+      "earth_damage":        "Урон от земли",
+      "trapper_archetype":   "Архетип Ловец",
+      "ability_points":      "Очков способности"
+    },
+
+    "buckshot": {
+      "title":               "Картечь",
+      "description":         "Когда Стрелковый щит теряет последний заряд, выпустите 75 пронзающих стрел из лука.",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "damage":              "Урон",
+      "air":                 "Воздух",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности"
+    },
+
+    "nimble_string": {
+      "title":               "Проворная тетива",
+      "description":         "Удваивает скорость Шквала стрел и выпускает +6 стрел за поток.",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "damage":              "Урон",
+      "thunder":             "Гром",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "bryophyte_roots": {
+      "title":               "Корни мохообразных",
+      "description":         "Попадание по врагу Шквалом стрел создаёт зону поражения, которая замедляет врагов и наносит урон каждые 0.4 сек.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "earth":               "Земля",
+      "effect":              "Эффект:",
+      "slowness":            "Замедление",
+      "to_enemies":          "по врагам",
+      "duration":            "Продолжительность",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "fire_creep": {
+      "title":               "Огненный след",
+      "description":         "Бомба-стрела оставляет огненный след на 6 секунд. Враги, наступившие на него, получают урон каждые 0.4 сек.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "fire":                "Огонь",
+      "duration":            "Продолжительность",
+      "cooldown":            "Перезарядка",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "phantom_ray": {
+      "title":               "Призрачный луч",
+      "description":         "Конденсирует Шквал стрел в один луч, который наносит урон врагам 10 раз в секунду.",
+      "mana_cost":           "Расход маны",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_hit": "урон вашей стрелы в сек (DPS) за удар",
+      "damage":              "Урон",
+      "water":               "Вода",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "duration":            "Продолжительность",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "frenzy": {
+      "title":               "Бешенство",
+      "description":         "Удар по врагу даст вам кратковременное увеличение скорости ходьбы на +1%, до 15% в секунду. (Максимум +60%) -5% бонуса теряется каждую секунду.",
+      "walk_speed":          "Скорость ходьбы",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "triple_shots": {
+    "title":               "Тройной выстрел",
+     "description":         "Утраивает стрелы Основной атаки, но они наносят -10% урона от обычной стрелы Основной атаки.",
+     "main_attack_damage":  "Урон от Основной атаки",
+     "boltslinger_archetype": "Архетип Метателя Болтов",
+     "required_ability":    "Требуемая способность",
+     "ability_points":      "Очков способности",
+	 "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "guardian_angels": {
+      "title":               "Ангелы-хранители",
+      "description":         "Ваш Стрелковый щит превращается в 2 разумных лука, которые стреляют по врагам каждые 0.45 сек, каждый с 10 боеприпасами. (Стрелковый щит больше не отталкивает врагов и не даёт сопротивление)",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_shot": "вашего урона в секунду (DPS) за выстрел",
+      "damage":              "Урон",
+      "air":                 "Воздух",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "duration":            "Продолжительность",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "basaltic_trap": {
+      "title":               "Базальтовая ловушка",
+      "description":         "При попадании Бомбой-стрелой в землю, оставляет Ловушку, которая наносит урон врагам. (Макс. 2 ловушки)",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "earth":               "Земля",
+      "fire":                "Огонь",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "area_of_effect":      "Радиус действия",
+      "trapper_archetype":   "Архетип Ловец",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "focus": {
+      "title":               "Фокус",
+      "description":         "При попадании по агрессивному врагу на расстоянии 5+ блоков, получаете +1 Фокус. (Макс. 3). (Потеря 50% Фокуса при промахе)",
+      "damage_bonus":        "Бонус к урону",
+      "per_focus":           "за фокус",
+      "cooldown":            "Перезарядка",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "windstorm": {
+      "title":               "Буря",
+      "description":         "Шквал стрел выпускает +1 поток стрел и +2 дополнительные стрелы за поток. Шквал стрел получает отдачу в воздухе.",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "damage":              "Урон",
+      "thunder":             "Гром",
+      "air":                 "Воздух",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "cheaper_arrow_storm": {
+      "title":               "Дешёвый Шквал стрел",
+      "description":         "Уменьшает расход маны Шквала стрел.",
+      "mana_cost":           "Расход маны",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "implosion": {
+      "title":               "Имплозия",
+      "description":         "Бомба-стрела притягивает врагов к вам. Если рядом есть Ловушка, она притянет их к себе. Увеличивает урон Разбитого сердца.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "trapper_archetype":   "Архетип Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "arrow_wall": {
+      "title":               "Стена стрел",
+      "description":         "Даёт Стрелковому щиту +2 дополнительных заряда. Ангелы-хранители будут наносить -40% урона.",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "stormy_feet": {
+      "title":               "Штормовые ноги",
+      "description":         "Ветреные ноги будут действовать дольше и давать более сильный бафф скорости.",
+      "effect":              "Эффект:",
+      "speed_bonus":         "Бонус к скорости",
+      "to_allies":           "союзникам",
+      "duration":            "Продолжительность",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "arsenal_synergy": {
+      "title":               "Синергия арсенала",
+      "description":         "За каждые 16 стрел, выпущенных Шквалом стрел недавно, ваши Основные атаки дополнительно выпускают кремневую стрелу, наносящую урон врагам. (Макс. 5 кремней за основную атаку)",
+      "total_damage":        "Общий урон",
+	  "main_attack_damage_per_arrow": "Основной урон от атаки, за стрелу",
+      "damage":              "Урон",
+      "duration":            "Продолжительность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "patient_hunter": {
+      "title":               "Терпеливый охотник",
+      "description":         "Ваши Ловушки будут наносить +20% урона за каждую секунду активности. (Макс. +100%). Увеличивает максимум Ловушек на +1.",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "grappling_hook": {
+      "title":               "Крюк-кошка",
+      "description":         "При использовании Побега, бросьте крюк, который притянет вас при попадании в блок. (Побег больше не отбрасывает назад). Удерживание Shift при использовании притянет врага.",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "trapper_archetype":   "Архетип Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "more_focus": {
+      "title":               "Больше фокуса",
+      "description":         "Увеличивает максимум Фокуса на +2.",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "murder_flock": {
+      "title":               "Стая убийц",
+      "description":         "Базальтовая ловушка призывает Ворону при детонации, которая клюёт агрессивных врагов каждые 0.9 сек. (Макс. 2). Повреждённые враги будут отвлечены на 0.2 сек.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "effect":              "Эффект:",
+      "blindness":           "Слепота",
+      "to_enemies":          "по врагам",
+      "vision":              "Обзор",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "duration":            "Продолжительность",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "refined_gunpowder": {
+      "title":               "Очищенный порох",
+      "description":         "Увеличивает урон Бомбы-стрелы.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "phantom_force": {
+      "title":               "Призрачная сила",
+      "description":         "Призрачный луч получает дополнительную дальность и становится шире.",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "area_of_effect":      "Радиус действия",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "leap": {
+      "title":               "Прыжок",
+      "description":         "Удерживание Shift позволяет вам прыгнуть вперёд при приземлении. Перезарядка сбрасывается при использовании Побега в воздухе.",
+      "the_distance_scales_with_your_walk_speed": "Расстояние масштабируется в зависимости от вашей скорости ходьбы.",
+	  "cooldown":            "Перезарядка",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "grape_bomb": {
+      "title":               "Виноградная бомба",
+      "description":         "Бомба-стрела выпускает 3 взрывающиеся снаряды, каждый наносящий урон.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "earth":               "Земля",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "ivyroot_mamba": {
+      "title":               "Плющекорневая мамба",
+      "description":         "Базальтовая ловушка призывает Змею, которая атакует врагов поблизости каждые 0.65 сек. (Макс. 2). При уничтожении наносит урон.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "earth":               "Земля",
+      "vision":              "Обзор",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "duration":            "Продолжительность",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "twains_arc": {
+      "title":               "Дуга Твейна",
+      "description":         "При наличии 2+ Фокуса, удерживание Shift призовёт Дугу Твейна. Заряжайте её, чтобы выпустить разрушительный дальнобойный луч.",
+      "total_damage":        "Общий урон",
+      "damage":              "Урон",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "shrapnel_bomb": {
+      "title":               "Осколочная бомба",
+      "description":         "Взрыв Бомбы-стрелы разбрасывает 25 осколков, наносящих урон на большой площади. (Каждый враг может получить урон только от 5 осколков)",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS) за осколок",
+      "damage":              "Урон",
+      "earth":               "Земля",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "fierce_stomp": {
+      "title":               "Яростный топот",
+      "description":         "При использовании Побега, удерживание Shift позволяет быстро упасть вниз, нанося урон и ослепляя врагов.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "effect":              "Эффект:",
+      "blindness":           "Слепота",
+      "to_enemies":          "по врагам",
+      "duration":            "Продолжительность",
+      "cooldown":            "Перезарядка",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "rocket_jump": {
+      "title":               "Ракетный прыжок",
+      "description":         "Отдача Бомбы-стрелы увеличена, а самоурон уменьшен до 1%.",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "scorched_earth": {
+      "title":               "Выжженная земля",
+      "description":         "Огненный след становится намного сильнее.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "fire":                "Огонь",
+      "duration":            "Продолжительность",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "more_traps": {
+      "title":               "Больше ловушек",
+      "description":         "Увеличивает максимум Ловушек на +3.",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "divine_intervention": {
+      "title":               "Божественное вмешательство",
+      "description":         "Ангелы-хранители получают +8 дополнительных боеприпасов. При применении заклинания, ваши Ангелы-хранители ненадолго усиливаются. Шквал стрел заставляет их стрелять в 1.5 раза быстрее. Бомба-стрела заставляет их стрелять взрывными снарядами с +20% урона.",
+      "duration":            "Продолжительность",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "cheaper_arrow_shield": {
+      "title":               "Дешёвый Стрелковый щит",
+      "description":         "Уменьшает расход маны Стрелкового щита.",
+      "mana_cost":           "Расход маны",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "honed_shield": {
+      "title":               "Заточённый щит",
+      "description":         "Радиус, отбрасывание и урон Стрелкового щита увеличены. Урон Ангелов-хранителей увеличен.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "shocking_bomb": {
+      "title":               "Шоковая бомба",
+      "description":         "Бомба-стрела не подвержена гравитации и увеличивает урон от взрыва.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "thunder":             "Гром",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "bounding_stride": {
+      "title":               "Размашистый шаг",
+      "description":         "Уменьшает перезарядку Прыжка на 2 сек.",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "homing_shots": {
+      "title":               "Самонаводящиеся выстрелы",
+      "description":         "Стрелы вашей Основной атаки будут следовать за ближайшими врагами и не подвержены гравитации.",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "recycling": {
+      "title":               "Переработка",
+      "description":         "Когда любой из ваших снарядов промахивается, получите +0.08 маны.",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "mana_trap": {
+      "title":               "Ловушка маны",
+      "description":         "Ваши Ловушки дают вам 0.5 маны в секунду и 10 маны при взрыве. Увеличивает максимум Ловушек на +1.",
+      "mana_cost":           "Расход маны",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "trapper_archetype":   "Архетип Ловец",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "cheaper_escape_ii": {
+      "title":               "Дешёвый Побег II",
+      "description":         "Уменьшает расход маны Побега.",
+      "mana_cost":           "Расход маны",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "initiator": {
+      "title":               "Инициатор",
+      "description":         "Если вы не наносите урон врагу 4 сек или дольше, ваш следующий успешный удар нанесёт +60% урона и добавит +1 Фокус.",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "couriers_edict": {
+      "title":               "Указ курьера",
+      "description":         "Яростный топот восстанавливает 1 заряд Стрелкового щита при попадании по врагу. (Макс. 1 за использование)",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "vigilant_sentinels": {
+      "title":               "Бдительные стражи",
+      "description":         "Увеличивает дальность и урон Ангелов-хранителей. Использование Стрелкового щита при активных Ангелах-хранителях также активирует Картечь. Увеличивает урон Картечи.",
+      "total_damage":        "Общий урон",
+      "per_shot":        "за выстрел",
+      "for":        "для",
+      "per_arrow":        "за стрелу",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "fire":                "Огонь",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "call_of_the_hound": {
+      "title":               "Зов гончей",
+      "description":         "Стрелковый щит призывает Гончую, которая атакует агрессивных врагов каждые 0.25 сек и тащит их к вашим ловушкам.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "vision":              "Обзор",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "duration":            "Продолжительность",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "decimator": {
+      "title":               "Десиматор",
+      "description":         "Призрачный луч увеличивает урон на 15% каждый раз, когда вы не промахиваетесь. (Макс. 90%). Призрачный луч получает дополнительную дальность.",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "phasing_beam": {
+      "title":               "Фазирующий луч",
+      "description":         "Дуга Твейна заряжается на 25% быстрее и теперь может пронзать до 5 врагов, нанося уменьшенный урон после пронзания. (Урон наносится как урон Основной атаки)",
+      "damage_is_dealt_as_main_attack_damege": "Урон наносится как основной урон атаки",
+	  "total_damage":        "Общий урон",
+      "damage":              "Урон",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "spectral_hover": {
+      "title":               "Призрачное парение",
+      "description":         "Медленное падение применяется при использовании Побега. Приседание в любой момент отменит этот эффект.",
+      "duration":            "Продолжительность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "parting_gift": {
+      "title":               "Прощальный подарок",
+      "description":         "При использовании Побега, выпускаете кассетную бомбу в воздухе, которая взрывается и отправляет 150 стрел к вашему предыдущему местоположению. (Каждый враг может получить урон только от одной стрелы)",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "damage":              "Урон",
+      "thunder":             "Гром",
+      "cooldown":            "Перезарядка",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "bouncing_bomb": {
+      "title":               "Отскакивающая бомба",
+      "description":         "Бомба-стрела отскочит один раз при попадании в блок или врага.",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "cheaper_arrow_storm_ii": {
+      "title":               "Дешёвый Шквал стрел II",
+      "description":         "Уменьшает расход маны Шквала стрел.",
+      "mana_cost":           "Расход маны",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "cheaper_arrow_shield_ii": {
+      "title":               "Дешёвый Стрелковый щит II",
+      "description":         "Уменьшает расход маны Стрелкового щита.",
+      "mana_cost":           "Расход маны",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "hookshot": {
+      "title":               "Крюк-выстрел",
+      "description":         "Увеличивает дальность, скорость и силу Крюка-кошки.",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "ghostly_trigger": {
+      "title":               "Призрачный спусковой крючок",
+      "description":         "Находясь в воздухе после использования Побега, ваши следующие 3 Основные атаки могут быть выпущены в быстрой последовательности независимо от скорости атаки и мгновенно выстрелят из Дуги Твейна.",
+      "cooldown":            "Перезарядка",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "coursing_restraints": {
+      "title":               "Текущие оковы",
+      "description":         "Шоковая бомба временно шокирует врагов, снижая их защиту.",
+      "effect":              "Эффект:",
+      "resistance_bonus":    "Бонус к сопротивлению",
+      "to_enemies":          "по врагам",
+      "duration":            "Продолжительность",
+      "cooldown":            "Перезарядка",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "arrow_hurricane": {
+      "title":               "Стрелковый ураган",
+      "description":         "Шквал стрел будет выпускать +2 дополнительных потока стрел. Отдача Шквала стрел удвоена.",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "beast_lore": {
+      "title":               "Знание зверей",
+      "description":         "Увеличивает максимум Змей на +1. Увеличивает максимум Ворон на +2. Увеличивает урон вашей Гончей.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "tangled_traps": {
+      "title":               "Запутанные ловушки",
+      "description":         "Ваши Ловушки будут соединены верёвкой, которая наносит урон врагам каждые 0.2 сек. Виноградная бомба получает +1 виноградину.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "air":                 "Воздух",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "elusive": {
+      "title":               "Неуловимый",
+      "description":         "Бомба-стрела и Шквал стрел больше не будут иметь отдачу, и ваши Бомбы-стрелы не будут наносить самоурон.",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "chilling_snare": {
+      "title":               "Морозная ловушка",
+      "description":         "Прикрепляет ледяную ловушку к Базальтовой ловушке, которая сильно замедляет и наносит урон ближайшим врагам каждые 0.2 сек после детонации. Увеличивает максимум Ловушек на +1.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "water":               "Вода",
+      "effect":              "Эффект:",
+      "slowness":            "Замедление",
+      "to_enemies":          "по врагам",
+      "duration":            "Продолжительность",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "trapper_archetype":   "Архетип Ловец",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "feedback_loop": {
+      "title":               "Обратная связь",
+      "description":         "Попадание 1 кремневой стрелы заставит ваш следующий Шквал стрел выстрелить +1 стрелу за поток.",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "swift_primer": {
+      "title":               "Быстрый заряд",
+      "description":         "Терпеливый охотник увеличивает урон на +10% в секунду и увеличивает максимальный урон на +100%. Увеличивает максимум Ловушек на +1.",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "crepuscular_ray": {
+      "title":               "Сумеречный луч",
+      "description":         "При наличии 5+ Фокуса, использование Шквала стрел на высоте 4+ блоков над землёй заставит вас левитировать и выпускать 20 самонаводящихся стрел в секунду, пока у вас не закончится Фокус. В этом состоянии теряйте 1 Фокус каждые 0.5 сек.",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "damage":              "Урон",
+      "water":               "Вода",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "transience": {
+      "title":               "Мимолётность",
+      "description":         "Шквал стрел будет пронзать врагов.",
+      "unlocking_will_block": "Разблокировка заблокирует:",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "snow_storm": {
+      "title":               "Снежная буря",
+      "description":         "Враги рядом с вами будут замедлены.",
+      "effect":              "Эффект:",
+      "slowness":            "Замедление",
+      "to_enemies":          "по врагам",
+      "range_pm":            "Дальность",
+      "blocks":              "блоков",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "cheaper_arrow_bomb_ii": {
+      "title":               "Дешёвая Бомба-стрела II",
+      "description":         "Уменьшает расход маны Бомбы-стрелы.",
+      "mana_cost":           "Расход маны",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "more_focus_ii": {
+      "title":               "Больше фокуса II",
+      "description":         "Увеличивает максимум Фокуса на +2.",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "wild_light": {
+      "title":               "Дикий свет",
+      "description":         "Бешенство также активируется при попадании по врагу в пределах 3 блоков, давая +10% скорости ходьбы за удар. (Макс. +50% в секунду)",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "fimbulwinter": {
+      "title":               "Фимбульветр",
+      "description":         "Враги получают дополнительный урон после того, как находятся внутри Ледяной ловушки в течение 2 секунд.",
+	  "under_description": "Увеличьте максимальное количество ловушек на +1.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "water":               "Вода",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "warding_wisps": {
+      "title":               "Защитные огоньки",
+      "description":         "Стрелковый щит призовёт 3 огонька, которые вращаются вокруг вас, наносят урон врагам и ослепляют их каждые 0.1 сек.",
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "neutral":                "Нейтральный",
+	  "water":               "Вода",
+      "effects":              "Эффекты",
+      "slowness":          "Медлительность",
+      "duration":            "Продолжительность",
+      "to_enemies":            "против врагов",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "shrieking_arrows": {
+      "title":               "Воющие стрелы",
+      "description":         "Шквал стрел и Призрачный луч будут наносить дополнительный урон.",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "total_damage_dps_ray": "урона в секунду (DPS) на луч",
+      "damage":              "Урон",
+      "thunder":             "Гром",
+      "air":                 "Воздух",
+      "water":               "Вода",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "overgrowth": {
+      "title":               "Разрастание",
+      "description":         "Корни мохообразных распространяются дальше и наносят урон на 33% быстрее.",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "quick_draw": {
+      "title":               "Быстрая стрельба",
+      "description":         "Не промахнувшись Phantom Ray 7 раз подряд, ваш следующий основной удар превратится в луч Twain's Arc.",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "sniffer_dog": {
+      "title":               "Ищейка",
+      "description":         "У вашей Гончей есть 15% шанс откопать Ловушку при атаке врагов.",
+      "cooldown":            "Перезарядка",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "repel": {
+      "title":               "Отталкивание",
+      "description":         "Использование Стрелкового щита оттолкнёт ближайших врагов и даст кратковременный всплеск сопротивления.",
+	  "under_description": "Перезарядка уменьшается на 1 сек каждый раз, когда Стрелковый щит теряет заряд.",      
+	  "effect":              "Эффект:",
+      "resistance_bonus":    "Бонус к сопротивлению",
+      "duration":            "Продолжительность",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "cooldown":            "Перезарядка",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "pyrotechnics": {
+      "title":               "Пиротехника",
+      "description":         "Бомба-стрела и Виноградная бомба становятся намного горячее, увеличивая урон от взрыва.",
+      "total_damage":        "Общий урон",
+      "for":        "для",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "fire":                "Огонь",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "canine_colleague": {
+      "title":               "Собачий коллега",
+      "description":         "Увеличивает максимум Гончих на +1.",
+      "trapper_archetype":   "Архетип Ловец",
+      "required_ability":    "Требуемая способность",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "maels_quiver": {
+      "title":               "Колчан Маэля",
+      "description":         "Увеличивает урон Сумеречного луча.",
+      "total_damage":        "Общий урон",
+      "total_damage_dps_arrow": "урон вашей стрелы в сек (DPS)",
+      "damage":              "Урон",
+      "water":               "Вода",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "repositioning": {
+      "title":               "Репозиционирование",
+      "description":         "Получите кратковременный бонус к скорости после выстрела из Дуги Твейна.",
+      "effect":              "Эффект:",
+      "walk_speed":          "Скорость ходьбы",
+      "duration":            "Продолжительность",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "required_ability":    "Требуемая способность",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "angelic_ascension": {
+      "title":               "Ангельское Вознесение",
+      "click_combo":         "A",
+      "description":         "Call upon power of the Light to empower your attacks for 15s and make Leap have no cooldown.",
+	  "under_description": [
+	  "Основная атака будет вместо этого стрелять световыми стрелами, которые наносят на 50% больше урона в течение 2 секунд.",
+	  "Шторм стрел и Божественное вмешательство будут длиться в 2,5 раза дольше.",
+	  "Стрела-бомба поражает врагов, в которых попадает, ударом с небес.",
+	  "Ангелы-хранители будут иметь патроны Ultimate и активируют Buckshot после 14 залпов.",
+	  "Активируйте способности, чтобы зарядить ваш Ультимативный Метеор до 100%"
+	  ],
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "boltslinger_archetype": "Архетип Метателя Болтов",
+      "min_boltslinger_archetype": "Мин. уровень Архетипа Метателя Болтов",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "the_twilight_zone": {
+      "title":               "Зона Сумерек",
+      "click_combo":         "F",
+      "description":         "Войдите в сосредоточенное состояние на 8 с.",
+	  "under_description": [
+	  "Находясь в этом состоянии, вы прыгаете выше, падаете медленнее, и все враги в зоне вашего обзора отмечаются Сумерками каждые 0,05 с (максимум 100)",	  
+	  "В конце своей продолжительности или при использовании F, выполните Заклинание и Основную Атаку стрелой по каждому помеченному врагу. Стрелы наносят дополнительный урон за каждый накопленный Стак Сумрака на цели.",
+	  "Активируйте способности, чтобы зарядить ваш Индикатор Ульты до 100%"
+	  ],
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "water":               "Вода",
+      "sharpshooter_archetype": "Архетип Снайпер",
+      "min_sharpshooter_archetype": "Мин. уровень Архетипа Снайпер",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    },
+
+    "extinction_event": {
+      "title":               "Событие Вымирания",
+      "click_combo":         "F",
+      "description":         "Призывает стаю тактических ворон, которые проводят ковровую бомбардировку большой области перед вами.",
+	  "under_description": [
+	  "Бомбы оставят после себя базальтовые ловушки и иногда ледяные сети.",	  
+	  "Активируйте способности, чтобы зарядить ваш Индикатор Ультимейта до 100%"
+	  ],
+      "total_damage":        "Общий урон",
+      "of_your_dps":         "от вашего DPS",
+      "damage":              "Урон",
+      "earth":               "Земля",
+      "air":                 "Воздух",
+      "area_of_effect":      "Радиус действия",
+      "blocks":              "блоков",
+      "circle_shaped":       "круговая область",
+      "trapper_archetype":   "Архетип Ловец",
+      "min_trapper_archetype": "Мин. уровень Архетипа Ловец",
+      "ability_points":      "Очков способности",
+	  "you_do_not_meet_the_requirements": "Вы не соответствуете требованиям"
+    }
+
+  }
+}
