@@ -1,0 +1,51 @@
+{
+    "_comment": "Ваши дополнения к переводу системных сообщений чата. Применяются поверх встроенного словаря.",
+    "_format": "exact: 'English text' -> 'Русский текст'. patterns: плейсхолдеры {n} - число, {w} - слово без пробелов, {s} - любой текст; при нескольких одного вида нумеруйте: {s1}, {s2}.",
+    "exact": {
+		"Type the price in emeralds or formatted (e.g '10eb', '10stx5eb') or type 'cancel' to cancel:": "Введите цену в изумрудах или в отформатированном виде (например, «10eb», «10stx5eb») либо введите «cancel» для отмены.",
+		"Item Identifier: I can't identify this item! It can not be reidentified.": "Идентификатор предмета: Я не могу опознать этот предмет! Его невозможно опознать повторно.",
+		"Item Identifier: I can't identify this item! Only equipment with unique, rare, legendary, fabled, and mythic tags can be identified.": "Идентификатор предметов: Не удается распознать этот предмет! Идентифицировать можно только снаряжение с пометками «уникальное», «редкое», «легендарное», «сказочное» или «мифическое».",
+		"This material cannot be used for": "Этот материал нельзя использовать для",
+		"Emerald Merchant: I'm afraid you cannot afford that item.": "Торговец изумрудами: Боюсь, вы не можете позволить себе этот предмет.",
+		"Blacksmith: I can't buy that item! I only accept weapons, accessories, armour, ingredients, resources, consumables, tomes, charms, tools and crafted items.": "Кузнец: Я не могу купить этот предмет! Я принимаю только оружие, аксессуары, доспехи, ингредиенты, ресурсы, расходуемые предметы, фолианты, амулеты, инструменты и созданные вручную вещи.",
+		"Улучшитель предметов: Я не могу извлечь порошки из этого предмета! Очистить можно только опознанные или созданные игроком предметы, в ячейки которых вставлены порошки.": "Улучшитель предметов: Я не могу извлечь порошки из этого предмета! Очистить можно только опознанные или созданные игроком предметы, в ячейки которых вставлены порошки.",
+		"Item Upgrader: I can't ascend this item! Only equipment with available ascensions can be ascended": "Улучшитель предметов: Не удается повысить уровень этого предмета! Повышать уровень можно только у того снаряжения, для которого доступно такое улучшение.",
+		"Item Upgrader: I only accept powders from Tier I to VI": "Улучшитель предметов: принимаю только порошки с 1-го по 6-й уровень",
+		"Item Upgrader: I can't remove powders from this item! Only identified or crafted items with slotted powders can be cleaned": "Улучшитель предметов: Я не могу извлечь порошки из этого предмета! Очистить можно только опознанные или созданные игроком предметы, в ячейки которых вставлены порошки.",
+		"Unable to see content or lootrun beacons? Be sure to enable them with /toggle beacon.": "Не видите контент или маяки для лут-ранов? Обязательно включите их с помощью команды /toggle beacon.",
+		"Press F5 on a gear item to share it in chat or save it.": "Нажмите клавишу F5, выбрав предмет снаряжения, чтобы поделиться им в чате или сохранить его.",
+		"You cannot add more ingredients to the crafting station": "На станцию ​​для создания предметов нельзя добавить больше ингредиентов.",
+		"The Light Emissaries World Event starts in {n}! ({n} blocks away) Click to track": "Мировое событие «Посланники света» начнется через {n}! (на расстоянии {n} блоков) Нажмите, чтобы отслеживать",
+		"The {s} World Event starts in {n}! ({n} blocks away) Click to track": "Мировое событие «{s}» начнется через {n}! (на расстоянии {n} блоков) Нажмите, чтобы отслеживать",
+		
+		"Party Finder: Hey {s1}, over here! Join the {s2} queue and match up with {n} other players": "Поиск группы: Эй, {s1}, мы здесь! Вступай в очередь «{s2}» и найди ещё {n} игрока(ов)",
+		
+		"The {s1} World Event starts in {n1}m {n2}s!\n({n3} blocks away) Click to track": "Мировое событие «{s1}» начнётся через {n1} мин {n2} с!\n(до цели {n3} блоков) Нажмите, чтобы отслеживать",
+		
+		"Want to quickly find more of the same item on the trade market? Press CKM while hovering an item to instantly search for it.": "Хотите быстро найти больше таких же предметов на торговой площадке? Наведите курсор на предмет и нажмите среднюю кнопку мыши (СКМ) — это позволит мгновенно выполнить поиск данного предмета.",
+		
+		"You are not in a guild! \nYou can join someone else's guild or make a guild in \nCinfras [Lv. 75]": "Вы не состоите в гильдии! \nВы можете вступить в чужую гильдию или создать свою в \nСинфрасе [ур. 75].",
+		
+		"You cannot trade emerald pouches with emeralds inside": "Нельзя обмениваться мешочками с изумрудами, внутри которых находятся изумруды.",
+		"This item cannot be traded on the trade market": "Этот предмет нельзя продать на торговой площадке",
+		
+		"Having issues with your content tracker not updating? Enable autotracking with /toggle autotracking.": "У вас возникли проблемы с обновлением трекера контента? Включите автоматическое отслеживание с помощью команды /toggle autotracking.",
+		"You do not meet the requirements to use this equipment or it is not identified": "Вы не соответствуете требованиям для использования этого оборудования, либо оно не распознано.",
+		
+		"I can't reveal that item name! I only accept unidentified weapons, accessories and armour.": "Я не могу раскрыть название этого предмета! Я принимаю только неопознанное оружие, аксессуары и доспехи.",
+		
+		"You've revealed: {s} for a total of {n} emeralds. It was a pleasure doing business with you.": "Вы предоставили: {s} — итого на {n} изумрудов. Было приятно иметь с вами дело.",
+		
+		"You've revealed: {s} and {s} for a total of {n} emeralds. It was a pleasure doing business with you.": "Вы открыли {s} и {s} — всего {n} изумрудов. Было приятно иметь с вами дело.",
+		
+		"With the Container Scroll feature you can use your mouse scroll to navigate pages in most paginated containers with ease.": "Благодаря функции Container Scroll вы можете с легкостью перемещаться по страницам в большинстве контейнеров с постраничным отображением, используя колесико мыши.",
+		
+		"Your purchase must be finished at our webstore!": "Вам необходимо завершить оформление покупки в нашем интернет-магазине!",		
+		"Click here to finish your checkout": "Нажмите здесь, чтобы завершить оформление заказа",
+		
+		"Your mana bank is empty!": "Ваш запас маны пуст!",
+		"": "",
+		"Waypoint markers too big? Reduce their size with the Scale option in the Waypoint Distance feature.": "Маркеры путевых точек слишком крупные? Уменьшите их размер с помощью параметра «Масштаб» (Scale) в функции «Расстояние до путевой точки» (Waypoint Distance)."
+	},
+    "patterns": {}
+}
