@@ -1252,15 +1252,15 @@
 
   "General's Orders": {
     "General's Orders": "Приказы Генерала",
-    "Speak to Private Tylas outside of Kitrios Barracks at {coords}.": "Поговорите с Рядовым Тайласом у Казарм Китриос в {coords}.",
+    "Speak to Private Tylas outside of Kitrios Barracks at {coords}": "Поговорите с Рядовым Тайласом у Казарм Китриос в {coords}.",
     "Speak to General Lecade.": "Поговорите с Генералом Лекейдом.",
-    "Go check on the malfunctioning equipment at {coords}.": "Проверьте неисправное оборудование в {coords}.",
+    "Go check on the malfunctioning equipment at {coords}": "Проверьте неисправное оборудование в {coords}.",
     "Return to General Lecade.": "Вернитесь к Генералу Лекейду.",
-    "Recover the Good-Luck Charm from the sewers at {coords}.": "Достаньте Талисман Удачи из канализации в {coords}.",
+    "Recover the Good-Luck Charm from the sewers at {coords}": "Достаньте Талисман Удачи из канализации в {coords}.",
     "Return to General Lecade with the Good-Luck Charm.": "Вернитесь к Генералу Лекейду с Талисманом Удачи.",
     "Walk across the tightrope.": "Пройдите по канату.",
-    "Paint the mountain by using the trampolines at {coords}.": "Покрасьте гору, используя батуты в {coords}.",
-    "Speak to Lieutenant Gren at {coords}.": "Поговорите с Лейтенантом Греном в {coords}.",
+    "Paint the mountain by using the trampolines at {coords}": "Покрасьте гору, используя батуты в {coords}.",
+    "Speak to Lieutenant Gren at {coords}": "Поговорите с Лейтенантом Греном в {coords}.",
     "Investigate the mysterious prison within the fort.": "Исследуйте таинственную тюрьму внутри форта."
   },
 
