@@ -662,6 +662,7 @@
       "...it's a bit dangerous. Tell ya what, I'll give you my fishing rod, and you can go catch me, say, [10 Gudgeon Meat] down there.": "...вон там чутка опасно. Короче, дам тебе свою удочку, а ты налови мне вон там, скажем, [10 мяса пескаря]."
     },
     "Arachnids' Ascent": {
+      "So, you've taken out their queen! Well done, soldier. I'll have to let the nearby village know.": "Итак, ты уничтожил их королеву! Молодец, солдат. Я должен сообщить в соседнюю деревню.",
       "Let's see... ah,! There you are. I was just about to send someone to fetch you.": "Посмотрим... а, вот ты! Я как раз собирался послать кого-нибудь за тобой.",
       "Follow me- we have a conversation to have in my office. It's on the top floor of the barracks.": "иди за мной - нам необходимо переговорить в моём кабинете. Он на верхнем этаже казарм.",
       "Our preparations are complete, and it's time for the assault on Nivla's spider den!": "Наши приготовления завершены, и пришло время штурма паучьего логова Нивлы!",
@@ -802,7 +803,21 @@
       "This powder is definitely not native to this area. It has to have come from those creepers.": "Этот порошок точно не отсюда. Значит, он и правда пришёл от тех самых криперов.",
       "Besides, if they are composed of gunpowder, they could easily blow this ravine to pieces.": "Да и вообще, если они состоят из пороха, то могут без труда разнести всё ущелье на куски.",
       "Thank you for your help. I guess you deserve some sort of reward, considering you helped solve the ravine's big mystery.": "Спасибо за содействие. Думаю, ты заслужил вознаграждение, всё-таки именно ты помог раскрыть главную секрет ущелья.",
-      "Feel free to come back to our village any time. By then our food supply should be stable.": "Заходи в нашу поселение, когда захочешь. К тому времени с едой у нас теперь уже всё должно устаканиться."
+      "Feel free to come back to our village any time. By then our food supply should be stable.": "Заходи в нашу поселение, когда захочешь. К тому времени с едой у нас теперь уже всё должно устаканиться.",
+      "Hello! Welcome to my mask stall!": "Привет! Добро пожаловать в мой киоск с масками!",
+      "Hold on. You seem familiar. Have we met?": "Подожди. Вы кажетесь мне знакомым. Мы не встречались?",
+      "I knew it! It's great to see you again!": "Я так и знал! Рад снова видеть вас!",
+      "I must thank you once more for helping with the Haunted Mask. It's here with me now, actually. In that glass case, for safekeeping.": "Я должен еще раз поблагодарить вас за помощь с Маской Призрака. На самом деле, она сейчас здесь, со мной. В этой стеклянной витрине, для сохранности.",
+      "In fact, I'm giving it away now! Although it won't be easy for you to get, no no.": "На самом деле, я сейчас его раздаю! Хотя вам будет нелегко его получить, нет-нет.",
+      "Anyway, how can I help you?": "И всё же, как я могу помочь тебе?",
+      "Ah, welcome back. How can I help you?": "О, рад снова видеть! Как я могу помочь тебе?",
+      "Glad you asked! As you probably guessed, I'm selling masks. As usual.": "Рад, что вы спросили! Как вы, наверное, догадались, я продаю маски. Как обычно.",
+      "However, I've also decided to throw in this Haunted Mask. You know, the one you helped me retrieve?": "Однако я также решил надеть эту Маску Привидения§f. Помнишь, ту, §fкоторую ты помог мне найти?",
+      "I grew tired of taking care of it, so I'm giving it out to anyone who can prove themself good at dealing with spirits.": "Мне надоело заботиться о нем, поэтому я раздаю его всем, кто может доказать, что умеет обращаться с духами.",
+      "A good way to prove yourself is by helping those nice spooky people out. Something about banishing malignant spirits? I'm not certain.": "Хороший способ проявить себя - это помочь этим милым людям с привидениями. §fЧто-то насчет изгнания злых духов? Я не уверен.",
+      "If you can bring me... let's say... [24 Condensed Soul Crystals] , you can pass them on to my associate here and have the mask for yourself.": "Если вы сможете принести мне... скажем §fтак... [24 кристалла конденсированной §dдуши],§f вы можете передать их моему помощнику и забрать маску себе.",
+      "I'll accept similar spiritual essences as currency for my masks, as well.": "Я также приму подобные духовные эссенции в качестве обмена на свои маски.",
+      "Well! You had better get to work! After all, I must depart again in 15 days .": "Ну что ж! Вам лучше приступить к работе! В конце концов, через 15 дней я снова должен уезжать."
     },
     "The Mercenary": {
       "Ho, soldier! Soldier! Ahem...": "Эй, ратник! ратник! Кхм...",
@@ -3320,7 +3335,7 @@
       "They're already going?! We're out of time! Korzim is waiting for you just upstairs when you reach level 94. Go train! NOW!": "Они теперь уже пошли?! У нас не осталось времени! Корзим будет ждать тебя прямо наверху, когда возьмёшь 94 уровень. Иди качайся! в данный момент!"
     },
     "The Qira Hive": {
-      "I see another challenger has found their way to The Qira Hive!": "Вижу, ещё один претендент добрался до Улья Киры!",
+      "I see another lost soul has found their way to The Qira Hive!": "замечаю, по-прежнему одна заблудшая душа нашла дорога к Улью Киры!",
       "I can't say I am overwhelmed by your appearance. Here, the birth of many powerful and magical monsters take place.": "Не могу промолвить, что я впечатлён твоим появлением. тут рождаются многие могущественные и магические твари.",
       "Gavel's governments can not stop Mistress Qira. I doubt you can either.": "Правительства Гавела не могут остановить Госпожу Киру. Сомневаюсь, что ты сможешь тоже.",
       "If you want to meet her, you will have to defeat each division of her army.": "Если желаешь встретиться с ней, тебе придётся победить каждый дивизион её армии.",
@@ -9807,7 +9822,8 @@
       "Now, the roots and spikes of Corruption are very sturdy, but we ain't never seen something like lava burstin' out of the ground.": "Корни и шипы Порчи, разумеется, штуки крепкие, но чтобы лава прямо из земли хлестала - такого мы по-прежнему не видели.",
       "Had a small chat with the brass, earlier. They got a hunch that there's a heart to the Corruption that's pumpin' out all the lava!": "Я тут недавно поговорил с верхушкой. У них есть подозрение, что у этой Порчи есть сердце, и именно оно качает наружу всю эту лаву!",
       "That's gotta be our ticket, yeah? If 'ye destroy that, ya should be able to stop the spread of the lava! Now, get movin'! Head into the borehole, soldier!": "Вот он наш шанс, да? Если разнесёшь это сердце, то, скорее всего, остановишь распространение лавы! Всё, двигай! Полезай в скважину, ратник!",
-      "Hah! I knew ya'd give me results! Ye're pretty damn reliable, soldier! Here, take this for your trouble!": "Ха! Я знал, что от тебя будет толк! Ты чертовски надёжный ратник! Вот, держи за старания!"
+      "Hah! I knew ya'd give me results! Ye're pretty damn reliable, soldier! Here, take this for your trouble!": "Ха! Я знал, что от тебя будет толк! Ты чертовски надёжный ратник! Вот, держи за старания!",
+      "Ye're a good ally, soldier! And a great help to the army, at that!": "Ты хороший союзник, солдат! И к тому же очень помогаешь армии!"
     },
     "Lost Royalty": {
       "Oh, hello there! I had hoped not to bother you, adventurer, but this is urgent.": "О, здравствуй! Я надеялся тебя не дёргать, приключенец, но дело срочное.",
@@ -10152,7 +10168,12 @@
       "What have you done to this potion, human? You will pay for it!": "Что ты сделал с этим зельем, человек? Ты за это ответишь!",
       "I...must thank you, stranger...": "Я... должен тебя поблагодарить, странник...",
       "I only hope...that my master will not be...angry with me about this. It...was for the better.": "Надеюсь лишь... что мой хозяин не будет... слишком зол на меня из-за этого. Так... было лучше.",
-      "Now. I...do not want you saying anything about...these events. Take these, and...never speak of this again.": "А теперь. Я... не желаю, чтобы ты хоть кому-то рассказал... об этом. забери это и... больше ни при каких условиях об этом не говори."
+      "Now. I...do not want you saying anything about...these events. Take these, and...never speak of this again.": "А теперь. Я... не желаю, чтобы ты хоть кому-то рассказал... об этом. забери это и... больше ни при каких условиях об этом не говори.",
+      "I'll... return to my master's house...and sneak the mushrooms into...his potion. Wait for me here...": "Я буду... возвращайся в дом моего хозяина... и добавь грибы в... его зелье. Подожди меня здесь...",
+      "I...have returned... He came back...just as I finished slipping the mushrooms in and...told me...": "Я... вернулся... Он вернулся...как только я закончил выкладывать грибы, и...сказал мне... уйти",
+      "You must...make sure...he has not managed...to become invincible... Do what has to be done...": "Ты должен... убедись, что... он не стал managed...to неуязвимым... Сделай то, что должно быть сделано...",
+      "Don't believe...everything people tell you... If master managed to...discover invincibility... No...too...dangerous.": "Не верьте... всему, что вам говорят люди... Если хозяину удалось... обрести неуязвимость... Нет... это слишком... опасно.",
+      "This was...for the better...": "Это было... к лучшему..."
     },
     "Purple and Blue": {
       "W-Woah there, short nose! What are you doing, barging into my home?!": "В-Вооу, полегче, коротконосый! Ты чего в мой дом так влетаешь?!",
@@ -11155,7 +11176,24 @@
       "Hey, it's you! Got my barn key?": "О, это ты! Ключ от моей конюшни принёс?",
       "Ah, god bless. And I presume Betty did all the work while you just- lounged around.": "Ох, ну слава богу. И я так понимаю, всю работу сделала Бетти, а ты всего лишь - прохлаждался рядом.",
       "I kid! I kid. But as the great bovine above is my witness if I see the smallest bruise I will-": "Да шучу я, шучу. Но клянусь великим быком наверху, если увижу на ней хоть в одиночку синяк, я-",
-      "Nevermind all that. A horse I promised, and a horse you shall have. Much thanks to you.": "Ладно, к чёрту это. Обещал лошадь - получай лошадь. Спасибо тебе."
+      "Nevermind all that. A horse I promised, and a horse you shall have. Much thanks to you.": "Ладно, к чёрту это. Обещал лошадь - получай лошадь. Спасибо тебе.",
+      "Hm. Cows, huh? Ah- who knows!? Life is full of mysteries, huh?": "Хм. Ам... Коровы? К... Кто же знал! Жизнь полна загадок, не так ли?",
+      "Either way. As the great bovine above is my witness if I see the smallest bruise on Betty I will": "В любом случае. Как говорит мне вышеприведенный крупный рогатый скот, если я увижу на Бетти хоть малейший синяк, я буду-",
+      "Ah! I can't just hand you a horse without telling you how to care for that beautiful creature, can I?": "Ах! Я не могу просто подарить тебе лошадь, не рассказав, как ухаживать за этим прекрасным созданием, не так ли?",
+      "Those rich Detlas folk have no respect for horses, let me tell you!": "Эти богатые детласцы не питают никакого уважения к лошадям, вот что я вам скажу!",
+      "Well! Enough of that. Come with me !": "Ну что ж! Хватит об этом. §bПойдем §bсо §bмной!",
+      "Let's get started then! Make sure to remember what I'm about to tell you.": "Тогда давайте начнем! Не забудьте запомнить то, что я собираюсь вам сказать.",
+      "This here is a Feeder , which will be your best friend for raising these beauties.": "Это §bкормушка§f, которая станет вашим §fлучшим другом при выращивании этих красавцев.",
+      "Now! Right Click the Feeder and place your [Horse Saddle] in there.": "Сейчас! Щелкните §bправой §bкнопкой §bмыши §fпо кормушке и поместите туда свое §3лошадиное §3седло.",
+      "Okay! That's step one complete. Now, the most important thing for any horse trainer - Feeding them of course.": "Хорошо! На этом первый шаг завершен. Теперь самое важное для любого §fтренера лошадей - это, конечно, их §bкормление§f.",
+      "Use the [5 Wheat Grains] I gave you earlier to feed your new friend.": "Используйте [5 зерен пшеницы], §fкоторые я дал вам ранее, чтобы накормить вашего нового друга.",
+      "Just Right Click the Feeder again.": "§fПросто §bщелкните правой кнопкой мыши§f §fна подающем устройстве еще раз.",
+      "Great work! Looks like you won't turn out like those rich old Detlas folk after all!": "Отличная работа! Похоже, вы все-таки не станете такими, как эти старые богачи из Детласа!",
+      "Horses are sensitive creatures, you see. They don't grow strong over night, they require patience and a good stable diet.": "Лошади, видите ли, чувствительные существа. Они не становятся сильными за ночь, им требуется терпение и хороший стабильный рацион.",
+      "They will keep improving and getting stronger as you keep them in their enclosure. Just, just make sure they are well fed!": "Они будут совершенствоваться и становиться сильнее, пока вы будете содержать их в вольере. Просто §fубедитесь, что их §bхорошо §bкормят!",
+      "However, you also need to take them out on walks so they get some well needed exercise, otherwise they will never reach their full potential.": "Однако вам также необходимо выводить их на прогулки, чтобы они получили необходимую физическую нагрузку, иначе они никогда не раскроют свой потенциал в полной мере.",
+      "I almost forgot! If you really want to master the art of a horse trainer you can breed two horses using the Feeder.": "Чуть не забыл! Если вы действительно хотите овладеть искусством дрессировщика лошадей, вы можете разводить двух лошадей, используя кормушку.",
+      "Anyway! I wish you luck on your horse training career!": "В любом случае! Я желаю тебе удачи в твоей карьере тренера лошадей!"
     },
     "Tempo Town Trouble": {
       "Hey, excuse me! I'm in need of- ...yeah, just walk right by me. Maybe I shoulda gone to Detlas for help, these people here have enough problems...": "Эй, извини! Мне бы необходима- ...ага, давай, всего лишь проходи мимо. возможно, зря я не пошёл за содействием в Детлас, у местных и без меня проблем хватает...",

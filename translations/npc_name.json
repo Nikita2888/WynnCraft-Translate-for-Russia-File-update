@@ -5,6 +5,7 @@
     "_usage": "Этот файл читается NpcNameTranslationManager и используется NpcNameTranslatorMixin",
     "npc_names": {
         "_comment_province_of_ragni": "=== Провинция Рагни ===",
+        "Royal Guard": "Королевский стражник",
         "Ragni Guard": "Стражник Рагни",
         "Ragni Guard Golem": "Голем-страж Рагни",
         "Ragni Soldier": "Солдат Рагни",
@@ -911,6 +912,14 @@
         "Yot": "Йот",
         "Yuge": "Юге",
         "Zenam": "Зенам",
-        "Zhight Tour Guide": "Гид Жайта"
+        "Zhight Tour Guide": "Гид Жайта",
+        "Flute": "Флейта",
+        "Drum Kit": "Барабаны",
+        "Xylophone": "Кселофон",
+        "Piano": "Пианино",
+        "Harp": "Арфа",
+        "Bass Guitar": "Бас-Гитара",
+        "Sheep": "Овца",
+        "Detlas Guard Golem": "Голем-Страж Детласа"
     }
 }
