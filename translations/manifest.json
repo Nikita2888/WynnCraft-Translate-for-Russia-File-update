@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "files": {
     "ability_translate/archer.json": {
       "sha256": "48eb43f6694652c429d4d730ac8372c73df7217e4fc7725ef2d3c37e0f5554ce",
@@ -26,8 +26,8 @@
       "size": 42081
     },
     "chat_messages.json": {
-      "sha256": "1aee4a7fda6c10876eb186ad72a651371296bbd3613aebf7dd917acbb07b2e63",
-      "size": 17785
+      "sha256": "cb27c2ff417eed4d35778804e5e67c51b862ea3a016fd8d48766073220f70807",
+      "size": 17905
     },
     "items.json": {
       "sha256": "b75776395d5c44949e3e9358b932f928be94e8100e4b3773dbd95dfeda1e51dd",
