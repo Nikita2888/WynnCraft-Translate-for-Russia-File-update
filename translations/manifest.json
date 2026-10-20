@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "files": {
     "ability_translate/archer.json": {
       "sha256": "48eb43f6694652c429d4d730ac8372c73df7217e4fc7725ef2d3c37e0f5554ce",
@@ -14,16 +14,20 @@
       "size": 69065
     },
     "ability_translate/shaman.json": {
-      "sha256": "ed765998dc6dfc5d70b0424468ca0c857a79b6fe50dcd7526e967f30e336c37e",
-      "size": 488202
+      "sha256": "c576239fde3b20c3fdc0d7ce8ae5638c1a3caebb9a187bacd7322970b67afa0a",
+      "size": 64620
     },
     "ability_translate/warrior.json": {
-      "sha256": "c1fff99a29740a20b077e08a62f970609376b3f9eb25768680fde54632f57a04",
-      "size": 461476
+      "sha256": "de624365d34e2d70f7296a627736741bbe409d350f924b85523abbfa29d77934",
+      "size": 59690
     },
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
       "size": 42081
+    },
+    "chat_messages.json": {
+      "sha256": "bb7141d00d6d66a631e57d1f3f7314c3ee511751840f2ad03b42e17bfe9e8095",
+      "size": 17786
     },
     "items.json": {
       "sha256": "b75776395d5c44949e3e9358b932f928be94e8100e4b3773dbd95dfeda1e51dd",
@@ -34,24 +38,24 @@
       "size": 8428
     },
     "npc.json": {
-      "sha256": "705134f23cd1e25e812290abe97069fb5a1bd25562f4439b24ad6dae7be4cc35",
-      "size": 16573
+      "sha256": "77954fef3fc7a0a6faa8466e5ff724eca8d55b78aae63f302312e72f0de4a5e4",
+      "size": 16731
     },
     "npc_menus.json": {
-      "sha256": "2254ac703f56c9917b99625158ff1e0e255eab3e038e0eb1ea0599e17af7235f",
-      "size": 12000
+      "sha256": "32032873cc4863f49644858e5274b31e77b3842f23c8918330f86a97e2106e85",
+      "size": 28261
     },
     "npc_name.json": {
-      "sha256": "a546181b8c6d4d85e90ef19321abd763f8522103c7a2a4369d2f8ed3f91f43a4",
-      "size": 42020
+      "sha256": "e8f898ec8cd8ca9da674278a0057058126bbfe521d12bcca950ca2f9f747acd9",
+      "size": 42408
     },
     "phrases.json": {
-      "sha256": "c0ca83ad5adb54eec82cc91d13e9584d278d4ff124d92454021e6631d7c969a8",
-      "size": 3357537
+      "sha256": "bd7b34f1a3784e694b46a85ea5e66a1333175307facb94d1bedf51a60dcb5b93",
+      "size": 3362773
     },
     "quests.json": {
-      "sha256": "99174a430b60438fb64c6d5cd963d3f94e658d61fe9ee4a1ea65d9ebc0cdf6ed",
-      "size": 170081
+      "sha256": "b756d7c8ea1f160ca9a9b29eb7bcd275c52a68f264a08ae1d34b7849486f165c",
+      "size": 170809
     }
   }
 }
