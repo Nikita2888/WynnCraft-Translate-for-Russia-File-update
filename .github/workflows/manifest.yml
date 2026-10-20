@@ -5,6 +5,7 @@ on:
     paths:
       - "translations/**"
       - "!translations/manifest.json"
+      - "translations/ability_transalate"
 permissions:
   contents: write
 jobs:
