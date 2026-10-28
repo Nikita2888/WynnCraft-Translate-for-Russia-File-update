@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "files": {
     "ability_translate/archer.json": {
       "sha256": "48eb43f6694652c429d4d730ac8372c73df7217e4fc7725ef2d3c37e0f5554ce",
@@ -42,8 +42,8 @@
       "size": 16731
     },
     "npc_menus.json": {
-      "sha256": "32032873cc4863f49644858e5274b31e77b3842f23c8918330f86a97e2106e85",
-      "size": 28261
+      "sha256": "441ba626b887d6f899b86b87ee2be8bf87d83ef8361943e98789b9435646f096",
+      "size": 40207
     },
     "npc_name.json": {
       "sha256": "e8f898ec8cd8ca9da674278a0057058126bbfe521d12bcca950ca2f9f747acd9",
