@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "files": {
     "ability_translate/archer.json": {
       "sha256": "48eb43f6694652c429d4d730ac8372c73df7217e4fc7725ef2d3c37e0f5554ce",
@@ -10,8 +10,8 @@
       "size": 59703
     },
     "ability_translate/mage.json": {
-      "sha256": "5f3f063c492a2dd2a40a2be8f370297880889bbd9f19c48f56ed3c80befd3765",
-      "size": 69065
+      "sha256": "a83aa550e41e6487d20a1793a9b6589c714fd470b71d0e5b19095691cc2086f8",
+      "size": 75844
     },
     "ability_translate/shaman.json": {
       "sha256": "c576239fde3b20c3fdc0d7ce8ae5638c1a3caebb9a187bacd7322970b67afa0a",
