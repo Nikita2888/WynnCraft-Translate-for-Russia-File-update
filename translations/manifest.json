@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "files": {
     "ability_translate/archer.json": {
       "sha256": "48eb43f6694652c429d4d730ac8372c73df7217e4fc7725ef2d3c37e0f5554ce",
@@ -18,8 +18,8 @@
       "size": 66289
     },
     "ability_translate/warrior.json": {
-      "sha256": "de624365d34e2d70f7296a627736741bbe409d350f924b85523abbfa29d77934",
-      "size": 59690
+      "sha256": "4a055d43c6ddc6630aac8200d57f4600b4a6e329fe5e448a88f5289b8af48cf3",
+      "size": 68941
     },
     "character_info.json": {
       "sha256": "a93f85851d6710c781ea86300ac858ad517016861bafba61614b8dc4b8e96291",
