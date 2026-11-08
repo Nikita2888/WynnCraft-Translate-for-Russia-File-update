@@ -1,8 +1,8 @@
 {
-  "version": 28,
+  "version": 29,
   "files": {
     "ability_translate/archer.json": {
-      "sha256": "48eb43f6694652c429d4d730ac8372c73df7217e4fc7725ef2d3c37e0f5554ce",
+      "sha256": "0820aa600579de9243053260b1dc4e0848849cbf5fb033ac62d4ce2752d37a59",
       "size": 74945
     },
     "ability_translate/assassin.json": {
